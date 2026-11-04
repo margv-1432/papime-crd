@@ -1,0 +1,4 @@
+"Leyendas."
+"C1","Precios F.O.B."
+"C2","Precios C.I.F. (Total F.O.B.)"
+"C3","Total"

@@ -1,0 +1,3 @@
+"Leyendas."
+"C1","Demanda final"
+"C2","Precios F.O.B"
