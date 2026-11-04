@@ -1,0 +1,2502 @@
+﻿n,NOM_ENT,Subsector
+1,Aguascalientes,111 - Agricultura
+2,Aguascalientes,112 - Cría y explotación de animales
+3,Aguascalientes,113 - Aprovechamiento forestal
+4,Aguascalientes,"114 - Pesca, caza y captura"
+5,Aguascalientes,115 - Servicios relacionados con las actividades agropecuarias y forestales
+6,Aguascalientes,211 - Extracción de petróleo y gas
+7,Aguascalientes,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+8,Aguascalientes,213 - Servicios relacionados con la minería
+9,Aguascalientes,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+10,Aguascalientes,236 - Edificación
+11,Aguascalientes,237 - Construcción de obras de ingeniería civil
+12,Aguascalientes,238 - Trabajos especializados para la construcción
+13,Aguascalientes,311 - Industria alimentaria
+14,Aguascalientes,312 - Industria de las bebidas y del tabaco
+15,Aguascalientes,313 - Fabricación de insumos textiles y acabado de textiles
+16,Aguascalientes,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+17,Aguascalientes,315 - Fabricación de prendas de vestir
+18,Aguascalientes,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+19,Aguascalientes,321 - Industria de la madera
+20,Aguascalientes,322 - Industria del papel
+21,Aguascalientes,323 - Impresión e industrias conexas
+22,Aguascalientes,324 - Fabricación de productos derivados del petróleo y del carbón
+23,Aguascalientes,325 - Industria química
+24,Aguascalientes,326 - Industria del plástico y del hule
+25,Aguascalientes,327 - Fabricación de productos a base de minerales no metálicos
+26,Aguascalientes,331 - Industrias metálicas básicas
+27,Aguascalientes,332 - Fabricación de productos metálicos
+28,Aguascalientes,333 - Fabricación de maquinaria y equipo
+29,Aguascalientes,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+30,Aguascalientes,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+31,Aguascalientes,336 - Fabricación de equipo de transporte
+32,Aguascalientes,"337 - Fabricación de muebles, colchones y persianas"
+33,Aguascalientes,339 - Otras industrias manufactureras
+34,Aguascalientes,43 - Comercio al por mayor
+35,Aguascalientes,46 - Comercio al por menor
+36,Aguascalientes,481 - Transporte aéreo
+37,Aguascalientes,482 - Transporte por ferrocarril
+38,Aguascalientes,483 - Transporte por agua
+39,Aguascalientes,484 - Autotransporte de carga
+40,Aguascalientes,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+41,Aguascalientes,486 - Transporte por ductos
+42,Aguascalientes,487 - Transporte turístico
+43,Aguascalientes,488 - Servicios relacionados con el transporte
+44,Aguascalientes,491 - Servicios postales
+45,Aguascalientes,492 - Servicios de mensajería y paquetería
+46,Aguascalientes,493 - Servicios de almacenamiento
+47,Aguascalientes,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+48,Aguascalientes,"512 - Industria fílmica y del video, e industria del sonido"
+49,Aguascalientes,515 - Radio y televisión
+50,Aguascalientes,517 - Telecomunicaciones
+51,Aguascalientes,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+52,Aguascalientes,519 - Otros servicios de información
+53,Aguascalientes,521 - Banca central
+54,Aguascalientes,522 - Instituciones de intermediación crediticia y financiera no bursátil
+55,Aguascalientes,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+56,Aguascalientes,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+57,Aguascalientes,531 - Servicios inmobiliarios
+58,Aguascalientes,532 - Servicios de alquiler de bienes muebles
+59,Aguascalientes,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+60,Aguascalientes,"541 - Servicios profesionales, científicos y técnicos"
+61,Aguascalientes,551 - Corporativos
+62,Aguascalientes,561 - Servicios de apoyo a los negocios
+63,Aguascalientes,562 - Manejo de residuos y servicios de remediación
+64,Aguascalientes,611 - Servicios educativos
+65,Aguascalientes,621 - Servicios médicos de consulta externa y servicios relacionados
+66,Aguascalientes,622 - Hospitales
+67,Aguascalientes,623 - Residencias de asistencia social y para el cuidado de la salud
+68,Aguascalientes,624 - Otros servicios de asistencia social
+69,Aguascalientes,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+70,Aguascalientes,"712 - Museos, sitios históricos, zoológicos y similares"
+71,Aguascalientes,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+72,Aguascalientes,721 - Servicios de alojamiento temporal
+73,Aguascalientes,722 - Servicios de preparación de alimentos y bebidas
+74,Aguascalientes,811 - Servicios de reparación y mantenimiento
+75,Aguascalientes,812 - Servicios personales
+76,Aguascalientes,813 - Asociaciones y organizaciones
+77,Aguascalientes,814 - Hogares con empleados domésticos
+78,Aguascalientes,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+79,Baja California,111 - Agricultura
+80,Baja California,112 - Cría y explotación de animales
+81,Baja California,113 - Aprovechamiento forestal
+82,Baja California,"114 - Pesca, caza y captura"
+83,Baja California,115 - Servicios relacionados con las actividades agropecuarias y forestales
+84,Baja California,211 - Extracción de petróleo y gas
+85,Baja California,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+86,Baja California,213 - Servicios relacionados con la minería
+87,Baja California,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+88,Baja California,236 - Edificación
+89,Baja California,237 - Construcción de obras de ingeniería civil
+90,Baja California,238 - Trabajos especializados para la construcción
+91,Baja California,311 - Industria alimentaria
+92,Baja California,312 - Industria de las bebidas y del tabaco
+93,Baja California,313 - Fabricación de insumos textiles y acabado de textiles
+94,Baja California,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+95,Baja California,315 - Fabricación de prendas de vestir
+96,Baja California,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+97,Baja California,321 - Industria de la madera
+98,Baja California,322 - Industria del papel
+99,Baja California,323 - Impresión e industrias conexas
+100,Baja California,324 - Fabricación de productos derivados del petróleo y del carbón
+101,Baja California,325 - Industria química
+102,Baja California,326 - Industria del plástico y del hule
+103,Baja California,327 - Fabricación de productos a base de minerales no metálicos
+104,Baja California,331 - Industrias metálicas básicas
+105,Baja California,332 - Fabricación de productos metálicos
+106,Baja California,333 - Fabricación de maquinaria y equipo
+107,Baja California,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+108,Baja California,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+109,Baja California,336 - Fabricación de equipo de transporte
+110,Baja California,"337 - Fabricación de muebles, colchones y persianas"
+111,Baja California,339 - Otras industrias manufactureras
+112,Baja California,43 - Comercio al por mayor
+113,Baja California,46 - Comercio al por menor
+114,Baja California,481 - Transporte aéreo
+115,Baja California,482 - Transporte por ferrocarril
+116,Baja California,483 - Transporte por agua
+117,Baja California,484 - Autotransporte de carga
+118,Baja California,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+119,Baja California,486 - Transporte por ductos
+120,Baja California,487 - Transporte turístico
+121,Baja California,488 - Servicios relacionados con el transporte
+122,Baja California,491 - Servicios postales
+123,Baja California,492 - Servicios de mensajería y paquetería
+124,Baja California,493 - Servicios de almacenamiento
+125,Baja California,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+126,Baja California,"512 - Industria fílmica y del video, e industria del sonido"
+127,Baja California,515 - Radio y televisión
+128,Baja California,517 - Telecomunicaciones
+129,Baja California,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+130,Baja California,519 - Otros servicios de información
+131,Baja California,521 - Banca central
+132,Baja California,522 - Instituciones de intermediación crediticia y financiera no bursátil
+133,Baja California,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+134,Baja California,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+135,Baja California,531 - Servicios inmobiliarios
+136,Baja California,532 - Servicios de alquiler de bienes muebles
+137,Baja California,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+138,Baja California,"541 - Servicios profesionales, científicos y técnicos"
+139,Baja California,551 - Corporativos
+140,Baja California,561 - Servicios de apoyo a los negocios
+141,Baja California,562 - Manejo de residuos y servicios de remediación
+142,Baja California,611 - Servicios educativos
+143,Baja California,621 - Servicios médicos de consulta externa y servicios relacionados
+144,Baja California,622 - Hospitales
+145,Baja California,623 - Residencias de asistencia social y para el cuidado de la salud
+146,Baja California,624 - Otros servicios de asistencia social
+147,Baja California,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+148,Baja California,"712 - Museos, sitios históricos, zoológicos y similares"
+149,Baja California,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+150,Baja California,721 - Servicios de alojamiento temporal
+151,Baja California,722 - Servicios de preparación de alimentos y bebidas
+152,Baja California,811 - Servicios de reparación y mantenimiento
+153,Baja California,812 - Servicios personales
+154,Baja California,813 - Asociaciones y organizaciones
+155,Baja California,814 - Hogares con empleados domésticos
+156,Baja California,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+157,Baja California Sur,111 - Agricultura
+158,Baja California Sur,112 - Cría y explotación de animales
+159,Baja California Sur,113 - Aprovechamiento forestal
+160,Baja California Sur,"114 - Pesca, caza y captura"
+161,Baja California Sur,115 - Servicios relacionados con las actividades agropecuarias y forestales
+162,Baja California Sur,211 - Extracción de petróleo y gas
+163,Baja California Sur,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+164,Baja California Sur,213 - Servicios relacionados con la minería
+165,Baja California Sur,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+166,Baja California Sur,236 - Edificación
+167,Baja California Sur,237 - Construcción de obras de ingeniería civil
+168,Baja California Sur,238 - Trabajos especializados para la construcción
+169,Baja California Sur,311 - Industria alimentaria
+170,Baja California Sur,312 - Industria de las bebidas y del tabaco
+171,Baja California Sur,313 - Fabricación de insumos textiles y acabado de textiles
+172,Baja California Sur,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+173,Baja California Sur,315 - Fabricación de prendas de vestir
+174,Baja California Sur,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+175,Baja California Sur,321 - Industria de la madera
+176,Baja California Sur,322 - Industria del papel
+177,Baja California Sur,323 - Impresión e industrias conexas
+178,Baja California Sur,324 - Fabricación de productos derivados del petróleo y del carbón
+179,Baja California Sur,325 - Industria química
+180,Baja California Sur,326 - Industria del plástico y del hule
+181,Baja California Sur,327 - Fabricación de productos a base de minerales no metálicos
+182,Baja California Sur,331 - Industrias metálicas básicas
+183,Baja California Sur,332 - Fabricación de productos metálicos
+184,Baja California Sur,333 - Fabricación de maquinaria y equipo
+185,Baja California Sur,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+186,Baja California Sur,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+187,Baja California Sur,336 - Fabricación de equipo de transporte
+188,Baja California Sur,"337 - Fabricación de muebles, colchones y persianas"
+189,Baja California Sur,339 - Otras industrias manufactureras
+190,Baja California Sur,43 - Comercio al por mayor
+191,Baja California Sur,46 - Comercio al por menor
+192,Baja California Sur,481 - Transporte aéreo
+193,Baja California Sur,482 - Transporte por ferrocarril
+194,Baja California Sur,483 - Transporte por agua
+195,Baja California Sur,484 - Autotransporte de carga
+196,Baja California Sur,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+197,Baja California Sur,486 - Transporte por ductos
+198,Baja California Sur,487 - Transporte turístico
+199,Baja California Sur,488 - Servicios relacionados con el transporte
+200,Baja California Sur,491 - Servicios postales
+201,Baja California Sur,492 - Servicios de mensajería y paquetería
+202,Baja California Sur,493 - Servicios de almacenamiento
+203,Baja California Sur,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+204,Baja California Sur,"512 - Industria fílmica y del video, e industria del sonido"
+205,Baja California Sur,515 - Radio y televisión
+206,Baja California Sur,517 - Telecomunicaciones
+207,Baja California Sur,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+208,Baja California Sur,519 - Otros servicios de información
+209,Baja California Sur,521 - Banca central
+210,Baja California Sur,522 - Instituciones de intermediación crediticia y financiera no bursátil
+211,Baja California Sur,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+212,Baja California Sur,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+213,Baja California Sur,531 - Servicios inmobiliarios
+214,Baja California Sur,532 - Servicios de alquiler de bienes muebles
+215,Baja California Sur,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+216,Baja California Sur,"541 - Servicios profesionales, científicos y técnicos"
+217,Baja California Sur,551 - Corporativos
+218,Baja California Sur,561 - Servicios de apoyo a los negocios
+219,Baja California Sur,562 - Manejo de residuos y servicios de remediación
+220,Baja California Sur,611 - Servicios educativos
+221,Baja California Sur,621 - Servicios médicos de consulta externa y servicios relacionados
+222,Baja California Sur,622 - Hospitales
+223,Baja California Sur,623 - Residencias de asistencia social y para el cuidado de la salud
+224,Baja California Sur,624 - Otros servicios de asistencia social
+225,Baja California Sur,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+226,Baja California Sur,"712 - Museos, sitios históricos, zoológicos y similares"
+227,Baja California Sur,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+228,Baja California Sur,721 - Servicios de alojamiento temporal
+229,Baja California Sur,722 - Servicios de preparación de alimentos y bebidas
+230,Baja California Sur,811 - Servicios de reparación y mantenimiento
+231,Baja California Sur,812 - Servicios personales
+232,Baja California Sur,813 - Asociaciones y organizaciones
+233,Baja California Sur,814 - Hogares con empleados domésticos
+234,Baja California Sur,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+235,Campeche,111 - Agricultura
+236,Campeche,112 - Cría y explotación de animales
+237,Campeche,113 - Aprovechamiento forestal
+238,Campeche,"114 - Pesca, caza y captura"
+239,Campeche,115 - Servicios relacionados con las actividades agropecuarias y forestales
+240,Campeche,211 - Extracción de petróleo y gas
+241,Campeche,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+242,Campeche,213 - Servicios relacionados con la minería
+243,Campeche,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+244,Campeche,236 - Edificación
+245,Campeche,237 - Construcción de obras de ingeniería civil
+246,Campeche,238 - Trabajos especializados para la construcción
+247,Campeche,311 - Industria alimentaria
+248,Campeche,312 - Industria de las bebidas y del tabaco
+249,Campeche,313 - Fabricación de insumos textiles y acabado de textiles
+250,Campeche,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+251,Campeche,315 - Fabricación de prendas de vestir
+252,Campeche,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+253,Campeche,321 - Industria de la madera
+254,Campeche,322 - Industria del papel
+255,Campeche,323 - Impresión e industrias conexas
+256,Campeche,324 - Fabricación de productos derivados del petróleo y del carbón
+257,Campeche,325 - Industria química
+258,Campeche,326 - Industria del plástico y del hule
+259,Campeche,327 - Fabricación de productos a base de minerales no metálicos
+260,Campeche,331 - Industrias metálicas básicas
+261,Campeche,332 - Fabricación de productos metálicos
+262,Campeche,333 - Fabricación de maquinaria y equipo
+263,Campeche,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+264,Campeche,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+265,Campeche,336 - Fabricación de equipo de transporte
+266,Campeche,"337 - Fabricación de muebles, colchones y persianas"
+267,Campeche,339 - Otras industrias manufactureras
+268,Campeche,43 - Comercio al por mayor
+269,Campeche,46 - Comercio al por menor
+270,Campeche,481 - Transporte aéreo
+271,Campeche,482 - Transporte por ferrocarril
+272,Campeche,483 - Transporte por agua
+273,Campeche,484 - Autotransporte de carga
+274,Campeche,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+275,Campeche,486 - Transporte por ductos
+276,Campeche,487 - Transporte turístico
+277,Campeche,488 - Servicios relacionados con el transporte
+278,Campeche,491 - Servicios postales
+279,Campeche,492 - Servicios de mensajería y paquetería
+280,Campeche,493 - Servicios de almacenamiento
+281,Campeche,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+282,Campeche,"512 - Industria fílmica y del video, e industria del sonido"
+283,Campeche,515 - Radio y televisión
+284,Campeche,517 - Telecomunicaciones
+285,Campeche,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+286,Campeche,519 - Otros servicios de información
+287,Campeche,521 - Banca central
+288,Campeche,522 - Instituciones de intermediación crediticia y financiera no bursátil
+289,Campeche,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+290,Campeche,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+291,Campeche,531 - Servicios inmobiliarios
+292,Campeche,532 - Servicios de alquiler de bienes muebles
+293,Campeche,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+294,Campeche,"541 - Servicios profesionales, científicos y técnicos"
+295,Campeche,551 - Corporativos
+296,Campeche,561 - Servicios de apoyo a los negocios
+297,Campeche,562 - Manejo de residuos y servicios de remediación
+298,Campeche,611 - Servicios educativos
+299,Campeche,621 - Servicios médicos de consulta externa y servicios relacionados
+300,Campeche,622 - Hospitales
+301,Campeche,623 - Residencias de asistencia social y para el cuidado de la salud
+302,Campeche,624 - Otros servicios de asistencia social
+303,Campeche,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+304,Campeche,"712 - Museos, sitios históricos, zoológicos y similares"
+305,Campeche,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+306,Campeche,721 - Servicios de alojamiento temporal
+307,Campeche,722 - Servicios de preparación de alimentos y bebidas
+308,Campeche,811 - Servicios de reparación y mantenimiento
+309,Campeche,812 - Servicios personales
+310,Campeche,813 - Asociaciones y organizaciones
+311,Campeche,814 - Hogares con empleados domésticos
+312,Campeche,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+313,Coahuila de Zaragoza,111 - Agricultura
+314,Coahuila de Zaragoza,112 - Cría y explotación de animales
+315,Coahuila de Zaragoza,113 - Aprovechamiento forestal
+316,Coahuila de Zaragoza,"114 - Pesca, caza y captura"
+317,Coahuila de Zaragoza,115 - Servicios relacionados con las actividades agropecuarias y forestales
+318,Coahuila de Zaragoza,211 - Extracción de petróleo y gas
+319,Coahuila de Zaragoza,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+320,Coahuila de Zaragoza,213 - Servicios relacionados con la minería
+321,Coahuila de Zaragoza,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+322,Coahuila de Zaragoza,236 - Edificación
+323,Coahuila de Zaragoza,237 - Construcción de obras de ingeniería civil
+324,Coahuila de Zaragoza,238 - Trabajos especializados para la construcción
+325,Coahuila de Zaragoza,311 - Industria alimentaria
+326,Coahuila de Zaragoza,312 - Industria de las bebidas y del tabaco
+327,Coahuila de Zaragoza,313 - Fabricación de insumos textiles y acabado de textiles
+328,Coahuila de Zaragoza,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+329,Coahuila de Zaragoza,315 - Fabricación de prendas de vestir
+330,Coahuila de Zaragoza,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+331,Coahuila de Zaragoza,321 - Industria de la madera
+332,Coahuila de Zaragoza,322 - Industria del papel
+333,Coahuila de Zaragoza,323 - Impresión e industrias conexas
+334,Coahuila de Zaragoza,324 - Fabricación de productos derivados del petróleo y del carbón
+335,Coahuila de Zaragoza,325 - Industria química
+336,Coahuila de Zaragoza,326 - Industria del plástico y del hule
+337,Coahuila de Zaragoza,327 - Fabricación de productos a base de minerales no metálicos
+338,Coahuila de Zaragoza,331 - Industrias metálicas básicas
+339,Coahuila de Zaragoza,332 - Fabricación de productos metálicos
+340,Coahuila de Zaragoza,333 - Fabricación de maquinaria y equipo
+341,Coahuila de Zaragoza,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+342,Coahuila de Zaragoza,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+343,Coahuila de Zaragoza,336 - Fabricación de equipo de transporte
+344,Coahuila de Zaragoza,"337 - Fabricación de muebles, colchones y persianas"
+345,Coahuila de Zaragoza,339 - Otras industrias manufactureras
+346,Coahuila de Zaragoza,43 - Comercio al por mayor
+347,Coahuila de Zaragoza,46 - Comercio al por menor
+348,Coahuila de Zaragoza,481 - Transporte aéreo
+349,Coahuila de Zaragoza,482 - Transporte por ferrocarril
+350,Coahuila de Zaragoza,483 - Transporte por agua
+351,Coahuila de Zaragoza,484 - Autotransporte de carga
+352,Coahuila de Zaragoza,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+353,Coahuila de Zaragoza,486 - Transporte por ductos
+354,Coahuila de Zaragoza,487 - Transporte turístico
+355,Coahuila de Zaragoza,488 - Servicios relacionados con el transporte
+356,Coahuila de Zaragoza,491 - Servicios postales
+357,Coahuila de Zaragoza,492 - Servicios de mensajería y paquetería
+358,Coahuila de Zaragoza,493 - Servicios de almacenamiento
+359,Coahuila de Zaragoza,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+360,Coahuila de Zaragoza,"512 - Industria fílmica y del video, e industria del sonido"
+361,Coahuila de Zaragoza,515 - Radio y televisión
+362,Coahuila de Zaragoza,517 - Telecomunicaciones
+363,Coahuila de Zaragoza,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+364,Coahuila de Zaragoza,519 - Otros servicios de información
+365,Coahuila de Zaragoza,521 - Banca central
+366,Coahuila de Zaragoza,522 - Instituciones de intermediación crediticia y financiera no bursátil
+367,Coahuila de Zaragoza,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+368,Coahuila de Zaragoza,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+369,Coahuila de Zaragoza,531 - Servicios inmobiliarios
+370,Coahuila de Zaragoza,532 - Servicios de alquiler de bienes muebles
+371,Coahuila de Zaragoza,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+372,Coahuila de Zaragoza,"541 - Servicios profesionales, científicos y técnicos"
+373,Coahuila de Zaragoza,551 - Corporativos
+374,Coahuila de Zaragoza,561 - Servicios de apoyo a los negocios
+375,Coahuila de Zaragoza,562 - Manejo de residuos y servicios de remediación
+376,Coahuila de Zaragoza,611 - Servicios educativos
+377,Coahuila de Zaragoza,621 - Servicios médicos de consulta externa y servicios relacionados
+378,Coahuila de Zaragoza,622 - Hospitales
+379,Coahuila de Zaragoza,623 - Residencias de asistencia social y para el cuidado de la salud
+380,Coahuila de Zaragoza,624 - Otros servicios de asistencia social
+381,Coahuila de Zaragoza,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+382,Coahuila de Zaragoza,"712 - Museos, sitios históricos, zoológicos y similares"
+383,Coahuila de Zaragoza,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+384,Coahuila de Zaragoza,721 - Servicios de alojamiento temporal
+385,Coahuila de Zaragoza,722 - Servicios de preparación de alimentos y bebidas
+386,Coahuila de Zaragoza,811 - Servicios de reparación y mantenimiento
+387,Coahuila de Zaragoza,812 - Servicios personales
+388,Coahuila de Zaragoza,813 - Asociaciones y organizaciones
+389,Coahuila de Zaragoza,814 - Hogares con empleados domésticos
+390,Coahuila de Zaragoza,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+391,Colima,111 - Agricultura
+392,Colima,112 - Cría y explotación de animales
+393,Colima,113 - Aprovechamiento forestal
+394,Colima,"114 - Pesca, caza y captura"
+395,Colima,115 - Servicios relacionados con las actividades agropecuarias y forestales
+396,Colima,211 - Extracción de petróleo y gas
+397,Colima,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+398,Colima,213 - Servicios relacionados con la minería
+399,Colima,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+400,Colima,236 - Edificación
+401,Colima,237 - Construcción de obras de ingeniería civil
+402,Colima,238 - Trabajos especializados para la construcción
+403,Colima,311 - Industria alimentaria
+404,Colima,312 - Industria de las bebidas y del tabaco
+405,Colima,313 - Fabricación de insumos textiles y acabado de textiles
+406,Colima,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+407,Colima,315 - Fabricación de prendas de vestir
+408,Colima,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+409,Colima,321 - Industria de la madera
+410,Colima,322 - Industria del papel
+411,Colima,323 - Impresión e industrias conexas
+412,Colima,324 - Fabricación de productos derivados del petróleo y del carbón
+413,Colima,325 - Industria química
+414,Colima,326 - Industria del plástico y del hule
+415,Colima,327 - Fabricación de productos a base de minerales no metálicos
+416,Colima,331 - Industrias metálicas básicas
+417,Colima,332 - Fabricación de productos metálicos
+418,Colima,333 - Fabricación de maquinaria y equipo
+419,Colima,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+420,Colima,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+421,Colima,336 - Fabricación de equipo de transporte
+422,Colima,"337 - Fabricación de muebles, colchones y persianas"
+423,Colima,339 - Otras industrias manufactureras
+424,Colima,43 - Comercio al por mayor
+425,Colima,46 - Comercio al por menor
+426,Colima,481 - Transporte aéreo
+427,Colima,482 - Transporte por ferrocarril
+428,Colima,483 - Transporte por agua
+429,Colima,484 - Autotransporte de carga
+430,Colima,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+431,Colima,486 - Transporte por ductos
+432,Colima,487 - Transporte turístico
+433,Colima,488 - Servicios relacionados con el transporte
+434,Colima,491 - Servicios postales
+435,Colima,492 - Servicios de mensajería y paquetería
+436,Colima,493 - Servicios de almacenamiento
+437,Colima,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+438,Colima,"512 - Industria fílmica y del video, e industria del sonido"
+439,Colima,515 - Radio y televisión
+440,Colima,517 - Telecomunicaciones
+441,Colima,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+442,Colima,519 - Otros servicios de información
+443,Colima,521 - Banca central
+444,Colima,522 - Instituciones de intermediación crediticia y financiera no bursátil
+445,Colima,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+446,Colima,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+447,Colima,531 - Servicios inmobiliarios
+448,Colima,532 - Servicios de alquiler de bienes muebles
+449,Colima,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+450,Colima,"541 - Servicios profesionales, científicos y técnicos"
+451,Colima,551 - Corporativos
+452,Colima,561 - Servicios de apoyo a los negocios
+453,Colima,562 - Manejo de residuos y servicios de remediación
+454,Colima,611 - Servicios educativos
+455,Colima,621 - Servicios médicos de consulta externa y servicios relacionados
+456,Colima,622 - Hospitales
+457,Colima,623 - Residencias de asistencia social y para el cuidado de la salud
+458,Colima,624 - Otros servicios de asistencia social
+459,Colima,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+460,Colima,"712 - Museos, sitios históricos, zoológicos y similares"
+461,Colima,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+462,Colima,721 - Servicios de alojamiento temporal
+463,Colima,722 - Servicios de preparación de alimentos y bebidas
+464,Colima,811 - Servicios de reparación y mantenimiento
+465,Colima,812 - Servicios personales
+466,Colima,813 - Asociaciones y organizaciones
+467,Colima,814 - Hogares con empleados domésticos
+468,Colima,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+469,Chiapas,111 - Agricultura
+470,Chiapas,112 - Cría y explotación de animales
+471,Chiapas,113 - Aprovechamiento forestal
+472,Chiapas,"114 - Pesca, caza y captura"
+473,Chiapas,115 - Servicios relacionados con las actividades agropecuarias y forestales
+474,Chiapas,211 - Extracción de petróleo y gas
+475,Chiapas,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+476,Chiapas,213 - Servicios relacionados con la minería
+477,Chiapas,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+478,Chiapas,236 - Edificación
+479,Chiapas,237 - Construcción de obras de ingeniería civil
+480,Chiapas,238 - Trabajos especializados para la construcción
+481,Chiapas,311 - Industria alimentaria
+482,Chiapas,312 - Industria de las bebidas y del tabaco
+483,Chiapas,313 - Fabricación de insumos textiles y acabado de textiles
+484,Chiapas,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+485,Chiapas,315 - Fabricación de prendas de vestir
+486,Chiapas,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+487,Chiapas,321 - Industria de la madera
+488,Chiapas,322 - Industria del papel
+489,Chiapas,323 - Impresión e industrias conexas
+490,Chiapas,324 - Fabricación de productos derivados del petróleo y del carbón
+491,Chiapas,325 - Industria química
+492,Chiapas,326 - Industria del plástico y del hule
+493,Chiapas,327 - Fabricación de productos a base de minerales no metálicos
+494,Chiapas,331 - Industrias metálicas básicas
+495,Chiapas,332 - Fabricación de productos metálicos
+496,Chiapas,333 - Fabricación de maquinaria y equipo
+497,Chiapas,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+498,Chiapas,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+499,Chiapas,336 - Fabricación de equipo de transporte
+500,Chiapas,"337 - Fabricación de muebles, colchones y persianas"
+501,Chiapas,339 - Otras industrias manufactureras
+502,Chiapas,43 - Comercio al por mayor
+503,Chiapas,46 - Comercio al por menor
+504,Chiapas,481 - Transporte aéreo
+505,Chiapas,482 - Transporte por ferrocarril
+506,Chiapas,483 - Transporte por agua
+507,Chiapas,484 - Autotransporte de carga
+508,Chiapas,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+509,Chiapas,486 - Transporte por ductos
+510,Chiapas,487 - Transporte turístico
+511,Chiapas,488 - Servicios relacionados con el transporte
+512,Chiapas,491 - Servicios postales
+513,Chiapas,492 - Servicios de mensajería y paquetería
+514,Chiapas,493 - Servicios de almacenamiento
+515,Chiapas,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+516,Chiapas,"512 - Industria fílmica y del video, e industria del sonido"
+517,Chiapas,515 - Radio y televisión
+518,Chiapas,517 - Telecomunicaciones
+519,Chiapas,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+520,Chiapas,519 - Otros servicios de información
+521,Chiapas,521 - Banca central
+522,Chiapas,522 - Instituciones de intermediación crediticia y financiera no bursátil
+523,Chiapas,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+524,Chiapas,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+525,Chiapas,531 - Servicios inmobiliarios
+526,Chiapas,532 - Servicios de alquiler de bienes muebles
+527,Chiapas,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+528,Chiapas,"541 - Servicios profesionales, científicos y técnicos"
+529,Chiapas,551 - Corporativos
+530,Chiapas,561 - Servicios de apoyo a los negocios
+531,Chiapas,562 - Manejo de residuos y servicios de remediación
+532,Chiapas,611 - Servicios educativos
+533,Chiapas,621 - Servicios médicos de consulta externa y servicios relacionados
+534,Chiapas,622 - Hospitales
+535,Chiapas,623 - Residencias de asistencia social y para el cuidado de la salud
+536,Chiapas,624 - Otros servicios de asistencia social
+537,Chiapas,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+538,Chiapas,"712 - Museos, sitios históricos, zoológicos y similares"
+539,Chiapas,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+540,Chiapas,721 - Servicios de alojamiento temporal
+541,Chiapas,722 - Servicios de preparación de alimentos y bebidas
+542,Chiapas,811 - Servicios de reparación y mantenimiento
+543,Chiapas,812 - Servicios personales
+544,Chiapas,813 - Asociaciones y organizaciones
+545,Chiapas,814 - Hogares con empleados domésticos
+546,Chiapas,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+547,Chihuahua,111 - Agricultura
+548,Chihuahua,112 - Cría y explotación de animales
+549,Chihuahua,113 - Aprovechamiento forestal
+550,Chihuahua,"114 - Pesca, caza y captura"
+551,Chihuahua,115 - Servicios relacionados con las actividades agropecuarias y forestales
+552,Chihuahua,211 - Extracción de petróleo y gas
+553,Chihuahua,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+554,Chihuahua,213 - Servicios relacionados con la minería
+555,Chihuahua,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+556,Chihuahua,236 - Edificación
+557,Chihuahua,237 - Construcción de obras de ingeniería civil
+558,Chihuahua,238 - Trabajos especializados para la construcción
+559,Chihuahua,311 - Industria alimentaria
+560,Chihuahua,312 - Industria de las bebidas y del tabaco
+561,Chihuahua,313 - Fabricación de insumos textiles y acabado de textiles
+562,Chihuahua,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+563,Chihuahua,315 - Fabricación de prendas de vestir
+564,Chihuahua,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+565,Chihuahua,321 - Industria de la madera
+566,Chihuahua,322 - Industria del papel
+567,Chihuahua,323 - Impresión e industrias conexas
+568,Chihuahua,324 - Fabricación de productos derivados del petróleo y del carbón
+569,Chihuahua,325 - Industria química
+570,Chihuahua,326 - Industria del plástico y del hule
+571,Chihuahua,327 - Fabricación de productos a base de minerales no metálicos
+572,Chihuahua,331 - Industrias metálicas básicas
+573,Chihuahua,332 - Fabricación de productos metálicos
+574,Chihuahua,333 - Fabricación de maquinaria y equipo
+575,Chihuahua,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+576,Chihuahua,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+577,Chihuahua,336 - Fabricación de equipo de transporte
+578,Chihuahua,"337 - Fabricación de muebles, colchones y persianas"
+579,Chihuahua,339 - Otras industrias manufactureras
+580,Chihuahua,43 - Comercio al por mayor
+581,Chihuahua,46 - Comercio al por menor
+582,Chihuahua,481 - Transporte aéreo
+583,Chihuahua,482 - Transporte por ferrocarril
+584,Chihuahua,483 - Transporte por agua
+585,Chihuahua,484 - Autotransporte de carga
+586,Chihuahua,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+587,Chihuahua,486 - Transporte por ductos
+588,Chihuahua,487 - Transporte turístico
+589,Chihuahua,488 - Servicios relacionados con el transporte
+590,Chihuahua,491 - Servicios postales
+591,Chihuahua,492 - Servicios de mensajería y paquetería
+592,Chihuahua,493 - Servicios de almacenamiento
+593,Chihuahua,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+594,Chihuahua,"512 - Industria fílmica y del video, e industria del sonido"
+595,Chihuahua,515 - Radio y televisión
+596,Chihuahua,517 - Telecomunicaciones
+597,Chihuahua,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+598,Chihuahua,519 - Otros servicios de información
+599,Chihuahua,521 - Banca central
+600,Chihuahua,522 - Instituciones de intermediación crediticia y financiera no bursátil
+601,Chihuahua,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+602,Chihuahua,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+603,Chihuahua,531 - Servicios inmobiliarios
+604,Chihuahua,532 - Servicios de alquiler de bienes muebles
+605,Chihuahua,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+606,Chihuahua,"541 - Servicios profesionales, científicos y técnicos"
+607,Chihuahua,551 - Corporativos
+608,Chihuahua,561 - Servicios de apoyo a los negocios
+609,Chihuahua,562 - Manejo de residuos y servicios de remediación
+610,Chihuahua,611 - Servicios educativos
+611,Chihuahua,621 - Servicios médicos de consulta externa y servicios relacionados
+612,Chihuahua,622 - Hospitales
+613,Chihuahua,623 - Residencias de asistencia social y para el cuidado de la salud
+614,Chihuahua,624 - Otros servicios de asistencia social
+615,Chihuahua,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+616,Chihuahua,"712 - Museos, sitios históricos, zoológicos y similares"
+617,Chihuahua,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+618,Chihuahua,721 - Servicios de alojamiento temporal
+619,Chihuahua,722 - Servicios de preparación de alimentos y bebidas
+620,Chihuahua,811 - Servicios de reparación y mantenimiento
+621,Chihuahua,812 - Servicios personales
+622,Chihuahua,813 - Asociaciones y organizaciones
+623,Chihuahua,814 - Hogares con empleados domésticos
+624,Chihuahua,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+625,Ciudad de México,111 - Agricultura
+626,Ciudad de México,112 - Cría y explotación de animales
+627,Ciudad de México,113 - Aprovechamiento forestal
+628,Ciudad de México,"114 - Pesca, caza y captura"
+629,Ciudad de México,115 - Servicios relacionados con las actividades agropecuarias y forestales
+630,Ciudad de México,211 - Extracción de petróleo y gas
+631,Ciudad de México,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+632,Ciudad de México,213 - Servicios relacionados con la minería
+633,Ciudad de México,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+634,Ciudad de México,236 - Edificación
+635,Ciudad de México,237 - Construcción de obras de ingeniería civil
+636,Ciudad de México,238 - Trabajos especializados para la construcción
+637,Ciudad de México,311 - Industria alimentaria
+638,Ciudad de México,312 - Industria de las bebidas y del tabaco
+639,Ciudad de México,313 - Fabricación de insumos textiles y acabado de textiles
+640,Ciudad de México,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+641,Ciudad de México,315 - Fabricación de prendas de vestir
+642,Ciudad de México,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+643,Ciudad de México,321 - Industria de la madera
+644,Ciudad de México,322 - Industria del papel
+645,Ciudad de México,323 - Impresión e industrias conexas
+646,Ciudad de México,324 - Fabricación de productos derivados del petróleo y del carbón
+647,Ciudad de México,325 - Industria química
+648,Ciudad de México,326 - Industria del plástico y del hule
+649,Ciudad de México,327 - Fabricación de productos a base de minerales no metálicos
+650,Ciudad de México,331 - Industrias metálicas básicas
+651,Ciudad de México,332 - Fabricación de productos metálicos
+652,Ciudad de México,333 - Fabricación de maquinaria y equipo
+653,Ciudad de México,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+654,Ciudad de México,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+655,Ciudad de México,336 - Fabricación de equipo de transporte
+656,Ciudad de México,"337 - Fabricación de muebles, colchones y persianas"
+657,Ciudad de México,339 - Otras industrias manufactureras
+658,Ciudad de México,43 - Comercio al por mayor
+659,Ciudad de México,46 - Comercio al por menor
+660,Ciudad de México,481 - Transporte aéreo
+661,Ciudad de México,482 - Transporte por ferrocarril
+662,Ciudad de México,483 - Transporte por agua
+663,Ciudad de México,484 - Autotransporte de carga
+664,Ciudad de México,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+665,Ciudad de México,486 - Transporte por ductos
+666,Ciudad de México,487 - Transporte turístico
+667,Ciudad de México,488 - Servicios relacionados con el transporte
+668,Ciudad de México,491 - Servicios postales
+669,Ciudad de México,492 - Servicios de mensajería y paquetería
+670,Ciudad de México,493 - Servicios de almacenamiento
+671,Ciudad de México,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+672,Ciudad de México,"512 - Industria fílmica y del video, e industria del sonido"
+673,Ciudad de México,515 - Radio y televisión
+674,Ciudad de México,517 - Telecomunicaciones
+675,Ciudad de México,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+676,Ciudad de México,519 - Otros servicios de información
+677,Ciudad de México,521 - Banca central
+678,Ciudad de México,522 - Instituciones de intermediación crediticia y financiera no bursátil
+679,Ciudad de México,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+680,Ciudad de México,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+681,Ciudad de México,531 - Servicios inmobiliarios
+682,Ciudad de México,532 - Servicios de alquiler de bienes muebles
+683,Ciudad de México,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+684,Ciudad de México,"541 - Servicios profesionales, científicos y técnicos"
+685,Ciudad de México,551 - Corporativos
+686,Ciudad de México,561 - Servicios de apoyo a los negocios
+687,Ciudad de México,562 - Manejo de residuos y servicios de remediación
+688,Ciudad de México,611 - Servicios educativos
+689,Ciudad de México,621 - Servicios médicos de consulta externa y servicios relacionados
+690,Ciudad de México,622 - Hospitales
+691,Ciudad de México,623 - Residencias de asistencia social y para el cuidado de la salud
+692,Ciudad de México,624 - Otros servicios de asistencia social
+693,Ciudad de México,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+694,Ciudad de México,"712 - Museos, sitios históricos, zoológicos y similares"
+695,Ciudad de México,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+696,Ciudad de México,721 - Servicios de alojamiento temporal
+697,Ciudad de México,722 - Servicios de preparación de alimentos y bebidas
+698,Ciudad de México,811 - Servicios de reparación y mantenimiento
+699,Ciudad de México,812 - Servicios personales
+700,Ciudad de México,813 - Asociaciones y organizaciones
+701,Ciudad de México,814 - Hogares con empleados domésticos
+702,Ciudad de México,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+703,Durango,111 - Agricultura
+704,Durango,112 - Cría y explotación de animales
+705,Durango,113 - Aprovechamiento forestal
+706,Durango,"114 - Pesca, caza y captura"
+707,Durango,115 - Servicios relacionados con las actividades agropecuarias y forestales
+708,Durango,211 - Extracción de petróleo y gas
+709,Durango,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+710,Durango,213 - Servicios relacionados con la minería
+711,Durango,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+712,Durango,236 - Edificación
+713,Durango,237 - Construcción de obras de ingeniería civil
+714,Durango,238 - Trabajos especializados para la construcción
+715,Durango,311 - Industria alimentaria
+716,Durango,312 - Industria de las bebidas y del tabaco
+717,Durango,313 - Fabricación de insumos textiles y acabado de textiles
+718,Durango,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+719,Durango,315 - Fabricación de prendas de vestir
+720,Durango,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+721,Durango,321 - Industria de la madera
+722,Durango,322 - Industria del papel
+723,Durango,323 - Impresión e industrias conexas
+724,Durango,324 - Fabricación de productos derivados del petróleo y del carbón
+725,Durango,325 - Industria química
+726,Durango,326 - Industria del plástico y del hule
+727,Durango,327 - Fabricación de productos a base de minerales no metálicos
+728,Durango,331 - Industrias metálicas básicas
+729,Durango,332 - Fabricación de productos metálicos
+730,Durango,333 - Fabricación de maquinaria y equipo
+731,Durango,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+732,Durango,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+733,Durango,336 - Fabricación de equipo de transporte
+734,Durango,"337 - Fabricación de muebles, colchones y persianas"
+735,Durango,339 - Otras industrias manufactureras
+736,Durango,43 - Comercio al por mayor
+737,Durango,46 - Comercio al por menor
+738,Durango,481 - Transporte aéreo
+739,Durango,482 - Transporte por ferrocarril
+740,Durango,483 - Transporte por agua
+741,Durango,484 - Autotransporte de carga
+742,Durango,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+743,Durango,486 - Transporte por ductos
+744,Durango,487 - Transporte turístico
+745,Durango,488 - Servicios relacionados con el transporte
+746,Durango,491 - Servicios postales
+747,Durango,492 - Servicios de mensajería y paquetería
+748,Durango,493 - Servicios de almacenamiento
+749,Durango,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+750,Durango,"512 - Industria fílmica y del video, e industria del sonido"
+751,Durango,515 - Radio y televisión
+752,Durango,517 - Telecomunicaciones
+753,Durango,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+754,Durango,519 - Otros servicios de información
+755,Durango,521 - Banca central
+756,Durango,522 - Instituciones de intermediación crediticia y financiera no bursátil
+757,Durango,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+758,Durango,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+759,Durango,531 - Servicios inmobiliarios
+760,Durango,532 - Servicios de alquiler de bienes muebles
+761,Durango,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+762,Durango,"541 - Servicios profesionales, científicos y técnicos"
+763,Durango,551 - Corporativos
+764,Durango,561 - Servicios de apoyo a los negocios
+765,Durango,562 - Manejo de residuos y servicios de remediación
+766,Durango,611 - Servicios educativos
+767,Durango,621 - Servicios médicos de consulta externa y servicios relacionados
+768,Durango,622 - Hospitales
+769,Durango,623 - Residencias de asistencia social y para el cuidado de la salud
+770,Durango,624 - Otros servicios de asistencia social
+771,Durango,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+772,Durango,"712 - Museos, sitios históricos, zoológicos y similares"
+773,Durango,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+774,Durango,721 - Servicios de alojamiento temporal
+775,Durango,722 - Servicios de preparación de alimentos y bebidas
+776,Durango,811 - Servicios de reparación y mantenimiento
+777,Durango,812 - Servicios personales
+778,Durango,813 - Asociaciones y organizaciones
+779,Durango,814 - Hogares con empleados domésticos
+780,Durango,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+781,Guanajuato,111 - Agricultura
+782,Guanajuato,112 - Cría y explotación de animales
+783,Guanajuato,113 - Aprovechamiento forestal
+784,Guanajuato,"114 - Pesca, caza y captura"
+785,Guanajuato,115 - Servicios relacionados con las actividades agropecuarias y forestales
+786,Guanajuato,211 - Extracción de petróleo y gas
+787,Guanajuato,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+788,Guanajuato,213 - Servicios relacionados con la minería
+789,Guanajuato,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+790,Guanajuato,236 - Edificación
+791,Guanajuato,237 - Construcción de obras de ingeniería civil
+792,Guanajuato,238 - Trabajos especializados para la construcción
+793,Guanajuato,311 - Industria alimentaria
+794,Guanajuato,312 - Industria de las bebidas y del tabaco
+795,Guanajuato,313 - Fabricación de insumos textiles y acabado de textiles
+796,Guanajuato,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+797,Guanajuato,315 - Fabricación de prendas de vestir
+798,Guanajuato,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+799,Guanajuato,321 - Industria de la madera
+800,Guanajuato,322 - Industria del papel
+801,Guanajuato,323 - Impresión e industrias conexas
+802,Guanajuato,324 - Fabricación de productos derivados del petróleo y del carbón
+803,Guanajuato,325 - Industria química
+804,Guanajuato,326 - Industria del plástico y del hule
+805,Guanajuato,327 - Fabricación de productos a base de minerales no metálicos
+806,Guanajuato,331 - Industrias metálicas básicas
+807,Guanajuato,332 - Fabricación de productos metálicos
+808,Guanajuato,333 - Fabricación de maquinaria y equipo
+809,Guanajuato,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+810,Guanajuato,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+811,Guanajuato,336 - Fabricación de equipo de transporte
+812,Guanajuato,"337 - Fabricación de muebles, colchones y persianas"
+813,Guanajuato,339 - Otras industrias manufactureras
+814,Guanajuato,43 - Comercio al por mayor
+815,Guanajuato,46 - Comercio al por menor
+816,Guanajuato,481 - Transporte aéreo
+817,Guanajuato,482 - Transporte por ferrocarril
+818,Guanajuato,483 - Transporte por agua
+819,Guanajuato,484 - Autotransporte de carga
+820,Guanajuato,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+821,Guanajuato,486 - Transporte por ductos
+822,Guanajuato,487 - Transporte turístico
+823,Guanajuato,488 - Servicios relacionados con el transporte
+824,Guanajuato,491 - Servicios postales
+825,Guanajuato,492 - Servicios de mensajería y paquetería
+826,Guanajuato,493 - Servicios de almacenamiento
+827,Guanajuato,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+828,Guanajuato,"512 - Industria fílmica y del video, e industria del sonido"
+829,Guanajuato,515 - Radio y televisión
+830,Guanajuato,517 - Telecomunicaciones
+831,Guanajuato,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+832,Guanajuato,519 - Otros servicios de información
+833,Guanajuato,521 - Banca central
+834,Guanajuato,522 - Instituciones de intermediación crediticia y financiera no bursátil
+835,Guanajuato,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+836,Guanajuato,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+837,Guanajuato,531 - Servicios inmobiliarios
+838,Guanajuato,532 - Servicios de alquiler de bienes muebles
+839,Guanajuato,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+840,Guanajuato,"541 - Servicios profesionales, científicos y técnicos"
+841,Guanajuato,551 - Corporativos
+842,Guanajuato,561 - Servicios de apoyo a los negocios
+843,Guanajuato,562 - Manejo de residuos y servicios de remediación
+844,Guanajuato,611 - Servicios educativos
+845,Guanajuato,621 - Servicios médicos de consulta externa y servicios relacionados
+846,Guanajuato,622 - Hospitales
+847,Guanajuato,623 - Residencias de asistencia social y para el cuidado de la salud
+848,Guanajuato,624 - Otros servicios de asistencia social
+849,Guanajuato,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+850,Guanajuato,"712 - Museos, sitios históricos, zoológicos y similares"
+851,Guanajuato,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+852,Guanajuato,721 - Servicios de alojamiento temporal
+853,Guanajuato,722 - Servicios de preparación de alimentos y bebidas
+854,Guanajuato,811 - Servicios de reparación y mantenimiento
+855,Guanajuato,812 - Servicios personales
+856,Guanajuato,813 - Asociaciones y organizaciones
+857,Guanajuato,814 - Hogares con empleados domésticos
+858,Guanajuato,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+859,Guerrero,111 - Agricultura
+860,Guerrero,112 - Cría y explotación de animales
+861,Guerrero,113 - Aprovechamiento forestal
+862,Guerrero,"114 - Pesca, caza y captura"
+863,Guerrero,115 - Servicios relacionados con las actividades agropecuarias y forestales
+864,Guerrero,211 - Extracción de petróleo y gas
+865,Guerrero,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+866,Guerrero,213 - Servicios relacionados con la minería
+867,Guerrero,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+868,Guerrero,236 - Edificación
+869,Guerrero,237 - Construcción de obras de ingeniería civil
+870,Guerrero,238 - Trabajos especializados para la construcción
+871,Guerrero,311 - Industria alimentaria
+872,Guerrero,312 - Industria de las bebidas y del tabaco
+873,Guerrero,313 - Fabricación de insumos textiles y acabado de textiles
+874,Guerrero,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+875,Guerrero,315 - Fabricación de prendas de vestir
+876,Guerrero,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+877,Guerrero,321 - Industria de la madera
+878,Guerrero,322 - Industria del papel
+879,Guerrero,323 - Impresión e industrias conexas
+880,Guerrero,324 - Fabricación de productos derivados del petróleo y del carbón
+881,Guerrero,325 - Industria química
+882,Guerrero,326 - Industria del plástico y del hule
+883,Guerrero,327 - Fabricación de productos a base de minerales no metálicos
+884,Guerrero,331 - Industrias metálicas básicas
+885,Guerrero,332 - Fabricación de productos metálicos
+886,Guerrero,333 - Fabricación de maquinaria y equipo
+887,Guerrero,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+888,Guerrero,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+889,Guerrero,336 - Fabricación de equipo de transporte
+890,Guerrero,"337 - Fabricación de muebles, colchones y persianas"
+891,Guerrero,339 - Otras industrias manufactureras
+892,Guerrero,43 - Comercio al por mayor
+893,Guerrero,46 - Comercio al por menor
+894,Guerrero,481 - Transporte aéreo
+895,Guerrero,482 - Transporte por ferrocarril
+896,Guerrero,483 - Transporte por agua
+897,Guerrero,484 - Autotransporte de carga
+898,Guerrero,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+899,Guerrero,486 - Transporte por ductos
+900,Guerrero,487 - Transporte turístico
+901,Guerrero,488 - Servicios relacionados con el transporte
+902,Guerrero,491 - Servicios postales
+903,Guerrero,492 - Servicios de mensajería y paquetería
+904,Guerrero,493 - Servicios de almacenamiento
+905,Guerrero,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+906,Guerrero,"512 - Industria fílmica y del video, e industria del sonido"
+907,Guerrero,515 - Radio y televisión
+908,Guerrero,517 - Telecomunicaciones
+909,Guerrero,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+910,Guerrero,519 - Otros servicios de información
+911,Guerrero,521 - Banca central
+912,Guerrero,522 - Instituciones de intermediación crediticia y financiera no bursátil
+913,Guerrero,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+914,Guerrero,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+915,Guerrero,531 - Servicios inmobiliarios
+916,Guerrero,532 - Servicios de alquiler de bienes muebles
+917,Guerrero,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+918,Guerrero,"541 - Servicios profesionales, científicos y técnicos"
+919,Guerrero,551 - Corporativos
+920,Guerrero,561 - Servicios de apoyo a los negocios
+921,Guerrero,562 - Manejo de residuos y servicios de remediación
+922,Guerrero,611 - Servicios educativos
+923,Guerrero,621 - Servicios médicos de consulta externa y servicios relacionados
+924,Guerrero,622 - Hospitales
+925,Guerrero,623 - Residencias de asistencia social y para el cuidado de la salud
+926,Guerrero,624 - Otros servicios de asistencia social
+927,Guerrero,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+928,Guerrero,"712 - Museos, sitios históricos, zoológicos y similares"
+929,Guerrero,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+930,Guerrero,721 - Servicios de alojamiento temporal
+931,Guerrero,722 - Servicios de preparación de alimentos y bebidas
+932,Guerrero,811 - Servicios de reparación y mantenimiento
+933,Guerrero,812 - Servicios personales
+934,Guerrero,813 - Asociaciones y organizaciones
+935,Guerrero,814 - Hogares con empleados domésticos
+936,Guerrero,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+937,Hidalgo,111 - Agricultura
+938,Hidalgo,112 - Cría y explotación de animales
+939,Hidalgo,113 - Aprovechamiento forestal
+940,Hidalgo,"114 - Pesca, caza y captura"
+941,Hidalgo,115 - Servicios relacionados con las actividades agropecuarias y forestales
+942,Hidalgo,211 - Extracción de petróleo y gas
+943,Hidalgo,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+944,Hidalgo,213 - Servicios relacionados con la minería
+945,Hidalgo,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+946,Hidalgo,236 - Edificación
+947,Hidalgo,237 - Construcción de obras de ingeniería civil
+948,Hidalgo,238 - Trabajos especializados para la construcción
+949,Hidalgo,311 - Industria alimentaria
+950,Hidalgo,312 - Industria de las bebidas y del tabaco
+951,Hidalgo,313 - Fabricación de insumos textiles y acabado de textiles
+952,Hidalgo,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+953,Hidalgo,315 - Fabricación de prendas de vestir
+954,Hidalgo,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+955,Hidalgo,321 - Industria de la madera
+956,Hidalgo,322 - Industria del papel
+957,Hidalgo,323 - Impresión e industrias conexas
+958,Hidalgo,324 - Fabricación de productos derivados del petróleo y del carbón
+959,Hidalgo,325 - Industria química
+960,Hidalgo,326 - Industria del plástico y del hule
+961,Hidalgo,327 - Fabricación de productos a base de minerales no metálicos
+962,Hidalgo,331 - Industrias metálicas básicas
+963,Hidalgo,332 - Fabricación de productos metálicos
+964,Hidalgo,333 - Fabricación de maquinaria y equipo
+965,Hidalgo,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+966,Hidalgo,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+967,Hidalgo,336 - Fabricación de equipo de transporte
+968,Hidalgo,"337 - Fabricación de muebles, colchones y persianas"
+969,Hidalgo,339 - Otras industrias manufactureras
+970,Hidalgo,43 - Comercio al por mayor
+971,Hidalgo,46 - Comercio al por menor
+972,Hidalgo,481 - Transporte aéreo
+973,Hidalgo,482 - Transporte por ferrocarril
+974,Hidalgo,483 - Transporte por agua
+975,Hidalgo,484 - Autotransporte de carga
+976,Hidalgo,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+977,Hidalgo,486 - Transporte por ductos
+978,Hidalgo,487 - Transporte turístico
+979,Hidalgo,488 - Servicios relacionados con el transporte
+980,Hidalgo,491 - Servicios postales
+981,Hidalgo,492 - Servicios de mensajería y paquetería
+982,Hidalgo,493 - Servicios de almacenamiento
+983,Hidalgo,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+984,Hidalgo,"512 - Industria fílmica y del video, e industria del sonido"
+985,Hidalgo,515 - Radio y televisión
+986,Hidalgo,517 - Telecomunicaciones
+987,Hidalgo,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+988,Hidalgo,519 - Otros servicios de información
+989,Hidalgo,521 - Banca central
+990,Hidalgo,522 - Instituciones de intermediación crediticia y financiera no bursátil
+991,Hidalgo,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+992,Hidalgo,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+993,Hidalgo,531 - Servicios inmobiliarios
+994,Hidalgo,532 - Servicios de alquiler de bienes muebles
+995,Hidalgo,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+996,Hidalgo,"541 - Servicios profesionales, científicos y técnicos"
+997,Hidalgo,551 - Corporativos
+998,Hidalgo,561 - Servicios de apoyo a los negocios
+999,Hidalgo,562 - Manejo de residuos y servicios de remediación
+1000,Hidalgo,611 - Servicios educativos
+1001,Hidalgo,621 - Servicios médicos de consulta externa y servicios relacionados
+1002,Hidalgo,622 - Hospitales
+1003,Hidalgo,623 - Residencias de asistencia social y para el cuidado de la salud
+1004,Hidalgo,624 - Otros servicios de asistencia social
+1005,Hidalgo,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1006,Hidalgo,"712 - Museos, sitios históricos, zoológicos y similares"
+1007,Hidalgo,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1008,Hidalgo,721 - Servicios de alojamiento temporal
+1009,Hidalgo,722 - Servicios de preparación de alimentos y bebidas
+1010,Hidalgo,811 - Servicios de reparación y mantenimiento
+1011,Hidalgo,812 - Servicios personales
+1012,Hidalgo,813 - Asociaciones y organizaciones
+1013,Hidalgo,814 - Hogares con empleados domésticos
+1014,Hidalgo,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1015,Jalisco,111 - Agricultura
+1016,Jalisco,112 - Cría y explotación de animales
+1017,Jalisco,113 - Aprovechamiento forestal
+1018,Jalisco,"114 - Pesca, caza y captura"
+1019,Jalisco,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1020,Jalisco,211 - Extracción de petróleo y gas
+1021,Jalisco,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1022,Jalisco,213 - Servicios relacionados con la minería
+1023,Jalisco,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1024,Jalisco,236 - Edificación
+1025,Jalisco,237 - Construcción de obras de ingeniería civil
+1026,Jalisco,238 - Trabajos especializados para la construcción
+1027,Jalisco,311 - Industria alimentaria
+1028,Jalisco,312 - Industria de las bebidas y del tabaco
+1029,Jalisco,313 - Fabricación de insumos textiles y acabado de textiles
+1030,Jalisco,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1031,Jalisco,315 - Fabricación de prendas de vestir
+1032,Jalisco,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1033,Jalisco,321 - Industria de la madera
+1034,Jalisco,322 - Industria del papel
+1035,Jalisco,323 - Impresión e industrias conexas
+1036,Jalisco,324 - Fabricación de productos derivados del petróleo y del carbón
+1037,Jalisco,325 - Industria química
+1038,Jalisco,326 - Industria del plástico y del hule
+1039,Jalisco,327 - Fabricación de productos a base de minerales no metálicos
+1040,Jalisco,331 - Industrias metálicas básicas
+1041,Jalisco,332 - Fabricación de productos metálicos
+1042,Jalisco,333 - Fabricación de maquinaria y equipo
+1043,Jalisco,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1044,Jalisco,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1045,Jalisco,336 - Fabricación de equipo de transporte
+1046,Jalisco,"337 - Fabricación de muebles, colchones y persianas"
+1047,Jalisco,339 - Otras industrias manufactureras
+1048,Jalisco,43 - Comercio al por mayor
+1049,Jalisco,46 - Comercio al por menor
+1050,Jalisco,481 - Transporte aéreo
+1051,Jalisco,482 - Transporte por ferrocarril
+1052,Jalisco,483 - Transporte por agua
+1053,Jalisco,484 - Autotransporte de carga
+1054,Jalisco,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1055,Jalisco,486 - Transporte por ductos
+1056,Jalisco,487 - Transporte turístico
+1057,Jalisco,488 - Servicios relacionados con el transporte
+1058,Jalisco,491 - Servicios postales
+1059,Jalisco,492 - Servicios de mensajería y paquetería
+1060,Jalisco,493 - Servicios de almacenamiento
+1061,Jalisco,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1062,Jalisco,"512 - Industria fílmica y del video, e industria del sonido"
+1063,Jalisco,515 - Radio y televisión
+1064,Jalisco,517 - Telecomunicaciones
+1065,Jalisco,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1066,Jalisco,519 - Otros servicios de información
+1067,Jalisco,521 - Banca central
+1068,Jalisco,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1069,Jalisco,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1070,Jalisco,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1071,Jalisco,531 - Servicios inmobiliarios
+1072,Jalisco,532 - Servicios de alquiler de bienes muebles
+1073,Jalisco,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1074,Jalisco,"541 - Servicios profesionales, científicos y técnicos"
+1075,Jalisco,551 - Corporativos
+1076,Jalisco,561 - Servicios de apoyo a los negocios
+1077,Jalisco,562 - Manejo de residuos y servicios de remediación
+1078,Jalisco,611 - Servicios educativos
+1079,Jalisco,621 - Servicios médicos de consulta externa y servicios relacionados
+1080,Jalisco,622 - Hospitales
+1081,Jalisco,623 - Residencias de asistencia social y para el cuidado de la salud
+1082,Jalisco,624 - Otros servicios de asistencia social
+1083,Jalisco,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1084,Jalisco,"712 - Museos, sitios históricos, zoológicos y similares"
+1085,Jalisco,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1086,Jalisco,721 - Servicios de alojamiento temporal
+1087,Jalisco,722 - Servicios de preparación de alimentos y bebidas
+1088,Jalisco,811 - Servicios de reparación y mantenimiento
+1089,Jalisco,812 - Servicios personales
+1090,Jalisco,813 - Asociaciones y organizaciones
+1091,Jalisco,814 - Hogares con empleados domésticos
+1092,Jalisco,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1093,México,111 - Agricultura
+1094,México,112 - Cría y explotación de animales
+1095,México,113 - Aprovechamiento forestal
+1096,México,"114 - Pesca, caza y captura"
+1097,México,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1098,México,211 - Extracción de petróleo y gas
+1099,México,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1100,México,213 - Servicios relacionados con la minería
+1101,México,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1102,México,236 - Edificación
+1103,México,237 - Construcción de obras de ingeniería civil
+1104,México,238 - Trabajos especializados para la construcción
+1105,México,311 - Industria alimentaria
+1106,México,312 - Industria de las bebidas y del tabaco
+1107,México,313 - Fabricación de insumos textiles y acabado de textiles
+1108,México,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1109,México,315 - Fabricación de prendas de vestir
+1110,México,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1111,México,321 - Industria de la madera
+1112,México,322 - Industria del papel
+1113,México,323 - Impresión e industrias conexas
+1114,México,324 - Fabricación de productos derivados del petróleo y del carbón
+1115,México,325 - Industria química
+1116,México,326 - Industria del plástico y del hule
+1117,México,327 - Fabricación de productos a base de minerales no metálicos
+1118,México,331 - Industrias metálicas básicas
+1119,México,332 - Fabricación de productos metálicos
+1120,México,333 - Fabricación de maquinaria y equipo
+1121,México,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1122,México,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1123,México,336 - Fabricación de equipo de transporte
+1124,México,"337 - Fabricación de muebles, colchones y persianas"
+1125,México,339 - Otras industrias manufactureras
+1126,México,43 - Comercio al por mayor
+1127,México,46 - Comercio al por menor
+1128,México,481 - Transporte aéreo
+1129,México,482 - Transporte por ferrocarril
+1130,México,483 - Transporte por agua
+1131,México,484 - Autotransporte de carga
+1132,México,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1133,México,486 - Transporte por ductos
+1134,México,487 - Transporte turístico
+1135,México,488 - Servicios relacionados con el transporte
+1136,México,491 - Servicios postales
+1137,México,492 - Servicios de mensajería y paquetería
+1138,México,493 - Servicios de almacenamiento
+1139,México,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1140,México,"512 - Industria fílmica y del video, e industria del sonido"
+1141,México,515 - Radio y televisión
+1142,México,517 - Telecomunicaciones
+1143,México,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1144,México,519 - Otros servicios de información
+1145,México,521 - Banca central
+1146,México,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1147,México,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1148,México,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1149,México,531 - Servicios inmobiliarios
+1150,México,532 - Servicios de alquiler de bienes muebles
+1151,México,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1152,México,"541 - Servicios profesionales, científicos y técnicos"
+1153,México,551 - Corporativos
+1154,México,561 - Servicios de apoyo a los negocios
+1155,México,562 - Manejo de residuos y servicios de remediación
+1156,México,611 - Servicios educativos
+1157,México,621 - Servicios médicos de consulta externa y servicios relacionados
+1158,México,622 - Hospitales
+1159,México,623 - Residencias de asistencia social y para el cuidado de la salud
+1160,México,624 - Otros servicios de asistencia social
+1161,México,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1162,México,"712 - Museos, sitios históricos, zoológicos y similares"
+1163,México,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1164,México,721 - Servicios de alojamiento temporal
+1165,México,722 - Servicios de preparación de alimentos y bebidas
+1166,México,811 - Servicios de reparación y mantenimiento
+1167,México,812 - Servicios personales
+1168,México,813 - Asociaciones y organizaciones
+1169,México,814 - Hogares con empleados domésticos
+1170,México,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1171,Michoacán de Ocampo,111 - Agricultura
+1172,Michoacán de Ocampo,112 - Cría y explotación de animales
+1173,Michoacán de Ocampo,113 - Aprovechamiento forestal
+1174,Michoacán de Ocampo,"114 - Pesca, caza y captura"
+1175,Michoacán de Ocampo,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1176,Michoacán de Ocampo,211 - Extracción de petróleo y gas
+1177,Michoacán de Ocampo,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1178,Michoacán de Ocampo,213 - Servicios relacionados con la minería
+1179,Michoacán de Ocampo,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1180,Michoacán de Ocampo,236 - Edificación
+1181,Michoacán de Ocampo,237 - Construcción de obras de ingeniería civil
+1182,Michoacán de Ocampo,238 - Trabajos especializados para la construcción
+1183,Michoacán de Ocampo,311 - Industria alimentaria
+1184,Michoacán de Ocampo,312 - Industria de las bebidas y del tabaco
+1185,Michoacán de Ocampo,313 - Fabricación de insumos textiles y acabado de textiles
+1186,Michoacán de Ocampo,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1187,Michoacán de Ocampo,315 - Fabricación de prendas de vestir
+1188,Michoacán de Ocampo,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1189,Michoacán de Ocampo,321 - Industria de la madera
+1190,Michoacán de Ocampo,322 - Industria del papel
+1191,Michoacán de Ocampo,323 - Impresión e industrias conexas
+1192,Michoacán de Ocampo,324 - Fabricación de productos derivados del petróleo y del carbón
+1193,Michoacán de Ocampo,325 - Industria química
+1194,Michoacán de Ocampo,326 - Industria del plástico y del hule
+1195,Michoacán de Ocampo,327 - Fabricación de productos a base de minerales no metálicos
+1196,Michoacán de Ocampo,331 - Industrias metálicas básicas
+1197,Michoacán de Ocampo,332 - Fabricación de productos metálicos
+1198,Michoacán de Ocampo,333 - Fabricación de maquinaria y equipo
+1199,Michoacán de Ocampo,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1200,Michoacán de Ocampo,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1201,Michoacán de Ocampo,336 - Fabricación de equipo de transporte
+1202,Michoacán de Ocampo,"337 - Fabricación de muebles, colchones y persianas"
+1203,Michoacán de Ocampo,339 - Otras industrias manufactureras
+1204,Michoacán de Ocampo,43 - Comercio al por mayor
+1205,Michoacán de Ocampo,46 - Comercio al por menor
+1206,Michoacán de Ocampo,481 - Transporte aéreo
+1207,Michoacán de Ocampo,482 - Transporte por ferrocarril
+1208,Michoacán de Ocampo,483 - Transporte por agua
+1209,Michoacán de Ocampo,484 - Autotransporte de carga
+1210,Michoacán de Ocampo,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1211,Michoacán de Ocampo,486 - Transporte por ductos
+1212,Michoacán de Ocampo,487 - Transporte turístico
+1213,Michoacán de Ocampo,488 - Servicios relacionados con el transporte
+1214,Michoacán de Ocampo,491 - Servicios postales
+1215,Michoacán de Ocampo,492 - Servicios de mensajería y paquetería
+1216,Michoacán de Ocampo,493 - Servicios de almacenamiento
+1217,Michoacán de Ocampo,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1218,Michoacán de Ocampo,"512 - Industria fílmica y del video, e industria del sonido"
+1219,Michoacán de Ocampo,515 - Radio y televisión
+1220,Michoacán de Ocampo,517 - Telecomunicaciones
+1221,Michoacán de Ocampo,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1222,Michoacán de Ocampo,519 - Otros servicios de información
+1223,Michoacán de Ocampo,521 - Banca central
+1224,Michoacán de Ocampo,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1225,Michoacán de Ocampo,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1226,Michoacán de Ocampo,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1227,Michoacán de Ocampo,531 - Servicios inmobiliarios
+1228,Michoacán de Ocampo,532 - Servicios de alquiler de bienes muebles
+1229,Michoacán de Ocampo,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1230,Michoacán de Ocampo,"541 - Servicios profesionales, científicos y técnicos"
+1231,Michoacán de Ocampo,551 - Corporativos
+1232,Michoacán de Ocampo,561 - Servicios de apoyo a los negocios
+1233,Michoacán de Ocampo,562 - Manejo de residuos y servicios de remediación
+1234,Michoacán de Ocampo,611 - Servicios educativos
+1235,Michoacán de Ocampo,621 - Servicios médicos de consulta externa y servicios relacionados
+1236,Michoacán de Ocampo,622 - Hospitales
+1237,Michoacán de Ocampo,623 - Residencias de asistencia social y para el cuidado de la salud
+1238,Michoacán de Ocampo,624 - Otros servicios de asistencia social
+1239,Michoacán de Ocampo,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1240,Michoacán de Ocampo,"712 - Museos, sitios históricos, zoológicos y similares"
+1241,Michoacán de Ocampo,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1242,Michoacán de Ocampo,721 - Servicios de alojamiento temporal
+1243,Michoacán de Ocampo,722 - Servicios de preparación de alimentos y bebidas
+1244,Michoacán de Ocampo,811 - Servicios de reparación y mantenimiento
+1245,Michoacán de Ocampo,812 - Servicios personales
+1246,Michoacán de Ocampo,813 - Asociaciones y organizaciones
+1247,Michoacán de Ocampo,814 - Hogares con empleados domésticos
+1248,Michoacán de Ocampo,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1249,Morelos,111 - Agricultura
+1250,Morelos,112 - Cría y explotación de animales
+1251,Morelos,113 - Aprovechamiento forestal
+1252,Morelos,"114 - Pesca, caza y captura"
+1253,Morelos,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1254,Morelos,211 - Extracción de petróleo y gas
+1255,Morelos,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1256,Morelos,213 - Servicios relacionados con la minería
+1257,Morelos,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1258,Morelos,236 - Edificación
+1259,Morelos,237 - Construcción de obras de ingeniería civil
+1260,Morelos,238 - Trabajos especializados para la construcción
+1261,Morelos,311 - Industria alimentaria
+1262,Morelos,312 - Industria de las bebidas y del tabaco
+1263,Morelos,313 - Fabricación de insumos textiles y acabado de textiles
+1264,Morelos,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1265,Morelos,315 - Fabricación de prendas de vestir
+1266,Morelos,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1267,Morelos,321 - Industria de la madera
+1268,Morelos,322 - Industria del papel
+1269,Morelos,323 - Impresión e industrias conexas
+1270,Morelos,324 - Fabricación de productos derivados del petróleo y del carbón
+1271,Morelos,325 - Industria química
+1272,Morelos,326 - Industria del plástico y del hule
+1273,Morelos,327 - Fabricación de productos a base de minerales no metálicos
+1274,Morelos,331 - Industrias metálicas básicas
+1275,Morelos,332 - Fabricación de productos metálicos
+1276,Morelos,333 - Fabricación de maquinaria y equipo
+1277,Morelos,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1278,Morelos,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1279,Morelos,336 - Fabricación de equipo de transporte
+1280,Morelos,"337 - Fabricación de muebles, colchones y persianas"
+1281,Morelos,339 - Otras industrias manufactureras
+1282,Morelos,43 - Comercio al por mayor
+1283,Morelos,46 - Comercio al por menor
+1284,Morelos,481 - Transporte aéreo
+1285,Morelos,482 - Transporte por ferrocarril
+1286,Morelos,483 - Transporte por agua
+1287,Morelos,484 - Autotransporte de carga
+1288,Morelos,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1289,Morelos,486 - Transporte por ductos
+1290,Morelos,487 - Transporte turístico
+1291,Morelos,488 - Servicios relacionados con el transporte
+1292,Morelos,491 - Servicios postales
+1293,Morelos,492 - Servicios de mensajería y paquetería
+1294,Morelos,493 - Servicios de almacenamiento
+1295,Morelos,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1296,Morelos,"512 - Industria fílmica y del video, e industria del sonido"
+1297,Morelos,515 - Radio y televisión
+1298,Morelos,517 - Telecomunicaciones
+1299,Morelos,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1300,Morelos,519 - Otros servicios de información
+1301,Morelos,521 - Banca central
+1302,Morelos,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1303,Morelos,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1304,Morelos,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1305,Morelos,531 - Servicios inmobiliarios
+1306,Morelos,532 - Servicios de alquiler de bienes muebles
+1307,Morelos,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1308,Morelos,"541 - Servicios profesionales, científicos y técnicos"
+1309,Morelos,551 - Corporativos
+1310,Morelos,561 - Servicios de apoyo a los negocios
+1311,Morelos,562 - Manejo de residuos y servicios de remediación
+1312,Morelos,611 - Servicios educativos
+1313,Morelos,621 - Servicios médicos de consulta externa y servicios relacionados
+1314,Morelos,622 - Hospitales
+1315,Morelos,623 - Residencias de asistencia social y para el cuidado de la salud
+1316,Morelos,624 - Otros servicios de asistencia social
+1317,Morelos,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1318,Morelos,"712 - Museos, sitios históricos, zoológicos y similares"
+1319,Morelos,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1320,Morelos,721 - Servicios de alojamiento temporal
+1321,Morelos,722 - Servicios de preparación de alimentos y bebidas
+1322,Morelos,811 - Servicios de reparación y mantenimiento
+1323,Morelos,812 - Servicios personales
+1324,Morelos,813 - Asociaciones y organizaciones
+1325,Morelos,814 - Hogares con empleados domésticos
+1326,Morelos,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1327,Nayarit,111 - Agricultura
+1328,Nayarit,112 - Cría y explotación de animales
+1329,Nayarit,113 - Aprovechamiento forestal
+1330,Nayarit,"114 - Pesca, caza y captura"
+1331,Nayarit,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1332,Nayarit,211 - Extracción de petróleo y gas
+1333,Nayarit,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1334,Nayarit,213 - Servicios relacionados con la minería
+1335,Nayarit,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1336,Nayarit,236 - Edificación
+1337,Nayarit,237 - Construcción de obras de ingeniería civil
+1338,Nayarit,238 - Trabajos especializados para la construcción
+1339,Nayarit,311 - Industria alimentaria
+1340,Nayarit,312 - Industria de las bebidas y del tabaco
+1341,Nayarit,313 - Fabricación de insumos textiles y acabado de textiles
+1342,Nayarit,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1343,Nayarit,315 - Fabricación de prendas de vestir
+1344,Nayarit,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1345,Nayarit,321 - Industria de la madera
+1346,Nayarit,322 - Industria del papel
+1347,Nayarit,323 - Impresión e industrias conexas
+1348,Nayarit,324 - Fabricación de productos derivados del petróleo y del carbón
+1349,Nayarit,325 - Industria química
+1350,Nayarit,326 - Industria del plástico y del hule
+1351,Nayarit,327 - Fabricación de productos a base de minerales no metálicos
+1352,Nayarit,331 - Industrias metálicas básicas
+1353,Nayarit,332 - Fabricación de productos metálicos
+1354,Nayarit,333 - Fabricación de maquinaria y equipo
+1355,Nayarit,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1356,Nayarit,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1357,Nayarit,336 - Fabricación de equipo de transporte
+1358,Nayarit,"337 - Fabricación de muebles, colchones y persianas"
+1359,Nayarit,339 - Otras industrias manufactureras
+1360,Nayarit,43 - Comercio al por mayor
+1361,Nayarit,46 - Comercio al por menor
+1362,Nayarit,481 - Transporte aéreo
+1363,Nayarit,482 - Transporte por ferrocarril
+1364,Nayarit,483 - Transporte por agua
+1365,Nayarit,484 - Autotransporte de carga
+1366,Nayarit,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1367,Nayarit,486 - Transporte por ductos
+1368,Nayarit,487 - Transporte turístico
+1369,Nayarit,488 - Servicios relacionados con el transporte
+1370,Nayarit,491 - Servicios postales
+1371,Nayarit,492 - Servicios de mensajería y paquetería
+1372,Nayarit,493 - Servicios de almacenamiento
+1373,Nayarit,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1374,Nayarit,"512 - Industria fílmica y del video, e industria del sonido"
+1375,Nayarit,515 - Radio y televisión
+1376,Nayarit,517 - Telecomunicaciones
+1377,Nayarit,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1378,Nayarit,519 - Otros servicios de información
+1379,Nayarit,521 - Banca central
+1380,Nayarit,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1381,Nayarit,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1382,Nayarit,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1383,Nayarit,531 - Servicios inmobiliarios
+1384,Nayarit,532 - Servicios de alquiler de bienes muebles
+1385,Nayarit,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1386,Nayarit,"541 - Servicios profesionales, científicos y técnicos"
+1387,Nayarit,551 - Corporativos
+1388,Nayarit,561 - Servicios de apoyo a los negocios
+1389,Nayarit,562 - Manejo de residuos y servicios de remediación
+1390,Nayarit,611 - Servicios educativos
+1391,Nayarit,621 - Servicios médicos de consulta externa y servicios relacionados
+1392,Nayarit,622 - Hospitales
+1393,Nayarit,623 - Residencias de asistencia social y para el cuidado de la salud
+1394,Nayarit,624 - Otros servicios de asistencia social
+1395,Nayarit,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1396,Nayarit,"712 - Museos, sitios históricos, zoológicos y similares"
+1397,Nayarit,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1398,Nayarit,721 - Servicios de alojamiento temporal
+1399,Nayarit,722 - Servicios de preparación de alimentos y bebidas
+1400,Nayarit,811 - Servicios de reparación y mantenimiento
+1401,Nayarit,812 - Servicios personales
+1402,Nayarit,813 - Asociaciones y organizaciones
+1403,Nayarit,814 - Hogares con empleados domésticos
+1404,Nayarit,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1405,Nuevo León,111 - Agricultura
+1406,Nuevo León,112 - Cría y explotación de animales
+1407,Nuevo León,113 - Aprovechamiento forestal
+1408,Nuevo León,"114 - Pesca, caza y captura"
+1409,Nuevo León,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1410,Nuevo León,211 - Extracción de petróleo y gas
+1411,Nuevo León,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1412,Nuevo León,213 - Servicios relacionados con la minería
+1413,Nuevo León,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1414,Nuevo León,236 - Edificación
+1415,Nuevo León,237 - Construcción de obras de ingeniería civil
+1416,Nuevo León,238 - Trabajos especializados para la construcción
+1417,Nuevo León,311 - Industria alimentaria
+1418,Nuevo León,312 - Industria de las bebidas y del tabaco
+1419,Nuevo León,313 - Fabricación de insumos textiles y acabado de textiles
+1420,Nuevo León,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1421,Nuevo León,315 - Fabricación de prendas de vestir
+1422,Nuevo León,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1423,Nuevo León,321 - Industria de la madera
+1424,Nuevo León,322 - Industria del papel
+1425,Nuevo León,323 - Impresión e industrias conexas
+1426,Nuevo León,324 - Fabricación de productos derivados del petróleo y del carbón
+1427,Nuevo León,325 - Industria química
+1428,Nuevo León,326 - Industria del plástico y del hule
+1429,Nuevo León,327 - Fabricación de productos a base de minerales no metálicos
+1430,Nuevo León,331 - Industrias metálicas básicas
+1431,Nuevo León,332 - Fabricación de productos metálicos
+1432,Nuevo León,333 - Fabricación de maquinaria y equipo
+1433,Nuevo León,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1434,Nuevo León,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1435,Nuevo León,336 - Fabricación de equipo de transporte
+1436,Nuevo León,"337 - Fabricación de muebles, colchones y persianas"
+1437,Nuevo León,339 - Otras industrias manufactureras
+1438,Nuevo León,43 - Comercio al por mayor
+1439,Nuevo León,46 - Comercio al por menor
+1440,Nuevo León,481 - Transporte aéreo
+1441,Nuevo León,482 - Transporte por ferrocarril
+1442,Nuevo León,483 - Transporte por agua
+1443,Nuevo León,484 - Autotransporte de carga
+1444,Nuevo León,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1445,Nuevo León,486 - Transporte por ductos
+1446,Nuevo León,487 - Transporte turístico
+1447,Nuevo León,488 - Servicios relacionados con el transporte
+1448,Nuevo León,491 - Servicios postales
+1449,Nuevo León,492 - Servicios de mensajería y paquetería
+1450,Nuevo León,493 - Servicios de almacenamiento
+1451,Nuevo León,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1452,Nuevo León,"512 - Industria fílmica y del video, e industria del sonido"
+1453,Nuevo León,515 - Radio y televisión
+1454,Nuevo León,517 - Telecomunicaciones
+1455,Nuevo León,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1456,Nuevo León,519 - Otros servicios de información
+1457,Nuevo León,521 - Banca central
+1458,Nuevo León,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1459,Nuevo León,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1460,Nuevo León,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1461,Nuevo León,531 - Servicios inmobiliarios
+1462,Nuevo León,532 - Servicios de alquiler de bienes muebles
+1463,Nuevo León,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1464,Nuevo León,"541 - Servicios profesionales, científicos y técnicos"
+1465,Nuevo León,551 - Corporativos
+1466,Nuevo León,561 - Servicios de apoyo a los negocios
+1467,Nuevo León,562 - Manejo de residuos y servicios de remediación
+1468,Nuevo León,611 - Servicios educativos
+1469,Nuevo León,621 - Servicios médicos de consulta externa y servicios relacionados
+1470,Nuevo León,622 - Hospitales
+1471,Nuevo León,623 - Residencias de asistencia social y para el cuidado de la salud
+1472,Nuevo León,624 - Otros servicios de asistencia social
+1473,Nuevo León,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1474,Nuevo León,"712 - Museos, sitios históricos, zoológicos y similares"
+1475,Nuevo León,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1476,Nuevo León,721 - Servicios de alojamiento temporal
+1477,Nuevo León,722 - Servicios de preparación de alimentos y bebidas
+1478,Nuevo León,811 - Servicios de reparación y mantenimiento
+1479,Nuevo León,812 - Servicios personales
+1480,Nuevo León,813 - Asociaciones y organizaciones
+1481,Nuevo León,814 - Hogares con empleados domésticos
+1482,Nuevo León,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1483,Oaxaca,111 - Agricultura
+1484,Oaxaca,112 - Cría y explotación de animales
+1485,Oaxaca,113 - Aprovechamiento forestal
+1486,Oaxaca,"114 - Pesca, caza y captura"
+1487,Oaxaca,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1488,Oaxaca,211 - Extracción de petróleo y gas
+1489,Oaxaca,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1490,Oaxaca,213 - Servicios relacionados con la minería
+1491,Oaxaca,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1492,Oaxaca,236 - Edificación
+1493,Oaxaca,237 - Construcción de obras de ingeniería civil
+1494,Oaxaca,238 - Trabajos especializados para la construcción
+1495,Oaxaca,311 - Industria alimentaria
+1496,Oaxaca,312 - Industria de las bebidas y del tabaco
+1497,Oaxaca,313 - Fabricación de insumos textiles y acabado de textiles
+1498,Oaxaca,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1499,Oaxaca,315 - Fabricación de prendas de vestir
+1500,Oaxaca,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1501,Oaxaca,321 - Industria de la madera
+1502,Oaxaca,322 - Industria del papel
+1503,Oaxaca,323 - Impresión e industrias conexas
+1504,Oaxaca,324 - Fabricación de productos derivados del petróleo y del carbón
+1505,Oaxaca,325 - Industria química
+1506,Oaxaca,326 - Industria del plástico y del hule
+1507,Oaxaca,327 - Fabricación de productos a base de minerales no metálicos
+1508,Oaxaca,331 - Industrias metálicas básicas
+1509,Oaxaca,332 - Fabricación de productos metálicos
+1510,Oaxaca,333 - Fabricación de maquinaria y equipo
+1511,Oaxaca,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1512,Oaxaca,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1513,Oaxaca,336 - Fabricación de equipo de transporte
+1514,Oaxaca,"337 - Fabricación de muebles, colchones y persianas"
+1515,Oaxaca,339 - Otras industrias manufactureras
+1516,Oaxaca,43 - Comercio al por mayor
+1517,Oaxaca,46 - Comercio al por menor
+1518,Oaxaca,481 - Transporte aéreo
+1519,Oaxaca,482 - Transporte por ferrocarril
+1520,Oaxaca,483 - Transporte por agua
+1521,Oaxaca,484 - Autotransporte de carga
+1522,Oaxaca,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1523,Oaxaca,486 - Transporte por ductos
+1524,Oaxaca,487 - Transporte turístico
+1525,Oaxaca,488 - Servicios relacionados con el transporte
+1526,Oaxaca,491 - Servicios postales
+1527,Oaxaca,492 - Servicios de mensajería y paquetería
+1528,Oaxaca,493 - Servicios de almacenamiento
+1529,Oaxaca,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1530,Oaxaca,"512 - Industria fílmica y del video, e industria del sonido"
+1531,Oaxaca,515 - Radio y televisión
+1532,Oaxaca,517 - Telecomunicaciones
+1533,Oaxaca,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1534,Oaxaca,519 - Otros servicios de información
+1535,Oaxaca,521 - Banca central
+1536,Oaxaca,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1537,Oaxaca,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1538,Oaxaca,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1539,Oaxaca,531 - Servicios inmobiliarios
+1540,Oaxaca,532 - Servicios de alquiler de bienes muebles
+1541,Oaxaca,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1542,Oaxaca,"541 - Servicios profesionales, científicos y técnicos"
+1543,Oaxaca,551 - Corporativos
+1544,Oaxaca,561 - Servicios de apoyo a los negocios
+1545,Oaxaca,562 - Manejo de residuos y servicios de remediación
+1546,Oaxaca,611 - Servicios educativos
+1547,Oaxaca,621 - Servicios médicos de consulta externa y servicios relacionados
+1548,Oaxaca,622 - Hospitales
+1549,Oaxaca,623 - Residencias de asistencia social y para el cuidado de la salud
+1550,Oaxaca,624 - Otros servicios de asistencia social
+1551,Oaxaca,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1552,Oaxaca,"712 - Museos, sitios históricos, zoológicos y similares"
+1553,Oaxaca,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1554,Oaxaca,721 - Servicios de alojamiento temporal
+1555,Oaxaca,722 - Servicios de preparación de alimentos y bebidas
+1556,Oaxaca,811 - Servicios de reparación y mantenimiento
+1557,Oaxaca,812 - Servicios personales
+1558,Oaxaca,813 - Asociaciones y organizaciones
+1559,Oaxaca,814 - Hogares con empleados domésticos
+1560,Oaxaca,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1561,Puebla,111 - Agricultura
+1562,Puebla,112 - Cría y explotación de animales
+1563,Puebla,113 - Aprovechamiento forestal
+1564,Puebla,"114 - Pesca, caza y captura"
+1565,Puebla,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1566,Puebla,211 - Extracción de petróleo y gas
+1567,Puebla,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1568,Puebla,213 - Servicios relacionados con la minería
+1569,Puebla,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1570,Puebla,236 - Edificación
+1571,Puebla,237 - Construcción de obras de ingeniería civil
+1572,Puebla,238 - Trabajos especializados para la construcción
+1573,Puebla,311 - Industria alimentaria
+1574,Puebla,312 - Industria de las bebidas y del tabaco
+1575,Puebla,313 - Fabricación de insumos textiles y acabado de textiles
+1576,Puebla,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1577,Puebla,315 - Fabricación de prendas de vestir
+1578,Puebla,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1579,Puebla,321 - Industria de la madera
+1580,Puebla,322 - Industria del papel
+1581,Puebla,323 - Impresión e industrias conexas
+1582,Puebla,324 - Fabricación de productos derivados del petróleo y del carbón
+1583,Puebla,325 - Industria química
+1584,Puebla,326 - Industria del plástico y del hule
+1585,Puebla,327 - Fabricación de productos a base de minerales no metálicos
+1586,Puebla,331 - Industrias metálicas básicas
+1587,Puebla,332 - Fabricación de productos metálicos
+1588,Puebla,333 - Fabricación de maquinaria y equipo
+1589,Puebla,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1590,Puebla,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1591,Puebla,336 - Fabricación de equipo de transporte
+1592,Puebla,"337 - Fabricación de muebles, colchones y persianas"
+1593,Puebla,339 - Otras industrias manufactureras
+1594,Puebla,43 - Comercio al por mayor
+1595,Puebla,46 - Comercio al por menor
+1596,Puebla,481 - Transporte aéreo
+1597,Puebla,482 - Transporte por ferrocarril
+1598,Puebla,483 - Transporte por agua
+1599,Puebla,484 - Autotransporte de carga
+1600,Puebla,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1601,Puebla,486 - Transporte por ductos
+1602,Puebla,487 - Transporte turístico
+1603,Puebla,488 - Servicios relacionados con el transporte
+1604,Puebla,491 - Servicios postales
+1605,Puebla,492 - Servicios de mensajería y paquetería
+1606,Puebla,493 - Servicios de almacenamiento
+1607,Puebla,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1608,Puebla,"512 - Industria fílmica y del video, e industria del sonido"
+1609,Puebla,515 - Radio y televisión
+1610,Puebla,517 - Telecomunicaciones
+1611,Puebla,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1612,Puebla,519 - Otros servicios de información
+1613,Puebla,521 - Banca central
+1614,Puebla,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1615,Puebla,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1616,Puebla,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1617,Puebla,531 - Servicios inmobiliarios
+1618,Puebla,532 - Servicios de alquiler de bienes muebles
+1619,Puebla,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1620,Puebla,"541 - Servicios profesionales, científicos y técnicos"
+1621,Puebla,551 - Corporativos
+1622,Puebla,561 - Servicios de apoyo a los negocios
+1623,Puebla,562 - Manejo de residuos y servicios de remediación
+1624,Puebla,611 - Servicios educativos
+1625,Puebla,621 - Servicios médicos de consulta externa y servicios relacionados
+1626,Puebla,622 - Hospitales
+1627,Puebla,623 - Residencias de asistencia social y para el cuidado de la salud
+1628,Puebla,624 - Otros servicios de asistencia social
+1629,Puebla,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1630,Puebla,"712 - Museos, sitios históricos, zoológicos y similares"
+1631,Puebla,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1632,Puebla,721 - Servicios de alojamiento temporal
+1633,Puebla,722 - Servicios de preparación de alimentos y bebidas
+1634,Puebla,811 - Servicios de reparación y mantenimiento
+1635,Puebla,812 - Servicios personales
+1636,Puebla,813 - Asociaciones y organizaciones
+1637,Puebla,814 - Hogares con empleados domésticos
+1638,Puebla,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1639,Querétaro,111 - Agricultura
+1640,Querétaro,112 - Cría y explotación de animales
+1641,Querétaro,113 - Aprovechamiento forestal
+1642,Querétaro,"114 - Pesca, caza y captura"
+1643,Querétaro,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1644,Querétaro,211 - Extracción de petróleo y gas
+1645,Querétaro,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1646,Querétaro,213 - Servicios relacionados con la minería
+1647,Querétaro,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1648,Querétaro,236 - Edificación
+1649,Querétaro,237 - Construcción de obras de ingeniería civil
+1650,Querétaro,238 - Trabajos especializados para la construcción
+1651,Querétaro,311 - Industria alimentaria
+1652,Querétaro,312 - Industria de las bebidas y del tabaco
+1653,Querétaro,313 - Fabricación de insumos textiles y acabado de textiles
+1654,Querétaro,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1655,Querétaro,315 - Fabricación de prendas de vestir
+1656,Querétaro,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1657,Querétaro,321 - Industria de la madera
+1658,Querétaro,322 - Industria del papel
+1659,Querétaro,323 - Impresión e industrias conexas
+1660,Querétaro,324 - Fabricación de productos derivados del petróleo y del carbón
+1661,Querétaro,325 - Industria química
+1662,Querétaro,326 - Industria del plástico y del hule
+1663,Querétaro,327 - Fabricación de productos a base de minerales no metálicos
+1664,Querétaro,331 - Industrias metálicas básicas
+1665,Querétaro,332 - Fabricación de productos metálicos
+1666,Querétaro,333 - Fabricación de maquinaria y equipo
+1667,Querétaro,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1668,Querétaro,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1669,Querétaro,336 - Fabricación de equipo de transporte
+1670,Querétaro,"337 - Fabricación de muebles, colchones y persianas"
+1671,Querétaro,339 - Otras industrias manufactureras
+1672,Querétaro,43 - Comercio al por mayor
+1673,Querétaro,46 - Comercio al por menor
+1674,Querétaro,481 - Transporte aéreo
+1675,Querétaro,482 - Transporte por ferrocarril
+1676,Querétaro,483 - Transporte por agua
+1677,Querétaro,484 - Autotransporte de carga
+1678,Querétaro,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1679,Querétaro,486 - Transporte por ductos
+1680,Querétaro,487 - Transporte turístico
+1681,Querétaro,488 - Servicios relacionados con el transporte
+1682,Querétaro,491 - Servicios postales
+1683,Querétaro,492 - Servicios de mensajería y paquetería
+1684,Querétaro,493 - Servicios de almacenamiento
+1685,Querétaro,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1686,Querétaro,"512 - Industria fílmica y del video, e industria del sonido"
+1687,Querétaro,515 - Radio y televisión
+1688,Querétaro,517 - Telecomunicaciones
+1689,Querétaro,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1690,Querétaro,519 - Otros servicios de información
+1691,Querétaro,521 - Banca central
+1692,Querétaro,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1693,Querétaro,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1694,Querétaro,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1695,Querétaro,531 - Servicios inmobiliarios
+1696,Querétaro,532 - Servicios de alquiler de bienes muebles
+1697,Querétaro,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1698,Querétaro,"541 - Servicios profesionales, científicos y técnicos"
+1699,Querétaro,551 - Corporativos
+1700,Querétaro,561 - Servicios de apoyo a los negocios
+1701,Querétaro,562 - Manejo de residuos y servicios de remediación
+1702,Querétaro,611 - Servicios educativos
+1703,Querétaro,621 - Servicios médicos de consulta externa y servicios relacionados
+1704,Querétaro,622 - Hospitales
+1705,Querétaro,623 - Residencias de asistencia social y para el cuidado de la salud
+1706,Querétaro,624 - Otros servicios de asistencia social
+1707,Querétaro,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1708,Querétaro,"712 - Museos, sitios históricos, zoológicos y similares"
+1709,Querétaro,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1710,Querétaro,721 - Servicios de alojamiento temporal
+1711,Querétaro,722 - Servicios de preparación de alimentos y bebidas
+1712,Querétaro,811 - Servicios de reparación y mantenimiento
+1713,Querétaro,812 - Servicios personales
+1714,Querétaro,813 - Asociaciones y organizaciones
+1715,Querétaro,814 - Hogares con empleados domésticos
+1716,Querétaro,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1717,Quintana Roo,111 - Agricultura
+1718,Quintana Roo,112 - Cría y explotación de animales
+1719,Quintana Roo,113 - Aprovechamiento forestal
+1720,Quintana Roo,"114 - Pesca, caza y captura"
+1721,Quintana Roo,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1722,Quintana Roo,211 - Extracción de petróleo y gas
+1723,Quintana Roo,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1724,Quintana Roo,213 - Servicios relacionados con la minería
+1725,Quintana Roo,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1726,Quintana Roo,236 - Edificación
+1727,Quintana Roo,237 - Construcción de obras de ingeniería civil
+1728,Quintana Roo,238 - Trabajos especializados para la construcción
+1729,Quintana Roo,311 - Industria alimentaria
+1730,Quintana Roo,312 - Industria de las bebidas y del tabaco
+1731,Quintana Roo,313 - Fabricación de insumos textiles y acabado de textiles
+1732,Quintana Roo,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1733,Quintana Roo,315 - Fabricación de prendas de vestir
+1734,Quintana Roo,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1735,Quintana Roo,321 - Industria de la madera
+1736,Quintana Roo,322 - Industria del papel
+1737,Quintana Roo,323 - Impresión e industrias conexas
+1738,Quintana Roo,324 - Fabricación de productos derivados del petróleo y del carbón
+1739,Quintana Roo,325 - Industria química
+1740,Quintana Roo,326 - Industria del plástico y del hule
+1741,Quintana Roo,327 - Fabricación de productos a base de minerales no metálicos
+1742,Quintana Roo,331 - Industrias metálicas básicas
+1743,Quintana Roo,332 - Fabricación de productos metálicos
+1744,Quintana Roo,333 - Fabricación de maquinaria y equipo
+1745,Quintana Roo,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1746,Quintana Roo,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1747,Quintana Roo,336 - Fabricación de equipo de transporte
+1748,Quintana Roo,"337 - Fabricación de muebles, colchones y persianas"
+1749,Quintana Roo,339 - Otras industrias manufactureras
+1750,Quintana Roo,43 - Comercio al por mayor
+1751,Quintana Roo,46 - Comercio al por menor
+1752,Quintana Roo,481 - Transporte aéreo
+1753,Quintana Roo,482 - Transporte por ferrocarril
+1754,Quintana Roo,483 - Transporte por agua
+1755,Quintana Roo,484 - Autotransporte de carga
+1756,Quintana Roo,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1757,Quintana Roo,486 - Transporte por ductos
+1758,Quintana Roo,487 - Transporte turístico
+1759,Quintana Roo,488 - Servicios relacionados con el transporte
+1760,Quintana Roo,491 - Servicios postales
+1761,Quintana Roo,492 - Servicios de mensajería y paquetería
+1762,Quintana Roo,493 - Servicios de almacenamiento
+1763,Quintana Roo,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1764,Quintana Roo,"512 - Industria fílmica y del video, e industria del sonido"
+1765,Quintana Roo,515 - Radio y televisión
+1766,Quintana Roo,517 - Telecomunicaciones
+1767,Quintana Roo,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1768,Quintana Roo,519 - Otros servicios de información
+1769,Quintana Roo,521 - Banca central
+1770,Quintana Roo,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1771,Quintana Roo,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1772,Quintana Roo,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1773,Quintana Roo,531 - Servicios inmobiliarios
+1774,Quintana Roo,532 - Servicios de alquiler de bienes muebles
+1775,Quintana Roo,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1776,Quintana Roo,"541 - Servicios profesionales, científicos y técnicos"
+1777,Quintana Roo,551 - Corporativos
+1778,Quintana Roo,561 - Servicios de apoyo a los negocios
+1779,Quintana Roo,562 - Manejo de residuos y servicios de remediación
+1780,Quintana Roo,611 - Servicios educativos
+1781,Quintana Roo,621 - Servicios médicos de consulta externa y servicios relacionados
+1782,Quintana Roo,622 - Hospitales
+1783,Quintana Roo,623 - Residencias de asistencia social y para el cuidado de la salud
+1784,Quintana Roo,624 - Otros servicios de asistencia social
+1785,Quintana Roo,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1786,Quintana Roo,"712 - Museos, sitios históricos, zoológicos y similares"
+1787,Quintana Roo,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1788,Quintana Roo,721 - Servicios de alojamiento temporal
+1789,Quintana Roo,722 - Servicios de preparación de alimentos y bebidas
+1790,Quintana Roo,811 - Servicios de reparación y mantenimiento
+1791,Quintana Roo,812 - Servicios personales
+1792,Quintana Roo,813 - Asociaciones y organizaciones
+1793,Quintana Roo,814 - Hogares con empleados domésticos
+1794,Quintana Roo,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1795,San Luis Potosí,111 - Agricultura
+1796,San Luis Potosí,112 - Cría y explotación de animales
+1797,San Luis Potosí,113 - Aprovechamiento forestal
+1798,San Luis Potosí,"114 - Pesca, caza y captura"
+1799,San Luis Potosí,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1800,San Luis Potosí,211 - Extracción de petróleo y gas
+1801,San Luis Potosí,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1802,San Luis Potosí,213 - Servicios relacionados con la minería
+1803,San Luis Potosí,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1804,San Luis Potosí,236 - Edificación
+1805,San Luis Potosí,237 - Construcción de obras de ingeniería civil
+1806,San Luis Potosí,238 - Trabajos especializados para la construcción
+1807,San Luis Potosí,311 - Industria alimentaria
+1808,San Luis Potosí,312 - Industria de las bebidas y del tabaco
+1809,San Luis Potosí,313 - Fabricación de insumos textiles y acabado de textiles
+1810,San Luis Potosí,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1811,San Luis Potosí,315 - Fabricación de prendas de vestir
+1812,San Luis Potosí,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1813,San Luis Potosí,321 - Industria de la madera
+1814,San Luis Potosí,322 - Industria del papel
+1815,San Luis Potosí,323 - Impresión e industrias conexas
+1816,San Luis Potosí,324 - Fabricación de productos derivados del petróleo y del carbón
+1817,San Luis Potosí,325 - Industria química
+1818,San Luis Potosí,326 - Industria del plástico y del hule
+1819,San Luis Potosí,327 - Fabricación de productos a base de minerales no metálicos
+1820,San Luis Potosí,331 - Industrias metálicas básicas
+1821,San Luis Potosí,332 - Fabricación de productos metálicos
+1822,San Luis Potosí,333 - Fabricación de maquinaria y equipo
+1823,San Luis Potosí,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1824,San Luis Potosí,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1825,San Luis Potosí,336 - Fabricación de equipo de transporte
+1826,San Luis Potosí,"337 - Fabricación de muebles, colchones y persianas"
+1827,San Luis Potosí,339 - Otras industrias manufactureras
+1828,San Luis Potosí,43 - Comercio al por mayor
+1829,San Luis Potosí,46 - Comercio al por menor
+1830,San Luis Potosí,481 - Transporte aéreo
+1831,San Luis Potosí,482 - Transporte por ferrocarril
+1832,San Luis Potosí,483 - Transporte por agua
+1833,San Luis Potosí,484 - Autotransporte de carga
+1834,San Luis Potosí,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1835,San Luis Potosí,486 - Transporte por ductos
+1836,San Luis Potosí,487 - Transporte turístico
+1837,San Luis Potosí,488 - Servicios relacionados con el transporte
+1838,San Luis Potosí,491 - Servicios postales
+1839,San Luis Potosí,492 - Servicios de mensajería y paquetería
+1840,San Luis Potosí,493 - Servicios de almacenamiento
+1841,San Luis Potosí,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1842,San Luis Potosí,"512 - Industria fílmica y del video, e industria del sonido"
+1843,San Luis Potosí,515 - Radio y televisión
+1844,San Luis Potosí,517 - Telecomunicaciones
+1845,San Luis Potosí,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1846,San Luis Potosí,519 - Otros servicios de información
+1847,San Luis Potosí,521 - Banca central
+1848,San Luis Potosí,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1849,San Luis Potosí,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1850,San Luis Potosí,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1851,San Luis Potosí,531 - Servicios inmobiliarios
+1852,San Luis Potosí,532 - Servicios de alquiler de bienes muebles
+1853,San Luis Potosí,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1854,San Luis Potosí,"541 - Servicios profesionales, científicos y técnicos"
+1855,San Luis Potosí,551 - Corporativos
+1856,San Luis Potosí,561 - Servicios de apoyo a los negocios
+1857,San Luis Potosí,562 - Manejo de residuos y servicios de remediación
+1858,San Luis Potosí,611 - Servicios educativos
+1859,San Luis Potosí,621 - Servicios médicos de consulta externa y servicios relacionados
+1860,San Luis Potosí,622 - Hospitales
+1861,San Luis Potosí,623 - Residencias de asistencia social y para el cuidado de la salud
+1862,San Luis Potosí,624 - Otros servicios de asistencia social
+1863,San Luis Potosí,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1864,San Luis Potosí,"712 - Museos, sitios históricos, zoológicos y similares"
+1865,San Luis Potosí,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1866,San Luis Potosí,721 - Servicios de alojamiento temporal
+1867,San Luis Potosí,722 - Servicios de preparación de alimentos y bebidas
+1868,San Luis Potosí,811 - Servicios de reparación y mantenimiento
+1869,San Luis Potosí,812 - Servicios personales
+1870,San Luis Potosí,813 - Asociaciones y organizaciones
+1871,San Luis Potosí,814 - Hogares con empleados domésticos
+1872,San Luis Potosí,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1873,Sinaloa,111 - Agricultura
+1874,Sinaloa,112 - Cría y explotación de animales
+1875,Sinaloa,113 - Aprovechamiento forestal
+1876,Sinaloa,"114 - Pesca, caza y captura"
+1877,Sinaloa,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1878,Sinaloa,211 - Extracción de petróleo y gas
+1879,Sinaloa,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1880,Sinaloa,213 - Servicios relacionados con la minería
+1881,Sinaloa,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1882,Sinaloa,236 - Edificación
+1883,Sinaloa,237 - Construcción de obras de ingeniería civil
+1884,Sinaloa,238 - Trabajos especializados para la construcción
+1885,Sinaloa,311 - Industria alimentaria
+1886,Sinaloa,312 - Industria de las bebidas y del tabaco
+1887,Sinaloa,313 - Fabricación de insumos textiles y acabado de textiles
+1888,Sinaloa,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1889,Sinaloa,315 - Fabricación de prendas de vestir
+1890,Sinaloa,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1891,Sinaloa,321 - Industria de la madera
+1892,Sinaloa,322 - Industria del papel
+1893,Sinaloa,323 - Impresión e industrias conexas
+1894,Sinaloa,324 - Fabricación de productos derivados del petróleo y del carbón
+1895,Sinaloa,325 - Industria química
+1896,Sinaloa,326 - Industria del plástico y del hule
+1897,Sinaloa,327 - Fabricación de productos a base de minerales no metálicos
+1898,Sinaloa,331 - Industrias metálicas básicas
+1899,Sinaloa,332 - Fabricación de productos metálicos
+1900,Sinaloa,333 - Fabricación de maquinaria y equipo
+1901,Sinaloa,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1902,Sinaloa,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1903,Sinaloa,336 - Fabricación de equipo de transporte
+1904,Sinaloa,"337 - Fabricación de muebles, colchones y persianas"
+1905,Sinaloa,339 - Otras industrias manufactureras
+1906,Sinaloa,43 - Comercio al por mayor
+1907,Sinaloa,46 - Comercio al por menor
+1908,Sinaloa,481 - Transporte aéreo
+1909,Sinaloa,482 - Transporte por ferrocarril
+1910,Sinaloa,483 - Transporte por agua
+1911,Sinaloa,484 - Autotransporte de carga
+1912,Sinaloa,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1913,Sinaloa,486 - Transporte por ductos
+1914,Sinaloa,487 - Transporte turístico
+1915,Sinaloa,488 - Servicios relacionados con el transporte
+1916,Sinaloa,491 - Servicios postales
+1917,Sinaloa,492 - Servicios de mensajería y paquetería
+1918,Sinaloa,493 - Servicios de almacenamiento
+1919,Sinaloa,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1920,Sinaloa,"512 - Industria fílmica y del video, e industria del sonido"
+1921,Sinaloa,515 - Radio y televisión
+1922,Sinaloa,517 - Telecomunicaciones
+1923,Sinaloa,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+1924,Sinaloa,519 - Otros servicios de información
+1925,Sinaloa,521 - Banca central
+1926,Sinaloa,522 - Instituciones de intermediación crediticia y financiera no bursátil
+1927,Sinaloa,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+1928,Sinaloa,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+1929,Sinaloa,531 - Servicios inmobiliarios
+1930,Sinaloa,532 - Servicios de alquiler de bienes muebles
+1931,Sinaloa,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+1932,Sinaloa,"541 - Servicios profesionales, científicos y técnicos"
+1933,Sinaloa,551 - Corporativos
+1934,Sinaloa,561 - Servicios de apoyo a los negocios
+1935,Sinaloa,562 - Manejo de residuos y servicios de remediación
+1936,Sinaloa,611 - Servicios educativos
+1937,Sinaloa,621 - Servicios médicos de consulta externa y servicios relacionados
+1938,Sinaloa,622 - Hospitales
+1939,Sinaloa,623 - Residencias de asistencia social y para el cuidado de la salud
+1940,Sinaloa,624 - Otros servicios de asistencia social
+1941,Sinaloa,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+1942,Sinaloa,"712 - Museos, sitios históricos, zoológicos y similares"
+1943,Sinaloa,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+1944,Sinaloa,721 - Servicios de alojamiento temporal
+1945,Sinaloa,722 - Servicios de preparación de alimentos y bebidas
+1946,Sinaloa,811 - Servicios de reparación y mantenimiento
+1947,Sinaloa,812 - Servicios personales
+1948,Sinaloa,813 - Asociaciones y organizaciones
+1949,Sinaloa,814 - Hogares con empleados domésticos
+1950,Sinaloa,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+1951,Sonora,111 - Agricultura
+1952,Sonora,112 - Cría y explotación de animales
+1953,Sonora,113 - Aprovechamiento forestal
+1954,Sonora,"114 - Pesca, caza y captura"
+1955,Sonora,115 - Servicios relacionados con las actividades agropecuarias y forestales
+1956,Sonora,211 - Extracción de petróleo y gas
+1957,Sonora,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+1958,Sonora,213 - Servicios relacionados con la minería
+1959,Sonora,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+1960,Sonora,236 - Edificación
+1961,Sonora,237 - Construcción de obras de ingeniería civil
+1962,Sonora,238 - Trabajos especializados para la construcción
+1963,Sonora,311 - Industria alimentaria
+1964,Sonora,312 - Industria de las bebidas y del tabaco
+1965,Sonora,313 - Fabricación de insumos textiles y acabado de textiles
+1966,Sonora,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+1967,Sonora,315 - Fabricación de prendas de vestir
+1968,Sonora,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+1969,Sonora,321 - Industria de la madera
+1970,Sonora,322 - Industria del papel
+1971,Sonora,323 - Impresión e industrias conexas
+1972,Sonora,324 - Fabricación de productos derivados del petróleo y del carbón
+1973,Sonora,325 - Industria química
+1974,Sonora,326 - Industria del plástico y del hule
+1975,Sonora,327 - Fabricación de productos a base de minerales no metálicos
+1976,Sonora,331 - Industrias metálicas básicas
+1977,Sonora,332 - Fabricación de productos metálicos
+1978,Sonora,333 - Fabricación de maquinaria y equipo
+1979,Sonora,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+1980,Sonora,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+1981,Sonora,336 - Fabricación de equipo de transporte
+1982,Sonora,"337 - Fabricación de muebles, colchones y persianas"
+1983,Sonora,339 - Otras industrias manufactureras
+1984,Sonora,43 - Comercio al por mayor
+1985,Sonora,46 - Comercio al por menor
+1986,Sonora,481 - Transporte aéreo
+1987,Sonora,482 - Transporte por ferrocarril
+1988,Sonora,483 - Transporte por agua
+1989,Sonora,484 - Autotransporte de carga
+1990,Sonora,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+1991,Sonora,486 - Transporte por ductos
+1992,Sonora,487 - Transporte turístico
+1993,Sonora,488 - Servicios relacionados con el transporte
+1994,Sonora,491 - Servicios postales
+1995,Sonora,492 - Servicios de mensajería y paquetería
+1996,Sonora,493 - Servicios de almacenamiento
+1997,Sonora,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+1998,Sonora,"512 - Industria fílmica y del video, e industria del sonido"
+1999,Sonora,515 - Radio y televisión
+2000,Sonora,517 - Telecomunicaciones
+2001,Sonora,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2002,Sonora,519 - Otros servicios de información
+2003,Sonora,521 - Banca central
+2004,Sonora,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2005,Sonora,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2006,Sonora,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2007,Sonora,531 - Servicios inmobiliarios
+2008,Sonora,532 - Servicios de alquiler de bienes muebles
+2009,Sonora,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2010,Sonora,"541 - Servicios profesionales, científicos y técnicos"
+2011,Sonora,551 - Corporativos
+2012,Sonora,561 - Servicios de apoyo a los negocios
+2013,Sonora,562 - Manejo de residuos y servicios de remediación
+2014,Sonora,611 - Servicios educativos
+2015,Sonora,621 - Servicios médicos de consulta externa y servicios relacionados
+2016,Sonora,622 - Hospitales
+2017,Sonora,623 - Residencias de asistencia social y para el cuidado de la salud
+2018,Sonora,624 - Otros servicios de asistencia social
+2019,Sonora,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2020,Sonora,"712 - Museos, sitios históricos, zoológicos y similares"
+2021,Sonora,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2022,Sonora,721 - Servicios de alojamiento temporal
+2023,Sonora,722 - Servicios de preparación de alimentos y bebidas
+2024,Sonora,811 - Servicios de reparación y mantenimiento
+2025,Sonora,812 - Servicios personales
+2026,Sonora,813 - Asociaciones y organizaciones
+2027,Sonora,814 - Hogares con empleados domésticos
+2028,Sonora,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2029,Tabasco,111 - Agricultura
+2030,Tabasco,112 - Cría y explotación de animales
+2031,Tabasco,113 - Aprovechamiento forestal
+2032,Tabasco,"114 - Pesca, caza y captura"
+2033,Tabasco,115 - Servicios relacionados con las actividades agropecuarias y forestales
+2034,Tabasco,211 - Extracción de petróleo y gas
+2035,Tabasco,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+2036,Tabasco,213 - Servicios relacionados con la minería
+2037,Tabasco,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+2038,Tabasco,236 - Edificación
+2039,Tabasco,237 - Construcción de obras de ingeniería civil
+2040,Tabasco,238 - Trabajos especializados para la construcción
+2041,Tabasco,311 - Industria alimentaria
+2042,Tabasco,312 - Industria de las bebidas y del tabaco
+2043,Tabasco,313 - Fabricación de insumos textiles y acabado de textiles
+2044,Tabasco,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+2045,Tabasco,315 - Fabricación de prendas de vestir
+2046,Tabasco,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+2047,Tabasco,321 - Industria de la madera
+2048,Tabasco,322 - Industria del papel
+2049,Tabasco,323 - Impresión e industrias conexas
+2050,Tabasco,324 - Fabricación de productos derivados del petróleo y del carbón
+2051,Tabasco,325 - Industria química
+2052,Tabasco,326 - Industria del plástico y del hule
+2053,Tabasco,327 - Fabricación de productos a base de minerales no metálicos
+2054,Tabasco,331 - Industrias metálicas básicas
+2055,Tabasco,332 - Fabricación de productos metálicos
+2056,Tabasco,333 - Fabricación de maquinaria y equipo
+2057,Tabasco,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+2058,Tabasco,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+2059,Tabasco,336 - Fabricación de equipo de transporte
+2060,Tabasco,"337 - Fabricación de muebles, colchones y persianas"
+2061,Tabasco,339 - Otras industrias manufactureras
+2062,Tabasco,43 - Comercio al por mayor
+2063,Tabasco,46 - Comercio al por menor
+2064,Tabasco,481 - Transporte aéreo
+2065,Tabasco,482 - Transporte por ferrocarril
+2066,Tabasco,483 - Transporte por agua
+2067,Tabasco,484 - Autotransporte de carga
+2068,Tabasco,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+2069,Tabasco,486 - Transporte por ductos
+2070,Tabasco,487 - Transporte turístico
+2071,Tabasco,488 - Servicios relacionados con el transporte
+2072,Tabasco,491 - Servicios postales
+2073,Tabasco,492 - Servicios de mensajería y paquetería
+2074,Tabasco,493 - Servicios de almacenamiento
+2075,Tabasco,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+2076,Tabasco,"512 - Industria fílmica y del video, e industria del sonido"
+2077,Tabasco,515 - Radio y televisión
+2078,Tabasco,517 - Telecomunicaciones
+2079,Tabasco,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2080,Tabasco,519 - Otros servicios de información
+2081,Tabasco,521 - Banca central
+2082,Tabasco,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2083,Tabasco,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2084,Tabasco,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2085,Tabasco,531 - Servicios inmobiliarios
+2086,Tabasco,532 - Servicios de alquiler de bienes muebles
+2087,Tabasco,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2088,Tabasco,"541 - Servicios profesionales, científicos y técnicos"
+2089,Tabasco,551 - Corporativos
+2090,Tabasco,561 - Servicios de apoyo a los negocios
+2091,Tabasco,562 - Manejo de residuos y servicios de remediación
+2092,Tabasco,611 - Servicios educativos
+2093,Tabasco,621 - Servicios médicos de consulta externa y servicios relacionados
+2094,Tabasco,622 - Hospitales
+2095,Tabasco,623 - Residencias de asistencia social y para el cuidado de la salud
+2096,Tabasco,624 - Otros servicios de asistencia social
+2097,Tabasco,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2098,Tabasco,"712 - Museos, sitios históricos, zoológicos y similares"
+2099,Tabasco,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2100,Tabasco,721 - Servicios de alojamiento temporal
+2101,Tabasco,722 - Servicios de preparación de alimentos y bebidas
+2102,Tabasco,811 - Servicios de reparación y mantenimiento
+2103,Tabasco,812 - Servicios personales
+2104,Tabasco,813 - Asociaciones y organizaciones
+2105,Tabasco,814 - Hogares con empleados domésticos
+2106,Tabasco,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2107,Tamaulipas,111 - Agricultura
+2108,Tamaulipas,112 - Cría y explotación de animales
+2109,Tamaulipas,113 - Aprovechamiento forestal
+2110,Tamaulipas,"114 - Pesca, caza y captura"
+2111,Tamaulipas,115 - Servicios relacionados con las actividades agropecuarias y forestales
+2112,Tamaulipas,211 - Extracción de petróleo y gas
+2113,Tamaulipas,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+2114,Tamaulipas,213 - Servicios relacionados con la minería
+2115,Tamaulipas,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+2116,Tamaulipas,236 - Edificación
+2117,Tamaulipas,237 - Construcción de obras de ingeniería civil
+2118,Tamaulipas,238 - Trabajos especializados para la construcción
+2119,Tamaulipas,311 - Industria alimentaria
+2120,Tamaulipas,312 - Industria de las bebidas y del tabaco
+2121,Tamaulipas,313 - Fabricación de insumos textiles y acabado de textiles
+2122,Tamaulipas,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+2123,Tamaulipas,315 - Fabricación de prendas de vestir
+2124,Tamaulipas,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+2125,Tamaulipas,321 - Industria de la madera
+2126,Tamaulipas,322 - Industria del papel
+2127,Tamaulipas,323 - Impresión e industrias conexas
+2128,Tamaulipas,324 - Fabricación de productos derivados del petróleo y del carbón
+2129,Tamaulipas,325 - Industria química
+2130,Tamaulipas,326 - Industria del plástico y del hule
+2131,Tamaulipas,327 - Fabricación de productos a base de minerales no metálicos
+2132,Tamaulipas,331 - Industrias metálicas básicas
+2133,Tamaulipas,332 - Fabricación de productos metálicos
+2134,Tamaulipas,333 - Fabricación de maquinaria y equipo
+2135,Tamaulipas,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+2136,Tamaulipas,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+2137,Tamaulipas,336 - Fabricación de equipo de transporte
+2138,Tamaulipas,"337 - Fabricación de muebles, colchones y persianas"
+2139,Tamaulipas,339 - Otras industrias manufactureras
+2140,Tamaulipas,43 - Comercio al por mayor
+2141,Tamaulipas,46 - Comercio al por menor
+2142,Tamaulipas,481 - Transporte aéreo
+2143,Tamaulipas,482 - Transporte por ferrocarril
+2144,Tamaulipas,483 - Transporte por agua
+2145,Tamaulipas,484 - Autotransporte de carga
+2146,Tamaulipas,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+2147,Tamaulipas,486 - Transporte por ductos
+2148,Tamaulipas,487 - Transporte turístico
+2149,Tamaulipas,488 - Servicios relacionados con el transporte
+2150,Tamaulipas,491 - Servicios postales
+2151,Tamaulipas,492 - Servicios de mensajería y paquetería
+2152,Tamaulipas,493 - Servicios de almacenamiento
+2153,Tamaulipas,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+2154,Tamaulipas,"512 - Industria fílmica y del video, e industria del sonido"
+2155,Tamaulipas,515 - Radio y televisión
+2156,Tamaulipas,517 - Telecomunicaciones
+2157,Tamaulipas,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2158,Tamaulipas,519 - Otros servicios de información
+2159,Tamaulipas,521 - Banca central
+2160,Tamaulipas,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2161,Tamaulipas,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2162,Tamaulipas,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2163,Tamaulipas,531 - Servicios inmobiliarios
+2164,Tamaulipas,532 - Servicios de alquiler de bienes muebles
+2165,Tamaulipas,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2166,Tamaulipas,"541 - Servicios profesionales, científicos y técnicos"
+2167,Tamaulipas,551 - Corporativos
+2168,Tamaulipas,561 - Servicios de apoyo a los negocios
+2169,Tamaulipas,562 - Manejo de residuos y servicios de remediación
+2170,Tamaulipas,611 - Servicios educativos
+2171,Tamaulipas,621 - Servicios médicos de consulta externa y servicios relacionados
+2172,Tamaulipas,622 - Hospitales
+2173,Tamaulipas,623 - Residencias de asistencia social y para el cuidado de la salud
+2174,Tamaulipas,624 - Otros servicios de asistencia social
+2175,Tamaulipas,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2176,Tamaulipas,"712 - Museos, sitios históricos, zoológicos y similares"
+2177,Tamaulipas,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2178,Tamaulipas,721 - Servicios de alojamiento temporal
+2179,Tamaulipas,722 - Servicios de preparación de alimentos y bebidas
+2180,Tamaulipas,811 - Servicios de reparación y mantenimiento
+2181,Tamaulipas,812 - Servicios personales
+2182,Tamaulipas,813 - Asociaciones y organizaciones
+2183,Tamaulipas,814 - Hogares con empleados domésticos
+2184,Tamaulipas,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2185,Tlaxcala,111 - Agricultura
+2186,Tlaxcala,112 - Cría y explotación de animales
+2187,Tlaxcala,113 - Aprovechamiento forestal
+2188,Tlaxcala,"114 - Pesca, caza y captura"
+2189,Tlaxcala,115 - Servicios relacionados con las actividades agropecuarias y forestales
+2190,Tlaxcala,211 - Extracción de petróleo y gas
+2191,Tlaxcala,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+2192,Tlaxcala,213 - Servicios relacionados con la minería
+2193,Tlaxcala,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+2194,Tlaxcala,236 - Edificación
+2195,Tlaxcala,237 - Construcción de obras de ingeniería civil
+2196,Tlaxcala,238 - Trabajos especializados para la construcción
+2197,Tlaxcala,311 - Industria alimentaria
+2198,Tlaxcala,312 - Industria de las bebidas y del tabaco
+2199,Tlaxcala,313 - Fabricación de insumos textiles y acabado de textiles
+2200,Tlaxcala,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+2201,Tlaxcala,315 - Fabricación de prendas de vestir
+2202,Tlaxcala,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+2203,Tlaxcala,321 - Industria de la madera
+2204,Tlaxcala,322 - Industria del papel
+2205,Tlaxcala,323 - Impresión e industrias conexas
+2206,Tlaxcala,324 - Fabricación de productos derivados del petróleo y del carbón
+2207,Tlaxcala,325 - Industria química
+2208,Tlaxcala,326 - Industria del plástico y del hule
+2209,Tlaxcala,327 - Fabricación de productos a base de minerales no metálicos
+2210,Tlaxcala,331 - Industrias metálicas básicas
+2211,Tlaxcala,332 - Fabricación de productos metálicos
+2212,Tlaxcala,333 - Fabricación de maquinaria y equipo
+2213,Tlaxcala,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+2214,Tlaxcala,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+2215,Tlaxcala,336 - Fabricación de equipo de transporte
+2216,Tlaxcala,"337 - Fabricación de muebles, colchones y persianas"
+2217,Tlaxcala,339 - Otras industrias manufactureras
+2218,Tlaxcala,43 - Comercio al por mayor
+2219,Tlaxcala,46 - Comercio al por menor
+2220,Tlaxcala,481 - Transporte aéreo
+2221,Tlaxcala,482 - Transporte por ferrocarril
+2222,Tlaxcala,483 - Transporte por agua
+2223,Tlaxcala,484 - Autotransporte de carga
+2224,Tlaxcala,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+2225,Tlaxcala,486 - Transporte por ductos
+2226,Tlaxcala,487 - Transporte turístico
+2227,Tlaxcala,488 - Servicios relacionados con el transporte
+2228,Tlaxcala,491 - Servicios postales
+2229,Tlaxcala,492 - Servicios de mensajería y paquetería
+2230,Tlaxcala,493 - Servicios de almacenamiento
+2231,Tlaxcala,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+2232,Tlaxcala,"512 - Industria fílmica y del video, e industria del sonido"
+2233,Tlaxcala,515 - Radio y televisión
+2234,Tlaxcala,517 - Telecomunicaciones
+2235,Tlaxcala,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2236,Tlaxcala,519 - Otros servicios de información
+2237,Tlaxcala,521 - Banca central
+2238,Tlaxcala,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2239,Tlaxcala,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2240,Tlaxcala,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2241,Tlaxcala,531 - Servicios inmobiliarios
+2242,Tlaxcala,532 - Servicios de alquiler de bienes muebles
+2243,Tlaxcala,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2244,Tlaxcala,"541 - Servicios profesionales, científicos y técnicos"
+2245,Tlaxcala,551 - Corporativos
+2246,Tlaxcala,561 - Servicios de apoyo a los negocios
+2247,Tlaxcala,562 - Manejo de residuos y servicios de remediación
+2248,Tlaxcala,611 - Servicios educativos
+2249,Tlaxcala,621 - Servicios médicos de consulta externa y servicios relacionados
+2250,Tlaxcala,622 - Hospitales
+2251,Tlaxcala,623 - Residencias de asistencia social y para el cuidado de la salud
+2252,Tlaxcala,624 - Otros servicios de asistencia social
+2253,Tlaxcala,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2254,Tlaxcala,"712 - Museos, sitios históricos, zoológicos y similares"
+2255,Tlaxcala,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2256,Tlaxcala,721 - Servicios de alojamiento temporal
+2257,Tlaxcala,722 - Servicios de preparación de alimentos y bebidas
+2258,Tlaxcala,811 - Servicios de reparación y mantenimiento
+2259,Tlaxcala,812 - Servicios personales
+2260,Tlaxcala,813 - Asociaciones y organizaciones
+2261,Tlaxcala,814 - Hogares con empleados domésticos
+2262,Tlaxcala,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2263,Veracruz de Ignacio de la Llave,111 - Agricultura
+2264,Veracruz de Ignacio de la Llave,112 - Cría y explotación de animales
+2265,Veracruz de Ignacio de la Llave,113 - Aprovechamiento forestal
+2266,Veracruz de Ignacio de la Llave,"114 - Pesca, caza y captura"
+2267,Veracruz de Ignacio de la Llave,115 - Servicios relacionados con las actividades agropecuarias y forestales
+2268,Veracruz de Ignacio de la Llave,211 - Extracción de petróleo y gas
+2269,Veracruz de Ignacio de la Llave,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+2270,Veracruz de Ignacio de la Llave,213 - Servicios relacionados con la minería
+2271,Veracruz de Ignacio de la Llave,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+2272,Veracruz de Ignacio de la Llave,236 - Edificación
+2273,Veracruz de Ignacio de la Llave,237 - Construcción de obras de ingeniería civil
+2274,Veracruz de Ignacio de la Llave,238 - Trabajos especializados para la construcción
+2275,Veracruz de Ignacio de la Llave,311 - Industria alimentaria
+2276,Veracruz de Ignacio de la Llave,312 - Industria de las bebidas y del tabaco
+2277,Veracruz de Ignacio de la Llave,313 - Fabricación de insumos textiles y acabado de textiles
+2278,Veracruz de Ignacio de la Llave,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+2279,Veracruz de Ignacio de la Llave,315 - Fabricación de prendas de vestir
+2280,Veracruz de Ignacio de la Llave,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+2281,Veracruz de Ignacio de la Llave,321 - Industria de la madera
+2282,Veracruz de Ignacio de la Llave,322 - Industria del papel
+2283,Veracruz de Ignacio de la Llave,323 - Impresión e industrias conexas
+2284,Veracruz de Ignacio de la Llave,324 - Fabricación de productos derivados del petróleo y del carbón
+2285,Veracruz de Ignacio de la Llave,325 - Industria química
+2286,Veracruz de Ignacio de la Llave,326 - Industria del plástico y del hule
+2287,Veracruz de Ignacio de la Llave,327 - Fabricación de productos a base de minerales no metálicos
+2288,Veracruz de Ignacio de la Llave,331 - Industrias metálicas básicas
+2289,Veracruz de Ignacio de la Llave,332 - Fabricación de productos metálicos
+2290,Veracruz de Ignacio de la Llave,333 - Fabricación de maquinaria y equipo
+2291,Veracruz de Ignacio de la Llave,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+2292,Veracruz de Ignacio de la Llave,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+2293,Veracruz de Ignacio de la Llave,336 - Fabricación de equipo de transporte
+2294,Veracruz de Ignacio de la Llave,"337 - Fabricación de muebles, colchones y persianas"
+2295,Veracruz de Ignacio de la Llave,339 - Otras industrias manufactureras
+2296,Veracruz de Ignacio de la Llave,43 - Comercio al por mayor
+2297,Veracruz de Ignacio de la Llave,46 - Comercio al por menor
+2298,Veracruz de Ignacio de la Llave,481 - Transporte aéreo
+2299,Veracruz de Ignacio de la Llave,482 - Transporte por ferrocarril
+2300,Veracruz de Ignacio de la Llave,483 - Transporte por agua
+2301,Veracruz de Ignacio de la Llave,484 - Autotransporte de carga
+2302,Veracruz de Ignacio de la Llave,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+2303,Veracruz de Ignacio de la Llave,486 - Transporte por ductos
+2304,Veracruz de Ignacio de la Llave,487 - Transporte turístico
+2305,Veracruz de Ignacio de la Llave,488 - Servicios relacionados con el transporte
+2306,Veracruz de Ignacio de la Llave,491 - Servicios postales
+2307,Veracruz de Ignacio de la Llave,492 - Servicios de mensajería y paquetería
+2308,Veracruz de Ignacio de la Llave,493 - Servicios de almacenamiento
+2309,Veracruz de Ignacio de la Llave,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+2310,Veracruz de Ignacio de la Llave,"512 - Industria fílmica y del video, e industria del sonido"
+2311,Veracruz de Ignacio de la Llave,515 - Radio y televisión
+2312,Veracruz de Ignacio de la Llave,517 - Telecomunicaciones
+2313,Veracruz de Ignacio de la Llave,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2314,Veracruz de Ignacio de la Llave,519 - Otros servicios de información
+2315,Veracruz de Ignacio de la Llave,521 - Banca central
+2316,Veracruz de Ignacio de la Llave,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2317,Veracruz de Ignacio de la Llave,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2318,Veracruz de Ignacio de la Llave,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2319,Veracruz de Ignacio de la Llave,531 - Servicios inmobiliarios
+2320,Veracruz de Ignacio de la Llave,532 - Servicios de alquiler de bienes muebles
+2321,Veracruz de Ignacio de la Llave,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2322,Veracruz de Ignacio de la Llave,"541 - Servicios profesionales, científicos y técnicos"
+2323,Veracruz de Ignacio de la Llave,551 - Corporativos
+2324,Veracruz de Ignacio de la Llave,561 - Servicios de apoyo a los negocios
+2325,Veracruz de Ignacio de la Llave,562 - Manejo de residuos y servicios de remediación
+2326,Veracruz de Ignacio de la Llave,611 - Servicios educativos
+2327,Veracruz de Ignacio de la Llave,621 - Servicios médicos de consulta externa y servicios relacionados
+2328,Veracruz de Ignacio de la Llave,622 - Hospitales
+2329,Veracruz de Ignacio de la Llave,623 - Residencias de asistencia social y para el cuidado de la salud
+2330,Veracruz de Ignacio de la Llave,624 - Otros servicios de asistencia social
+2331,Veracruz de Ignacio de la Llave,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2332,Veracruz de Ignacio de la Llave,"712 - Museos, sitios históricos, zoológicos y similares"
+2333,Veracruz de Ignacio de la Llave,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2334,Veracruz de Ignacio de la Llave,721 - Servicios de alojamiento temporal
+2335,Veracruz de Ignacio de la Llave,722 - Servicios de preparación de alimentos y bebidas
+2336,Veracruz de Ignacio de la Llave,811 - Servicios de reparación y mantenimiento
+2337,Veracruz de Ignacio de la Llave,812 - Servicios personales
+2338,Veracruz de Ignacio de la Llave,813 - Asociaciones y organizaciones
+2339,Veracruz de Ignacio de la Llave,814 - Hogares con empleados domésticos
+2340,Veracruz de Ignacio de la Llave,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2341,Yucatán,111 - Agricultura
+2342,Yucatán,112 - Cría y explotación de animales
+2343,Yucatán,113 - Aprovechamiento forestal
+2344,Yucatán,"114 - Pesca, caza y captura"
+2345,Yucatán,115 - Servicios relacionados con las actividades agropecuarias y forestales
+2346,Yucatán,211 - Extracción de petróleo y gas
+2347,Yucatán,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+2348,Yucatán,213 - Servicios relacionados con la minería
+2349,Yucatán,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+2350,Yucatán,236 - Edificación
+2351,Yucatán,237 - Construcción de obras de ingeniería civil
+2352,Yucatán,238 - Trabajos especializados para la construcción
+2353,Yucatán,311 - Industria alimentaria
+2354,Yucatán,312 - Industria de las bebidas y del tabaco
+2355,Yucatán,313 - Fabricación de insumos textiles y acabado de textiles
+2356,Yucatán,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+2357,Yucatán,315 - Fabricación de prendas de vestir
+2358,Yucatán,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+2359,Yucatán,321 - Industria de la madera
+2360,Yucatán,322 - Industria del papel
+2361,Yucatán,323 - Impresión e industrias conexas
+2362,Yucatán,324 - Fabricación de productos derivados del petróleo y del carbón
+2363,Yucatán,325 - Industria química
+2364,Yucatán,326 - Industria del plástico y del hule
+2365,Yucatán,327 - Fabricación de productos a base de minerales no metálicos
+2366,Yucatán,331 - Industrias metálicas básicas
+2367,Yucatán,332 - Fabricación de productos metálicos
+2368,Yucatán,333 - Fabricación de maquinaria y equipo
+2369,Yucatán,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+2370,Yucatán,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+2371,Yucatán,336 - Fabricación de equipo de transporte
+2372,Yucatán,"337 - Fabricación de muebles, colchones y persianas"
+2373,Yucatán,339 - Otras industrias manufactureras
+2374,Yucatán,43 - Comercio al por mayor
+2375,Yucatán,46 - Comercio al por menor
+2376,Yucatán,481 - Transporte aéreo
+2377,Yucatán,482 - Transporte por ferrocarril
+2378,Yucatán,483 - Transporte por agua
+2379,Yucatán,484 - Autotransporte de carga
+2380,Yucatán,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+2381,Yucatán,486 - Transporte por ductos
+2382,Yucatán,487 - Transporte turístico
+2383,Yucatán,488 - Servicios relacionados con el transporte
+2384,Yucatán,491 - Servicios postales
+2385,Yucatán,492 - Servicios de mensajería y paquetería
+2386,Yucatán,493 - Servicios de almacenamiento
+2387,Yucatán,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+2388,Yucatán,"512 - Industria fílmica y del video, e industria del sonido"
+2389,Yucatán,515 - Radio y televisión
+2390,Yucatán,517 - Telecomunicaciones
+2391,Yucatán,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2392,Yucatán,519 - Otros servicios de información
+2393,Yucatán,521 - Banca central
+2394,Yucatán,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2395,Yucatán,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2396,Yucatán,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2397,Yucatán,531 - Servicios inmobiliarios
+2398,Yucatán,532 - Servicios de alquiler de bienes muebles
+2399,Yucatán,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2400,Yucatán,"541 - Servicios profesionales, científicos y técnicos"
+2401,Yucatán,551 - Corporativos
+2402,Yucatán,561 - Servicios de apoyo a los negocios
+2403,Yucatán,562 - Manejo de residuos y servicios de remediación
+2404,Yucatán,611 - Servicios educativos
+2405,Yucatán,621 - Servicios médicos de consulta externa y servicios relacionados
+2406,Yucatán,622 - Hospitales
+2407,Yucatán,623 - Residencias de asistencia social y para el cuidado de la salud
+2408,Yucatán,624 - Otros servicios de asistencia social
+2409,Yucatán,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2410,Yucatán,"712 - Museos, sitios históricos, zoológicos y similares"
+2411,Yucatán,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2412,Yucatán,721 - Servicios de alojamiento temporal
+2413,Yucatán,722 - Servicios de preparación de alimentos y bebidas
+2414,Yucatán,811 - Servicios de reparación y mantenimiento
+2415,Yucatán,812 - Servicios personales
+2416,Yucatán,813 - Asociaciones y organizaciones
+2417,Yucatán,814 - Hogares con empleados domésticos
+2418,Yucatán,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2419,Zacatecas,111 - Agricultura
+2420,Zacatecas,112 - Cría y explotación de animales
+2421,Zacatecas,113 - Aprovechamiento forestal
+2422,Zacatecas,"114 - Pesca, caza y captura"
+2423,Zacatecas,115 - Servicios relacionados con las actividades agropecuarias y forestales
+2424,Zacatecas,211 - Extracción de petróleo y gas
+2425,Zacatecas,"212 - Minería de minerales metálicos y no metálicos, excepto petróleo y gas"
+2426,Zacatecas,213 - Servicios relacionados con la minería
+2427,Zacatecas,"221 - Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+2428,Zacatecas,236 - Edificación
+2429,Zacatecas,237 - Construcción de obras de ingeniería civil
+2430,Zacatecas,238 - Trabajos especializados para la construcción
+2431,Zacatecas,311 - Industria alimentaria
+2432,Zacatecas,312 - Industria de las bebidas y del tabaco
+2433,Zacatecas,313 - Fabricación de insumos textiles y acabado de textiles
+2434,Zacatecas,"314 - Fabricación de productos textiles, excepto prendas de vestir"
+2435,Zacatecas,315 - Fabricación de prendas de vestir
+2436,Zacatecas,"316 - Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos"
+2437,Zacatecas,321 - Industria de la madera
+2438,Zacatecas,322 - Industria del papel
+2439,Zacatecas,323 - Impresión e industrias conexas
+2440,Zacatecas,324 - Fabricación de productos derivados del petróleo y del carbón
+2441,Zacatecas,325 - Industria química
+2442,Zacatecas,326 - Industria del plástico y del hule
+2443,Zacatecas,327 - Fabricación de productos a base de minerales no metálicos
+2444,Zacatecas,331 - Industrias metálicas básicas
+2445,Zacatecas,332 - Fabricación de productos metálicos
+2446,Zacatecas,333 - Fabricación de maquinaria y equipo
+2447,Zacatecas,"334 - Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos"
+2448,Zacatecas,"335 - Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica"
+2449,Zacatecas,336 - Fabricación de equipo de transporte
+2450,Zacatecas,"337 - Fabricación de muebles, colchones y persianas"
+2451,Zacatecas,339 - Otras industrias manufactureras
+2452,Zacatecas,43 - Comercio al por mayor
+2453,Zacatecas,46 - Comercio al por menor
+2454,Zacatecas,481 - Transporte aéreo
+2455,Zacatecas,482 - Transporte por ferrocarril
+2456,Zacatecas,483 - Transporte por agua
+2457,Zacatecas,484 - Autotransporte de carga
+2458,Zacatecas,"485 - Transporte terrestre de pasajeros, excepto por ferrocarril"
+2459,Zacatecas,486 - Transporte por ductos
+2460,Zacatecas,487 - Transporte turístico
+2461,Zacatecas,488 - Servicios relacionados con el transporte
+2462,Zacatecas,491 - Servicios postales
+2463,Zacatecas,492 - Servicios de mensajería y paquetería
+2464,Zacatecas,493 - Servicios de almacenamiento
+2465,Zacatecas,"511 - Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión"
+2466,Zacatecas,"512 - Industria fílmica y del video, e industria del sonido"
+2467,Zacatecas,515 - Radio y televisión
+2468,Zacatecas,517 - Telecomunicaciones
+2469,Zacatecas,"518 - Procesamiento electrónico de información, hospedaje y otros servicios relacionados"
+2470,Zacatecas,519 - Otros servicios de información
+2471,Zacatecas,521 - Banca central
+2472,Zacatecas,522 - Instituciones de intermediación crediticia y financiera no bursátil
+2473,Zacatecas,"523 - Actividades bursátiles, cambiarias y de inversión financiera"
+2474,Zacatecas,"524 - Compañías de seguros, fianzas, y administración de fondos para el retiro"
+2475,Zacatecas,531 - Servicios inmobiliarios
+2476,Zacatecas,532 - Servicios de alquiler de bienes muebles
+2477,Zacatecas,"533 - Servicios de alquiler de marcas registradas, patentes y franquicias"
+2478,Zacatecas,"541 - Servicios profesionales, científicos y técnicos"
+2479,Zacatecas,551 - Corporativos
+2480,Zacatecas,561 - Servicios de apoyo a los negocios
+2481,Zacatecas,562 - Manejo de residuos y servicios de remediación
+2482,Zacatecas,611 - Servicios educativos
+2483,Zacatecas,621 - Servicios médicos de consulta externa y servicios relacionados
+2484,Zacatecas,622 - Hospitales
+2485,Zacatecas,623 - Residencias de asistencia social y para el cuidado de la salud
+2486,Zacatecas,624 - Otros servicios de asistencia social
+2487,Zacatecas,"711 - Servicios artísticos, culturales y deportivos, y otros servicios relacionados"
+2488,Zacatecas,"712 - Museos, sitios históricos, zoológicos y similares"
+2489,Zacatecas,713 - Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos
+2490,Zacatecas,721 - Servicios de alojamiento temporal
+2491,Zacatecas,722 - Servicios de preparación de alimentos y bebidas
+2492,Zacatecas,811 - Servicios de reparación y mantenimiento
+2493,Zacatecas,812 - Servicios personales
+2494,Zacatecas,813 - Asociaciones y organizaciones
+2495,Zacatecas,814 - Hogares con empleados domésticos
+2496,Zacatecas,"931 - Actividades legislativas, gubernamentales y de impartición de justicia"
+2497,,Importaciones internacionales C.I.F.
+2498,,Impuestos netos de subsidios sobre los productos
+2499,,Valor Agregado Bruto
+,,
+,Total,Total
