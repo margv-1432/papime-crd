@@ -1,0 +1,6 @@
+MTRA,DESC_MTRA
+	01,Marítimo
+	04,Aéreo
+	06,Ferroviario
+	07,Carretero
+	09,Otros modos
