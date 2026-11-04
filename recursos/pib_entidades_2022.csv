@@ -1,0 +1,33 @@
+clave,nombre,abrev,region,pib_2022_mmp,pib_pct,pib_pc_pesos,tasa_crec_2022,tasa_crec_2021,tasa_crec_2019,pob_miles,pea_miles,tasa_desoc_2023,unidades_econ,ue_por_1000hab,sector_lider,participacion_sector_lider
+01,Aguascalientes,AGS,Norte,178543,0.81,98423,5.2,9.1,3.1,1425,699,2.8,72543,50.9,Manufactura,38.2
+02,Baja California,BC,Norte,604321,2.73,127845,4.8,10.2,1.9,3769,1876,3.1,145678,38.7,Manufactura,42.1
+03,Baja California Sur,BCS,Norte,134567,0.61,148932,6.1,11.3,2.4,903,452,2.1,45123,50.0,Turismo,31.5
+04,Campeche,CAM,Sur,521098,2.35,332145,−2.3,−8.1,−3.2,1567,690,2.5,38921,24.8,Petróleo,61.3
+05,Coahuila,COAH,Norte,645210,2.91,143267,4.1,8.9,1.4,3146,1589,2.3,121456,38.6,Manufactura,44.7
+06,Colima,COL,Occidente,68432,0.31,90234,3.2,7.8,1.1,757,371,3.4,33456,44.2,Comercio,28.9
+07,Chiapas,CHIS,Sur,236789,1.07,43219,2.8,5.6,0.9,5488,2134,4.1,167234,30.5,Agropecuario,22.4
+08,Chihuahua,CHIH,Norte,671345,3.03,162345,5.6,10.8,2.1,4124,2098,3.2,156789,38.0,Manufactura,40.3
+09,Ciudad de México,CDMX,Centro,3123456,14.10,346781,3.9,8.7,1.8,9013,4521,3.8,567234,62.9,Servicios,52.1
+10,Durango,DGO,Norte,178234,0.80,106543,3.4,7.2,1.3,1678,823,2.9,67891,40.5,Manufactura,29.8
+11,Guanajuato,GTO,Centro,706543,3.19,112345,4.3,9.4,2.2,6290,3012,2.6,243567,38.7,Manufactura,41.5
+12,Guerrero,GRO,Sur,156789,0.71,42187,2.1,4.3,0.7,3712,1634,4.8,112345,30.3,Turismo,24.6
+13,Hidalgo,HGO,Centro,246789,1.11,88432,3.7,8.1,1.5,2790,1345,3.3,98765,35.4,Manufactura,27.3
+14,Jalisco,JAL,Occidente,1278945,5.78,153456,4.9,10.1,2.4,8348,4123,2.7,376543,45.1,Manufactura,33.8
+15,Estado de México,MEX,Centro,1423456,6.43,84321,3.5,7.9,1.6,16992,7845,4.2,567890,33.4,Manufactura,32.1
+16,Michoacán,MICH,Occidente,298765,1.35,67234,3.1,6.8,1.2,4456,2089,3.9,156789,35.2,Agropecuario,26.7
+17,Morelos,MOR,Centro,123456,0.56,72345,2.9,6.5,0.9,1971,923,4.1,78934,40.0,Comercio,30.2
+18,Nayarit,NAY,Occidente,87654,0.40,80123,3.3,7.1,1.1,1235,589,3.2,46789,37.9,Turismo,28.4
+19,Nuevo León,NL,Norte,1567891,7.08,207456,5.8,11.2,3.4,5784,3012,2.2,234567,40.5,Manufactura,38.9
+20,Oaxaca,OAX,Sur,198765,0.90,48321,2.4,5.2,0.8,4132,1934,3.5,167890,40.6,Agropecuario,21.3
+21,Puebla,PUE,Centro,634321,2.87,96543,3.8,8.3,1.7,6583,3145,3.7,234567,35.6,Manufactura,34.2
+22,Querétaro,QRO,Centro,432109,1.95,198765,5.9,11.5,3.2,2179,1098,2.4,98765,45.3,Manufactura,43.7
+23,Quintana Roo,QROO,Sur,312345,1.41,193456,7.2,14.3,1.3,1857,934,3.8,87654,47.2,Turismo,45.8
+24,San Luis Potosí,SLP,Norte,345678,1.56,126543,4.2,9.0,1.8,2728,1345,2.8,109876,40.3,Manufactura,36.4
+25,Sinaloa,SIN,Norte,298765,1.35,96321,3.0,6.7,1.1,3026,1489,3.1,123456,40.8,Agropecuario,28.9
+26,Sonora,SON,Norte,487654,2.20,153456,4.5,9.8,2.0,2944,1489,2.6,121345,41.2,Manufactura,35.6
+27,Tabasco,TAB,Sur,423210,1.91,175432,−1.8,−5.2,−2.1,2402,1089,4.3,67891,28.3,Petróleo,54.2
+28,Tamaulipas,TAMPS,Norte,598765,2.70,143210,3.9,8.5,1.5,3527,1756,3.0,134567,38.2,Manufactura,37.8
+29,Tlaxcala,TLAX,Centro,89876,0.41,67432,2.7,6.0,0.8,1342,634,3.6,47890,35.7,Manufactura,31.2
+30,Veracruz,VER,Sur,612345,2.77,77543,2.5,5.8,0.9,7890,3589,4.5,298765,37.9,Comercio,26.3
+31,Yucatán,YUC,Sur,256789,1.16,126543,5.1,10.4,2.7,2320,1145,2.9,98765,42.6,Manufactura,29.8
+32,Zacatecas,ZAC,Norte,121098,0.55,86543,2.3,5.1,0.7,1494,712,3.1,56789,38.0,Minería,24.5
