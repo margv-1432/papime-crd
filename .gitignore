@@ -1,0 +1,16 @@
+.local/
+tmp/
+libro/_book/
+libro/_bookdown_files/
+libro/papime-piloto.*
+!libro/papime-piloto.Rmd
+.Rhistory
+.RData
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+.DS_Store
+entregas/*.zip
+entregas/*.bundle

@@ -1,0 +1,23 @@
+bookdown::gitbook:
+  css: estilos/libro.css
+  number_sections: false
+  split_by: chapter
+  split_bib: false
+  mathjax: recursos/tex-svg.js
+  includes:
+    in_header: estilos/cabecera.html
+  config:
+    toc:
+      collapse: section
+      before: '<li><a href="./">Economía mexicana · PAPIME</a></li>'
+    sharing: false
+    search: true
+    download: [pdf]
+bookdown::pdf_book:
+  latex_engine: xelatex
+  keep_tex: true
+  number_sections: false
+  includes:
+    in_header: estilos/preambulo.tex
+  toc_depth: 2
+  citation_package: default

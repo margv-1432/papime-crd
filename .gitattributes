@@ -1,0 +1,18 @@
+* text=auto eol=lf
+*.R text eol=lf
+*.Rmd text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.csv -text whitespace=cr-at-eol
+*.py text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.pdf binary
+*.png binary
+*.xlsx binary
+*.docx binary
+datos/originales/** -text
+referencias/** -text -whitespace
+datos/originales/** -whitespace
+entregas/web/** -whitespace

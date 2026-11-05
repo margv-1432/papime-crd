@@ -1,0 +1,23 @@
+Medición de la especialización. México, 2024.
+Fuente de todos los cálculos: Indices_Krugman, A1:W34; matriz de 32 por 21 actividades.
+Unidad de origen: millones de pesos de 2018. Denominadores: sumas sectoriales de valor agregado.
+KSI_i = sum_j abs(s_ij - s_j). ICE_j = sum_i abs(q_ij - w_i). Ambos sin factor 1/2.
+IEE_ij = (x_ij / x_i.) / (x_.j / x_..). El umbral de especialización relativa es 1.
+21-1 y 21-2 son códigos de apertura de esta tabla, no nuevos sectores SCIAN independientes.
+Las figuras 01, 02, 03 y 05 corresponden a II.2.1 a II.2.4 del texto.
+Los mapas 09 a 12 corresponden a II.2.5 a II.2.8; cada uno se guarda por separado.
+Cada mapa señala las cinco entidades con mayor índice: KSI en 08 e IEE en 09 a 12.
+Las figuras 04, 07 y 08 son material complementario.
+El mapa de calor incluye las 672 celdas, sin cifras impresas. Los valores exactos están en los CSV.
+El mapa de calor y todos los mapas del IEE comparten un degradado continuo azul a rojo oscuro.
+La barra horizontal inferior muestra los valores originales del índice; el color usa log(1 + IEE).
+El azul corresponde a valores inferiores a uno; el tono claro señala uno y el rojo indica valores superiores.
+El cero conserva el extremo azul. El KSI utiliza un degradado continuo con su escala de cero a dos.
+IEE = 0 conserva los ceros observados. Los datos faltantes detienen el cálculo.
+KSI bajo indica semejanza al país; no demuestra por sí solo diversificación absoluta.
+ICE bajo indica distribución proporcional al peso económico estatal; no implica reparto igual entre estados.
+Referencias: Krugman (1991), Geography and Trade; Hoover (1936), doi:10.2307/1927875;
+Lira y Quiroga (2009), Técnicas de análisis regional, CEPAL, Manuales 59;
+Hildebrand y Mace (1950), doi:10.2307/2937531, antecedente del cociente de localización.
+KSI e ICE coinciden con los valores guardados en Excel.
+Identidad ponderada KSI e ICE: 0.421851920429

@@ -1,0 +1,240 @@
+{
+  "fecha": "2026-11-05",
+  "base": "http://127.0.0.1:56361/",
+  "pruebas": [
+    {
+      "nombre": "Presentación navegable",
+      "resultado": "correcto",
+      "detalle": "http://127.0.0.1:56361/index.html"
+    },
+    {
+      "nombre": "Navegación presentación a especialización",
+      "resultado": "correcto",
+      "detalle": "http://127.0.0.1:56361/especializacion.html"
+    },
+    {
+      "nombre": "Ecuaciones MathJax renderizadas",
+      "resultado": "correcto",
+      "detalle": {
+        "contenedores": 18,
+        "displays": 5,
+        "inline": 13,
+        "errores": 0,
+        "formulas": 18
+      }
+    },
+    {
+      "nombre": "Gráfico integrado con 32 barras",
+      "resultado": "correcto",
+      "detalle": 32
+    },
+    {
+      "nombre": "Valores embebidos iguales al CSV preparado",
+      "resultado": "correcto",
+      "detalle": {
+        "filas": 32
+      }
+    },
+    {
+      "nombre": "Orden inicial descendente",
+      "resultado": "correcto",
+      "detalle": [
+        "04",
+        "27",
+        "23",
+        "09",
+        "18"
+      ]
+    },
+    {
+      "nombre": "Selección conserva 32 barras y destaca Coahuila",
+      "resultado": "correcto",
+      "detalle": "Valor conservado: 0.515990917711441"
+    },
+    {
+      "nombre": "Orden alfabético sin perder selección",
+      "resultado": "correcto",
+      "detalle": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "07",
+        "08"
+      ]
+    },
+    {
+      "nombre": "Selección con teclado",
+      "resultado": "correcto",
+      "detalle": "Campeche · KSI 1.352"
+    },
+    {
+      "nombre": "Tabla completa accesible",
+      "resultado": "correcto",
+      "detalle": 32
+    },
+    {
+      "nombre": "Descarga CSV completa e idéntica en valores",
+      "resultado": "correcto",
+      "detalle": {
+        "nombre": "F07-KSI_entidades_2024.csv",
+        "filas": 32
+      }
+    },
+    {
+      "nombre": "Navegación a referencias",
+      "resultado": "correcto",
+      "detalle": {
+        "referencias": 3,
+        "ids": [
+          "ref-inegi2026",
+          "ref-krugman2010",
+          "ref-bls2011"
+        ]
+      }
+    },
+    {
+      "nombre": "Referencias sin duplicación en el capítulo",
+      "resultado": "correcto",
+      "detalle": {
+        "enCapitulo": 0,
+        "enReferencias": 3
+      }
+    },
+    {
+      "nombre": "Citas enlazadas al destino existente",
+      "resultado": "correcto",
+      "detalle": [
+        {
+          "href": "referencias.html#ref-inegi2026",
+          "texto": "Instituto Nacional de Estadística y Geografía 2026"
+        },
+        {
+          "href": "referencias.html#ref-krugman2010",
+          "texto": "Krugman 2010, 12"
+        },
+        {
+          "href": "referencias.html#ref-bls2011",
+          "texto": "U.S. Bureau of Labor Statistics 2011, 2"
+        }
+      ]
+    },
+    {
+      "nombre": "Búsqueda del libro",
+      "resultado": "correcto",
+      "detalle": {
+        "coincidencias": 1,
+        "enlaces": [
+          "especializacion.html",
+          "especializacion.html#medicion",
+          "especializacion.html#matriz",
+          "especializacion.html#ksi",
+          "especializacion.html#otros-indices",
+          "especializacion.html#lectura-resultados"
+        ],
+        "sinCoincidencias": 0
+      }
+    },
+    {
+      "nombre": "Móvil 360 sin desbordamiento index.html",
+      "resultado": "correcto",
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360,
+        "bookBody": {
+          "client": 360,
+          "scroll": 360
+        },
+        "inner": {
+          "client": 360,
+          "scroll": 360
+        },
+        "content": {
+          "client": 320,
+          "scroll": 320
+        }
+      }
+    },
+    {
+      "nombre": "Móvil 360 sin desbordamiento especializacion.html",
+      "resultado": "correcto",
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360,
+        "bookBody": {
+          "client": 360,
+          "scroll": 360
+        },
+        "inner": {
+          "client": 360,
+          "scroll": 360
+        },
+        "content": {
+          "client": 320,
+          "scroll": 320
+        }
+      }
+    },
+    {
+      "nombre": "Gráfico móvil 360 sin desbordamiento",
+      "resultado": "correcto",
+      "detalle": {
+        "viewport": 288,
+        "ancho": 288,
+        "barras": 32
+      }
+    },
+    {
+      "nombre": "Móvil 360 sin desbordamiento referencias.html",
+      "resultado": "correcto",
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360,
+        "bookBody": {
+          "client": 360,
+          "scroll": 360
+        },
+        "inner": {
+          "client": 360,
+          "scroll": 360
+        },
+        "content": {
+          "client": 320,
+          "scroll": 320
+        }
+      }
+    },
+    {
+      "nombre": "Gráfico autónomo navegable",
+      "resultado": "correcto",
+      "detalle": "http://127.0.0.1:56361/recursos/F07-ksi.html"
+    },
+    {
+      "nombre": "Sin solicitudes externas",
+      "resultado": "correcto",
+      "detalle": []
+    },
+    {
+      "nombre": "Sin errores JavaScript",
+      "resultado": "correcto",
+      "detalle": []
+    }
+  ],
+  "errores_consola": [],
+  "solicitudes_externas": [],
+  "fallos_red": [],
+  "capturas": [
+    "tmp\\qa-web\\01-portada-desktop.png",
+    "tmp\\qa-web\\02-especializacion-desktop.png",
+    "tmp\\qa-web\\03-grafico-integrado-desktop.png",
+    "tmp\\qa-web\\04-referencias-desktop.png",
+    "tmp\\qa-web\\movil-index.png",
+    "tmp\\qa-web\\movil-especializacion.png",
+    "tmp\\qa-web\\movil-referencias.png",
+    "tmp\\qa-web\\05-grafico-autonomo-movil.png"
+  ],
+  "resultado": "correcto"
+}
