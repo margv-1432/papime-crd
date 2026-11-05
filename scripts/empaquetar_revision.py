@@ -27,7 +27,7 @@ históricas del repositorio base que no intervienen en el piloto ni la
 biblioteca local de programas.
 
 El estado y la continuación están en seguimiento/ESTADO.md.
-La sincronización con GitHub está pendiente de acceso de escritura.
+Publicación en GitHub https://github.com/margv-1432/papime-crd
 El capítulo I no se ha comenzado.
 """
 with zipfile.ZipFile(dest, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=6) as out:

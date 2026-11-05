@@ -1,12 +1,14 @@
 # Manual interactivo de economía mexicana
 
+B01 está publicado en [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), fork del repositorio de referencia. El [PDF del piloto](https://github.com/margv-1432/papime-crd/blob/main/entregas/pdf/PAPIME-B01-piloto.pdf), las [fuentes editables](https://github.com/margv-1432/papime-crd/tree/main/libro) y el [libro web con sus recursos](https://github.com/margv-1432/papime-crd/tree/main/entregas/web) están disponibles para revisión. La carpeta web se descarga completa para abrirla localmente; todavía no se publica un sitio en GitHub Pages.
+
 Proyecto PAPIME organizado para desarrollar el libro web y su edición en PDF a partir del manuscrito conservado. B01 prepara la arquitectura editorial, las fuentes, las plantillas y un piloto de medición de la especialización. El resultado se revisará antes de comenzar el capítulo I. El estado de compilación y las comprobaciones vigentes se registran en [seguimiento/ESTADO.md](seguimiento/ESTADO.md).
 
 ## Revisar el piloto
 
 La entrega web se abre desde [entregas/web/index.html](entregas/web/index.html). Es necesario conservar la carpeta `entregas/web` completa para que funcionen las ecuaciones, los estilos, la navegación y sus recursos. El gráfico permite explorar los mismos datos preparados utilizados por la figura estática.
 
-La versión de lectura e impresión está en [entregas/pdf/PAPIME-B01-piloto.pdf](entregas/pdf/PAPIME-B01-piloto.pdf). El piloto local está compilado y verificado. Su estado de sincronización con GitHub y las comprobaciones se mantienen en el registro de estado.
+La versión de lectura e impresión está en [entregas/pdf/PAPIME-B01-piloto.pdf](entregas/pdf/PAPIME-B01-piloto.pdf). El piloto está compilado, verificado y publicado en el fork. Su versión y las comprobaciones se mantienen en el registro de estado.
 
 Si el navegador restringe funciones al abrir archivos locales, se puede servir la entrega desde la raíz del repositorio con Python 3:
 
