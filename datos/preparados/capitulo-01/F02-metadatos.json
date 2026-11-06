@@ -1,0 +1,15 @@
+{
+  "clima": {
+    "poligonos_originales": 1695,
+    "grupos": ["Cálido húmedo", "Cálido subhúmedo", "Semicálido húmedo", "Semicálido subhúmedo", "Templado húmedo", "Templado subhúmedo", "Semifrío subhúmedo", "Secos y semisecos", "Frío", "Agua"],
+    "metodo": "rasterización por centro de celda;1800m;sin cálculo de superficie"
+  },
+  "suelo": {
+    "poligonos_originales": 75491,
+    "grupos": ["Piedras (R)", "Gravas y guijarros (r)", "Sin fase registrada (N)", "Agua", "Localidad (sin clasificación)", "Arrecife (no aplica)", "Dato inconsistente"],
+    "inconsistencias": 1,
+    "crs_asignado_desde_metadato": true
+  },
+  "cobertura": "Marco Geoestadístico2020;islas pequeñas pueden no ocupar centro de celda",
+  "resolution_m": 1800
+}

@@ -1,3 +1,5 @@
+La edición vigente B02 se reproduce según [REPRODUCIBILIDAD_B02.md](REPRODUCIBILIDAD_B02.md). Para reconstruir el piloto descrito abajo, usar scripts/compilar_B01.R, index-B01.Rmd y _bookdown-B01.yml.
+
 # Reproducción y actualización del proyecto
 
 Este documento describe cómo reconstruir el piloto B01 desde los insumos conservados. La compilación y la revisión de sus resultados son operaciones distintas. El cierre y las comprobaciones finales se consignan en `ESTADO.md` y en el registro de la sesión correspondiente; este documento no certifica por sí solo una compilación terminada.

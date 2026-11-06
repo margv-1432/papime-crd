@@ -1,0 +1,114 @@
+{
+  "fecha": "2026-11-05",
+  "pruebas": [
+    {
+      "nombre": "F03-agua-renovable SVG presente",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable 13 regiones y denominadores",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable símbolos seleccionables",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable consulta Frontera Sur",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable teclado selecciona XIII",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable tabla completa",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable CSV idéntico",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F03-agua-renovable texto móvil sin desbordar",
+      "resultado": "correcto",
+      "detalle": {
+        "scroll": 360,
+        "width": 360
+      }
+    },
+    {
+      "nombre": "F05-agua-poblacion SVG presente",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion 13 regiones y denominadores",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion símbolos seleccionables",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion consulta Frontera Sur",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion teclado selecciona XIII",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion tabla completa",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion CSV idéntico",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F05-agua-poblacion texto móvil sin desbordar",
+      "resultado": "correcto",
+      "detalle": {
+        "scroll": 360,
+        "width": 360
+      }
+    },
+    {
+      "nombre": "F06-mecanismos-territoriales SVG presente",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F06 diez relaciones explorables",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F06 relación final consultable",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F06-mecanismos-territoriales CSV idéntico",
+      "resultado": "correcto"
+    },
+    {
+      "nombre": "F06-mecanismos-territoriales texto móvil sin desbordar",
+      "resultado": "correcto",
+      "detalle": {
+        "scroll": 360,
+        "width": 360
+      }
+    },
+    {
+      "nombre": "Sin errores JavaScript",
+      "resultado": "correcto",
+      "detalle": []
+    },
+    {
+      "nombre": "Sin solicitudes externas",
+      "resultado": "correcto",
+      "detalle": []
+    }
+  ],
+  "errores": [],
+  "solicitudes_externas": [],
+  "resultado": "correcto"
+}

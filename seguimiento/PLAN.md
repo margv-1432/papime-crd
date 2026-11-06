@@ -1,6 +1,6 @@
 # Planeación final del manual interactivo de Economía Mexicana
 
-Versión reorganizada del 5 de noviembre de 2026. B01 completado: piloto y preparación verificados y publicados en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), entregados para revisión del autor. El estado mantenido se encuentra en `seguimiento/ESTADO.md`. Esta versión sustituye la organización anterior por unidades pequeñas y conserva los acuerdos de planeación. B02 no iniciado.
+Versión reorganizada del 5 de noviembre de 2026. B01 completado: piloto y preparación verificados y publicados en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), entregados para revisión del autor. El estado mantenido se encuentra en `seguimiento/ESTADO.md`. Esta versión sustituye la organización anterior por unidades pequeñas y conserva los acuerdos de planeación. B02 completado y entregado para revisión del autor; B03 no iniciado.
 
 El documento rector es `PAPIME Libro.pdf`, ubicado en la carpeta principal del proyecto. Los resúmenes de PAPIME_Mx y los materiales anteriores sirven como antecedentes. El repositorio de referencia es [postsocratico/papime-crd](https://github.com/postsocratico/papime-crd). La revisión de esta planeación corresponde a su rama main, commit `458257c3d7b69602560cbcaeb89fd0980297ad6b`.
 

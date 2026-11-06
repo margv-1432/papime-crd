@@ -1,0 +1,122 @@
+{
+  "fecha": "2026-11-05",
+  "resultado": "correcto",
+  "pruebas": [
+    {
+      "prueba": "Cobre:13barras y32registros",
+      "correcta": true
+    },
+    {
+      "prueba": "Cobre:Sonora550597.5t",
+      "correcta": true
+    },
+    {
+      "prueba": "Cobre:guion,ausencia,cero",
+      "correcta": true
+    },
+    {
+      "prueba": "Madera:32valores",
+      "correcta": true
+    },
+    {
+      "prueba": "Pesca:31totales y31acuacultura",
+      "correcta": true
+    },
+    {
+      "prueba": "Pesca:CDMXsin fila",
+      "correcta": true
+    },
+    {
+      "prueba": "Pesca:redondeo nacional explícito",
+      "correcta": true
+    },
+    {
+      "prueba": "Orden estatal conserva clave01",
+      "correcta": true
+    },
+    {
+      "prueba": "Cubierta:11grupos yPNG1600x1006",
+      "correcta": true
+    },
+    {
+      "prueba": "Cubierta:tabla numérica oculta",
+      "correcta": true
+    },
+    {
+      "prueba": "Descarga exacta F04_A_cobre_2023.csv",
+      "correcta": true,
+      "detalle": 3322
+    },
+    {
+      "prueba": "Descarga exacta F04_B_madera_2023.csv",
+      "correcta": true,
+      "detalle": 3355
+    },
+    {
+      "prueba": "Descarga exacta F04_C_pesca_acuacultura_2023.csv",
+      "correcta": true,
+      "detalle": 4033
+    },
+    {
+      "prueba": "Descarga exacta F04_correspondencia_vegetacion.csv",
+      "correcta": true,
+      "detalle": 17142
+    },
+    {
+      "prueba": "Restablecer vista inicial",
+      "correcta": true
+    },
+    {
+      "prueba": "Selección por teclado",
+      "correcta": true
+    },
+    {
+      "prueba": "Móvil360 sin desbordamiento cobre",
+      "correcta": true,
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360
+      }
+    },
+    {
+      "prueba": "Móvil360 sin desbordamiento cubierta",
+      "correcta": true,
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360
+      }
+    },
+    {
+      "prueba": "Móvil360 sin desbordamiento madera",
+      "correcta": true,
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360
+      }
+    },
+    {
+      "prueba": "Móvil360 sin desbordamiento pesca",
+      "correcta": true,
+      "detalle": {
+        "viewport": 360,
+        "html": 360,
+        "body": 360
+      }
+    },
+    {
+      "prueba": "Sin JavaScript errores",
+      "correcta": true,
+      "detalle": []
+    },
+    {
+      "prueba": "Sin solicitudes externas",
+      "correcta": true,
+      "detalle": []
+    }
+  ],
+  "errores": [],
+  "solicitudes_externas": []
+}

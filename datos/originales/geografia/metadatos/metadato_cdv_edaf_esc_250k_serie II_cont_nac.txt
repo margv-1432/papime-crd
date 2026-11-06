@@ -1,0 +1,526 @@
+SECCIÓN 1. Identificación del conjunto de datos espaciales o producto:
+
+1.1 Título del conjunto de datos espaciales o producto: CONJUNTO DE DATOS VECTORIAL EDAFOLÓGICO ESCALA 1:250 000 SERIE II (CONTINUO NACIONAL)
+
+1.2 Propósito: Elaborar el inventario Nacional del recurso suelo, proporcionar a los diferentes usuarios información actualizada y oportuna de las principales características Físicas y Químicas del suelo, así como las limitantes para el uso y manejo de los diferentes grupos de suelo que existen en el País. Además, proporcionar, informes de campo y datos de laboratorio información que sirve de apoyo en programas académicos, protección ambiental, evaluación de tierras, así como las actividades concernientes orientadas en el aprovechamiento y conservación de los recursos naturales, en el contexto del desarrollo sustentable del País. Este producto coadyuva en el desarrollo de proyectos de gran visión de cobertura Nacional o Regional en diversos campos en los que la información sobre la ubicación y distribución de los fenómenos geográficos es esencial.
+La información Edafológica sirve de apoyo en la planeación y ejecución de acciones encaminadas al uso óptimo de los recursos naturales, es marco de referencia para la prevención de desastres ecológicos y daño ambiental, ocasionados por la sobreexplotación o uso inadecuado del suelo influenciadas por la actividad humana, provocando degradación y contaminación del medio ambiente.
+
+
+1.3 Descripción del conjunto de datos espaciales o producto: El Conjunto de Datos Vectorial Edafológico, Escala 1:250 000 Serie II (Continuo Nacional) contiene información actualizada de los diferentes grupos suelos que existen en el territorio mexicano obtenida durante el período 2002-2006, utilizando para la clasificación de los suelos el Sistema Internacional Base Referencial Mundial del Recurso Suelo (por sus siglas en inglés, World Reference Base for Soil Resources WRB), reporte número 84, publicado por la Sociedad Internacional de las Ciencias del Suelo (SICS), Centro Internacional de Referencia e Información de Suelos (ISRIC) y la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) en Roma Italia en el año de 1999, adaptado por el Instituto Nacional de Estadística Geografía e Informática, para las condiciones de ambientales de México. El Continuo Nacional de datos muestra la distribución espacial de los suelos que ocurren en nuestro territorio. La información geográfica digital contiene datos estructurados y codificados de acuerdo con el Diccionario de Datos Edafológicos Escala 1:250 000 serie II. El formato de distribución de los datos es shp.
+
+1.4 Idioma del conjunto de datos espaciales o producto: ES - Español.
+
+1.5 Categoría del tema del conjunto de datos espaciales o producto: 
+
+     1.5.1 Tema principal del conjunto de datos espaciales o producto:   5. Medio ambiente: Recursos medio ambientales, protección y conservación. 
+
+     1.5.2 Grupo de datos del conjunto de datos espaciales o producto: 1. Grupo de datos de recursos naturales y clima: Subdivisión de la Infraestructura de Datos Espaciales de México que representan espacialmente la distribución y naturaleza de los recursos naturales que existen en el territorio nacional, así como la configuración de sus diversos climas. A través de ellos puede obtenerse información del estado, presión y respuesta de la interacción humana con su medio ambiente.
+
+1.6 Palabra clave: Petrocálcica.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Lítica.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Horizonte.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Fase física.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Dúrica.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Cuerpo de agua.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Conjunto Nacional Vectorial de Datos Edafológico.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Conjunto de datos.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Clasificación de suelos.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Clase textural.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Calificador.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Base Referencial Mundial del Recurso Suelo.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Salino.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.8 Nombre del tesauro: Ninguno.
+
+1.9 Edición: 1a.
+
+1.10 Forma de presentación de los datos espaciales:   5. Mapa digital: Mapa representado en formato raster o vector.
+
+1.11 Enlace en línea:
+
+     1.11.1 URL del recurso: https://www.inegi.org.mx/
+
+     1.11.2 Descripción del acceso al recurso:     
+
+1.12 Frecuencia de mantenimiento y actualización:   1. Diariamente: Los datos se actualizan cada día.
+
+1.13 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+
+1.14 Nombre del archivo gráfico: Conj_Dat_Vec_Edaf_Esc_250k_Ser_II_Cont_Nac.
+
+1.15 Uso específico: De acuerdo con la FAO, el suelo es un componente esencial de la tierra y de los ecosistemas, conceptos que abarcan la vegetación, el agua y el clima y consideran el ámbito social y ecosistémico. De acuerdo con lo anterior, este producto se utiliza como marco para llevar a cabo proyectos de desarrollo sustentable, conservación de suelos y agua, protección ambiental y prevención de desastres, organización del territorio, sí como diseño de estrategias para mitigar el cambio climático. Lo utilizan investigadores, académicos ambientalistas, evaluadores de tierras profesionales de la planeación del uso del suelo, agua y medio ambiente.
+Usuarios externos: investigadores, académicos, técnicos de Secretarías de Estado relacionadas con el medio ambiente planeación e infraestructura.
+Usuarios internos: Esta información la utiluzan diferentes departamentos del INEGI que la usan usan para derivar nueva información por ejemplo los mapas variables del suelo, que apoyan Uso del suelo, Hidrología, Uso Potencial del Suelo, asi como información de medio ambiente y cuentas nacionales.
+
+
+
+
+SECCIÓN 2. Fechas relacionadas con el conjunto de datos espaciales o producto:
+
+2.1 Fechas y eventos:
+
+     2.1.1 Fecha de referencia del conjunto de datos espaciales o producto: 2013-02-10
+
+     2.1.2 Tipo de fecha: 2. Publicación: Indicador de la fecha que especifica cuando el recurso fue publicado.
+
+2.2 Fechas de los insumos tomados para la elaboración del producto o conjunto de datos espaciales:
+
+     2.2.1 Fecha de creación de los insumos: 1999-12-01
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Conjunto de Datos Vectoriales Edafológico Escala 1:250 000 Serie I
+
+SECCIÓN 3. Unidad del estado responsable del conjunto de datos espaciales o producto:
+
+3.1 Nombre de la persona de contacto: Mtro. J. Armando Aguiar Rodríguez
+
+3.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+3.3 Puesto del contacto: Director de Servicios de Información.
+
+3.4 Teléfono: (449)9105300 Ext. 5301. Lada 01 800 111 46 34 (sin costo).
+
+3.5 Fax: 
+
+3.6 Dirección: Av. Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.
+
+3.7 Ciudad: Aguascalientes.
+
+3.8 Área administrativa: Aguascalientes.
+
+3.9 Código postal: 20276
+
+3.10 País: México.
+
+3.11 Dirección de correo electrónico del contacto: atencion.usuarios@inegi.org.mx
+
+3.12 Enlace en línea (dirección de Internet de referencia): https://www.inegi.org.mx/
+
+3.13 Rol:   5. Distribuidor: Parte que distribuye el recurso.
+
+
+SECCIÓN 4. Localización geográfica del conjunto de datos espaciales o producto:
+
+4.1 Localización geográfica del conjunto de datos espaciales o producto:
+
+     4.1.1 Coordenada límite al oeste: -122.170278
+
+     4.1.2 Coordenada límite al este: -84.641667
+
+     4.1.3 Coordenada límite al sur: 11.968611
+
+     4.1.4 Coordenada límite al norte: 32.71833
+
+4.2 Tipo de representación espacial: 1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.
+
+SECCIÓN 5. Sistema de referencia:
+
+5.1 Sistema de Referencia Horizontal:
+
+     5.1.1 Coordenadas Geográficas:
+
+          5.1.1.1 Resolución de latitud:
+
+          5.1.1.2 Resolución de longitud:
+
+          5.1.1.3 Unidades de coordenadas geográficas:
+
+     5.1.2 Coordenadas Planas:
+
+          5.1.2.1 Proyección Cartográfica:
+
+               5.1.2.1.1 Cónica Conforme de Lambert:
+
+                    5.1.2.1.1.1 Paralelo estándar: 17.5
+
+                    5.1.2.1.1.1 Paralelo estándar: 29.5
+
+                    5.1.2.1.1.2 Longitud del meridiano central: -102.00000
+
+                    5.1.2.1.1.3 Latitud del origen de proyección: 12.000000
+
+                    5.1.2.1.1.4 Falso este: 2500000.00
+
+                    5.1.2.1.1.5 Falso norte: 0.0
+
+               5.1.2.1.2 Transversa de Mercator:
+
+                    5.1.2.1.2.1 Factor de escala en el meridiano central:  
+
+                    5.1.2.1.2.2 Longitud del meridiano central:  
+
+                    5.1.2.1.2.3 Latitud del origen de proyección:  
+
+                    5.1.2.1.2.4 Falso este:  
+
+                    5.1.2.1.2.5 Falso norte:  
+
+               5.1.2.1.3 Mercator:
+
+                    5.1.2.1.3.1 Paralelo estándar:  
+
+                    5.1.2.1.3.2 Factor de escala en el ecuador:  
+
+                    5.1.2.1.3.3 Longitud del meridiano central:  
+
+                    5.1.2.1.3.4 Falso este:  
+
+                    5.1.2.1.3.5 Falso norte:  
+
+               5.1.2.1.4 Transversa Modificada Ejidal:
+
+                    5.1.2.1.4.1 Factor de escala en el meridiano central:  
+
+                    5.1.2.1.4.2 Longitud del meridiano central:  
+
+                    5.1.2.1.4.3 Latitud del origen de proyección:  
+
+                    5.1.2.1.4.4 Falso este:  
+
+                    5.1.2.1.4.5 Falso norte:  
+
+               5.1.2.1.5 Definición de otra proyección: 
+
+          5.1.2.2 Sistema de Coordenadas de Cuadrícula:
+
+               5.1.2.2.1 Universal Transversa de Mercator:
+
+                    5.1.2.2.1.1 Número de zona UTM:
+
+                    5.1.2.2.1.2 Factor de escala en el meridiano central:
+
+                    5.1.2.2.1.3 Longitud del meridiano central:
+
+                    5.1.2.2.1.4 Latitud del origen de proyección:
+
+                    5.1.2.2.1.5 Falso este:
+
+                    5.1.2.2.1.6 Falso norte:
+
+          5.1.2.3 Plana Local:
+
+               5.1.2.3.1 Descripción de la Plana Local:
+
+               5.1.2.3.2 Información de Georreferencia de la Plana Local:
+
+          5.1.2.4 Información de coordenadas planas:
+
+               5.1.2.4.1 Método codificado de coordenada plana: Líneas y columnas.
+
+               5.1.2.4.2 Representación de coordenadas:
+
+                    5.1.2.4.2.1 Resolución de abscisa: 1.0
+
+                    5.1.2.4.2.2 Resolución de ordenada: 1.0
+
+               5.1.2.4.3 Representación de distancia y rumbo:
+
+                    5.1.2.4.3.1 Resolución de distancia:
+
+                    5.1.2.4.3.2 Resolución de rumbo:
+
+                    5.1.2.4.3.3 Unidades de rumbo:
+
+                    5.1.2.4.3.4 Dirección del rumbo de referencia:
+
+                    5.1.2.4.3.5 Meridiano del rumbo de referencia:
+
+               5.1.2.4.4 Unidades de distancia plana: Metros.
+
+     5.1.3 Coordenadas Locales:
+
+          5.1.3.1 Descripción Local:
+
+          5.1.3.2 Información de Georreferenciación Local:
+
+     5.1.4 Modelo geodésico:
+
+5.1.4.1 Nombre del datum horizontal: ITRF92 época 1988.0.
+
+          5.1.4.2 Nombre del elipsoide: Sistema Geodésico de Referencia de 1980 (GRS80).
+
+          5.1.4.3 Semieje mayor: 6378206.4
+
+          5.1.4.4 Factor de denominador de achatamiento: 294.9786982
+
+5.2 Sistema de Referencia Vertical:
+
+     5.2.1 Definición del sistema de altitud:
+
+          5.2.1.1 Nombre del datum de altitud: 
+
+          5.2.1.2 Resolución de altitud: 
+
+          5.2.1.3 Unidades de distancia de altitud: 
+
+          5.2.1.4 Método codificado de altitud:  
+
+     5.2.2 Definición del sistema de profundidad:
+
+          5.2.2.1 Nombre del datum de profundidad: 
+
+          5.2.2.2 Resolución de profundidad: 
+
+          5.2.2.3 Unidades de distancia de profundidad: 
+
+          5.2.2.4 Método codificado de profundidad:  
+
+
+SECCIÓN 6. Calidad de la información:
+
+6.1 Alcance o ámbito:
+
+     6.1.1 Nivel:   1. Atributo: Información aplicada al valor de atributo.
+
+6.2 Reporte:
+
+     6.2.1 Completitud:
+
+          6.2.1.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.1.1.1 Nombre de la prueba:
+
+               6.2.1.1.2 Descripción de la prueba:
+
+               6.2.1.1.3 Resultado:
+
+                    6.2.1.1.3.1 Resultado cuantitativo:
+
+                         6.2.1.1.3.1.1 Unidad de valor:
+
+                         6.2.1.1.3.1.2 Valor:
+
+     6.2.2 Consistencia lógica:
+
+          6.2.2.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.2.1.1 Nombre de la prueba:
+
+               6.2.2.1.2 Descripción de la prueba:
+
+               6.2.2.1.3 Resultado:
+
+                    6.2.2.1.3.1 Resultado cuantitativo:
+
+                         6.2.2.1.3.1.1 Unidad de valor:
+
+                         6.2.2.1.3.1.2 Valor:
+
+     6.2.3 Exactitud posicional:
+
+          6.2.3.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.3.1.1 Nombre de la prueba:
+
+               6.2.3.1.2 Descripción de la prueba:
+
+               6.2.3.1.3 Resultado:
+
+                    6.2.3.1.3.1 Resultado cuantitativo:
+
+                         6.2.3.1.3.1.1 Unidad de valor:
+
+                         6.2.3.1.3.1.2 Valor:
+
+     6.2.4 Exactitud temporal:
+
+          6.2.4.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.4.1.1 Nombre de la prueba:
+
+               6.2.4.1.2 Descripción de la prueba:
+
+               6.2.4.1.3 Resultado:
+
+                    6.2.4.1.3.1 Resultado cuantitativo:
+
+                         6.2.4.1.3.1.1 Unidad de valor:
+
+                         6.2.4.1.3.1.2 Valor:
+
+     6.2.5 Exactitud temática:
+
+          6.2.5.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.5.1.1 Nombre de la prueba:
+
+               6.2.5.1.2 Descripción de la prueba:
+
+               6.2.5.1.3 Resultado:
+
+                    6.2.5.1.3.1 Resultado cuantitativo:
+
+                         6.2.5.1.3.1.1 Unidad de valor:
+
+                         6.2.5.1.3.1.2 Valor:
+
+6.3 Linaje:
+
+     6.3.1 Enunciado: 
+La información edafológica presenta los diferentes grupos de suelos existentes en México y sus características. Se apoya en diferentes procesos, como la validación geométrica a partir de la identificación e interpretación de entidades en espaciomapas digitales, verificando la congruencia espacial de los polígonos. En esta etapa la información es comparada y complementada mediante la sobreposición ráster vs vector y vector vs vector del sistema de información edafológica (SIE), a la misma escala y Datum de referencia.
+A continuación se validan los resultados de análisis de laboratorio contra la información de campo verificando laconsistencia entre ambas informaciones, considerando los aspectos geomorfológicos, físicos, químicos y los atributos asignados.
+Posteriormente se valida que las unidades edafológicas estén relacionadas acorde a la información de atributos
+de los datos de campo y resultados de laboratorio.
+Finalmente se efectúa un proceso de unión de conjuntos de datos para formar un continuo cartográfico nacional
+digital, durante este proceso se verifica la homogeneidad geográfica de la información, corroborando la
+compatibilidad de las diferentes cubiertas de información (base topográfica, cubierta de polígonos, información
+puntual, etc.), así como el cambio de proyección de Universal Transversa de Mercator a Cónica Conforme de Lambert, sistemas de coordenadas y la recopilación de la información bibliográfica respectiva.
+
+
+     6.3.2 Pasos del proceso:
+
+          6.3.2.1 Descripción: 1.Repartir insumos a Direcciones Regionales para realizar la actividad de acuerdo con la distribución de cargas de trabajo. los insumos estarán en formato shp.
+2.Repartir insumos a Coordinaciones Estatales, el especialista en esta actividad se revisan los archivos shp que estén completos y que correspondan al área de trabajo asignada. 
+3.Integrar el Sistema de Información Edafológica, actividad que consiste en transferir la información del conjunto de datos al ambiente de trabajo, generar un proyecto y los directorios para una óptima organización.
+4.Reclasificar el perfil de suelos a escala 1: 250 000 Serie I, 1: 000 000 y 1: 50 000. Se retoma la información de laboratorio y campo que permita clasificar de acuerdo con última edición de la WRB. 
+5.Editar polígonos, actividad que consiste en redefinir total o parcialmente los límites de los polígonos edafológicos de la Serie I.
+6.Seleccionar sitios de muestreo, en esta actividad se eligen bajo sitios de muestreo de acuerdo con los criterios establecidos en la metodología. 
+7.Verificar en Campo actividad en la que se describen perfiles de suelos representativos, se colectan muestras de suelo y se corroboran los límites de las unidades edafológicas directamente en el territorio. 
+8.Enviar muestras de suelo al laboratorio se organizan las muestras, y se etiquetan perfectamente y se llena la solicitud de análisis, normales o especiales según sea el caso.
+9.Editar claves definitivas de polígonos, actividad que consiste en editar las etiquetas de cada uno de los polígonos de acuerdo con la metodología. 
+10.Validar la consistencia lógica entre las unidades edafológicas y los perfiles de suelos. Consiste en revisar la congruencia lógica entre polígonos y los perfiles de suelo con la información ambiental.
+11.Validar Conjunto de Datos Edafológico etapa en que el supervisor de suelos hace una revisión del conjunto shp de datos antes de su envío a área central.   
+12.Generar Metadatos etapa en la que se capturan los datos espaciales, de acuerdo con el estándar de la Norma Técnica.
+13.Revisión final al producto y enviar la información a Base de Datos para su incorporación al Sistema Nacional de Información Geográfica. En esta etapa se revisa la consistencia temática y geométrica de los archivos a entregar.
+
+CONTROL DE CALIDAD: CRITERIO: exactitud temática. 
+SUBCRITERIO: corrección de clasificación.
+ÁMBITO DE LA REVISIÓN: objetos espaciales de área ubicados en las franjas de empalme de los bloques escala 1:250 000 empleados para conformar el Conjunto de Datos Vectorial Edafológico, Escala 1:250 000 Serie II (Continuo Nacional). INSPECCIÓN: completa.
+EXPLICACIÓN DE LA REVISIÓN: mediante una revisión semiautomática de la franja de ligue entre bloques, se detectaron las inconsistencias de clasificación de objetos espaciales adyacentes que tiene que ver con la continuidad. 
+En los conjuntos se detectaron las siguientes inconsistencias temáticas: falta de correlación de factores ambientales  con clave de unidades de suelo, asociaciones de suelos no validas, geometrías inválidas, huecos de informacion rasgos que no cumplían con las dimensiones mínimas establecidas por la normatividad.
+RESULTADOS DE LA REVISIÓN: aproximadamente el 10% de los polígonos del producto presentó alguna inconsistencia temática, la solución de varias de ellas requirió la consulta y conciliación entre especialista y supervisor para su posterior corrección. 
+
+
+
+- Fecha de Actualización Digital: 2002-2010.
+
+TECNOLOGIA EMPLEADA:
+a) software especializado tipo SIG. 
+b) hardware: computadora de escritorio.
+
+
+
+- Responsable de Actualización Digital: INEGI.
+
+- Métodos de Actualización Digital: Integración de Conjuntos de Datos Escala 1: 250 000.
+
+- Imágenes de Satélite en la Actualización Digital: Espaciomapas de Landsat, Sensor Thematic Mapper (TM), año 1993-1994, combinación de bandas 2, 3, 4, 5, 7; Resolución Espacial 30 metros. 
+
+- Normas para la captura de datos SITED: versión 1.0, diciembre de 1999.
+
+- Número de unidades edafógicas (polígonos) 631394.
+
+
+
+     6.3.3 Fuente:
+
+          6.3.3.1 Descripción: FUENTE 1: Imágenes de Satélite en la Actualización Digital: Espaciomapas de Landsat, Sensor Thematic
+Mapper(TM), año 1993-1994, Combinación de Bandas 2, 3, 4, 5, 7; Resolución Espacial 30 metros.
+FUENTE 2: Conjuntos de datos vectoriales de información topográfica escala 1:250 000. 1998. Fuente: INEGI.
+FUENTE 3: Conjunto de datos vectoriales Geológicos serie I. 2001. Fuente: INEGI.
+FUENTE 4: Conjunto de datos vectoriales Fisiográficos. Continuo Nacional serie I. 2006. Fuente: INEGI.
+FUENTE 5: Conjunto de datos vectoriales escala 1:1 000 000. Unidades climáticas. 2008. Fuente: INEGI.
+FUENTE 6: Conjunto de datos vectoriales de la carta de Uso del suelo y vegetación. Escala 1:250 000. Serie II. 2001. Fuente: INEGI.
+ 
+
+ 
+
+SECCIÓN 7. Entidades y atributos:
+
+7.1 Descripción general de entidades y atributos: Los rasgos geográficos representados se definen como entidades con un componente de representación geométrica y un componente con atributos que los describen. Se le asocia un nombre con el fin de distinguirla de otras entidades (ejemplos, unidad edafológica, punto de verificación, cuerpo de agua, localidad). Las entidades están descritas en los Diccionarios de Datos, de acuerdo con el tema y la escala.
+7.2 Cita del detalle de entidades y atributos: El Diccionario de Datos Edafológico escala 1:250 000 Serie II (versión 1.0, julio de 2007), contiene una descripción completa de las entidades y atributos representados http://mapserver.inegi.gob.mx/geografia/espanol/normatividad/diccio/eda_250.pdf. Base de Datos Geográficos de la Dirección General de Geografía del Instituto Nacional de Estadística y Geografía - INEGI. También está disponible el Diccionario de Datos Alfanuméricos de Edafología  para escala 1:250 000 http://mapserver.inegi.gob.mx/geografia/espanol/normatividad/diccio/edaf_alf.pdf. Base de Datos Geográficos de la Dirección General de Geografía y Medio Ambiente del Instituto Nacional de Estadística y Geografía - INEGI.
+
+SECCIÓN 8. Distribución:
+
+8.1 Restricciones de acceso: 8. Acceso con costo al público a través de los centros de venta del Instituto Nacional de Estadística, Geografía e Informática - INEGI
+
+8.2 Restricciones de uso: 3. Pendiente de patentar: Invención en espera de una patente.
+
+8.3 Responsabilidad de distribución: El Instituto Nacional de Estadística, Geografía e Informática - INEGI no se hace responsable por el uso que usted le de a los datos.
+
+8.4 Formato de distribución:
+
+     8.4.1 Nombre del formato:      
+
+     8.4.2 Versión del formato:    
+
+
+SECCIÓN 9. Información del contacto para los metadatos:
+
+9.1 Nombre del estándar de metadatos: ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).
+
+9.2 Versión de la norma de metadatos: 2003 (1.0).
+
+9.3 Idioma de los Metadatos: ES - Español.
+
+9.4 Punto de contacto para los Metadatos: 
+
+     9.4.1 Nombre de la persona de contacto: Lic. Rafael Arrioja Urzúa.
+
+     9.4.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+     9.4.3 Puesto del contacto: Jefe del Departamento de Administración de Metadatos.
+
+     9.4.4 Teléfono: 
+
+     9.4.5 Fax: 
+
+     9.4.6 Dirección: Avenida Héroe de Nacozari Sur Núm. 2301. Fracionamiento Jardines del Parque. C.P. 20276 Aguascalientes, Aguascalientes, Aguascalientes. Entre calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.
+
+     9.4.7 Ciudad: Aguascalientes.
+
+     9.4.8 Área administrativa: Aguascalientes.
+
+     9.4.9 Código postal: 20276
+
+     9.4.10 País: México
+
+     9.4.11 Dirección de correo electrónico del contacto: 
+
+     9.4.12 Rol:   7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.
+
+9.5 Fecha de los metadatos: 2024-07-03
+
+9.6 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+

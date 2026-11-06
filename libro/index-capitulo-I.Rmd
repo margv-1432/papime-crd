@@ -1,0 +1,24 @@
+---
+title: "Economía mexicana"
+subtitle: "Capítulo I. Fundamentos históricos y geográficos del territorio mexicano"
+author: "Proyecto PAPIME"
+date: "Edición de trabajo B02 · 5 de noviembre de 2026"
+lang: es
+bibliography: bibliografia.bib
+link-citations: true
+documentclass: book
+classoption: [oneside, openany]
+papersize: letter
+fontsize: 11pt
+mainfont: Arial
+sansfont: Calibri
+geometry: [margin=1in]
+colorlinks: true
+linkcolor: petrol
+urlcolor: petrol
+biblio-title: Referencias
+---
+
+```{r configuracion, include=FALSE}
+source("configuracion-comun.R", encoding="UTF-8")
+```

@@ -1,0 +1,112 @@
+{
+  "fecha": "2026-11-05",
+  "alcance": "Contraste independiente Python; ITER y DBF oficiales, sin estimación de superficies o accesibilidad",
+  "pruebas": [
+    {
+      "prueba": "ITER selección de localidades",
+      "correcta": true,
+      "detalle": 145
+    },
+    {
+      "prueba": "ITER valores conservados",
+      "correcta": true,
+      "detalle": "145 códigos y poblaciones contrastados con el CSV nacional"
+    },
+    {
+      "prueba": "ITER total censal",
+      "correcta": true,
+      "detalle": 126014024
+    },
+    {
+      "prueba": "ITER población cubierta",
+      "correcta": true,
+      "detalle": 61026805
+    },
+    {
+      "prueba": "ITER porcentaje",
+      "correcta": true,
+      "detalle": 48.42858204416994
+    },
+    {
+      "prueba": "Metadatos de selección",
+      "correcta": true,
+      "detalle": "Totales y porcentaje coinciden"
+    },
+    {
+      "prueba": "Clima polígonos originales",
+      "correcta": true,
+      "detalle": 1695
+    },
+    {
+      "prueba": "Clima dominio exhaustivo",
+      "correcta": true,
+      "detalle": [
+        11,
+        12,
+        21,
+        22,
+        31,
+        32,
+        42,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63,
+        64,
+        70,
+        91,
+        92
+      ]
+    },
+    {
+      "prueba": "Clima correspondencia exhaustiva",
+      "correcta": true,
+      "detalle": 114
+    },
+    {
+      "prueba": "Clima extranjeros excluidos",
+      "correcta": true,
+      "detalle": 2
+    },
+    {
+      "prueba": "Suelo polígonos originales",
+      "correcta": true,
+      "detalle": 75491
+    },
+    {
+      "prueba": "Suelo códigos nominales sensibles a mayúsculas",
+      "correcta": true,
+      "detalle": {
+        "N/A": 10673,
+        "N": 37234,
+        "R": 16433,
+        "r": 11151
+      }
+    },
+    {
+      "prueba": "Suelo discordancia conservada",
+      "correcta": true,
+      "detalle": 1
+    },
+    {
+      "prueba": "Suelo correspondencia exhaustiva",
+      "correcta": true,
+      "detalle": 23962
+    },
+    {
+      "prueba": "Suelo no confunde N con ausencia de limitaciones",
+      "correcta": true,
+      "detalle": "Etiqueta conservada"
+    }
+  ],
+  "correctas": 15,
+  "total": 15
+}

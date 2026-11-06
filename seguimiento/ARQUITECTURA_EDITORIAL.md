@@ -1,3 +1,7 @@
+# Integración B02
+
+El autor aceptó B01 y autorizó el capítulo I. B02 incorpora su texto completo y F01–F06 al libro. El piloto de II.2 sigue identificado como fragmento previo; los demás capítulos permanecen fuera de compilación. Los rótulos del capítulo I se mantienen en figuras-capitulo-I.csv. Las decisiones de arquitectura de B01 que siguen son el antecedente conservado.
+
 # Arquitectura editorial del libro
 
 Decisiones de B01, 5 de noviembre de 2026. El PDF rector fija los ocho capítulos y su orden. La estructura se implementa progresivamente; reservar un archivo de capítulo no significa haber redactado o validado su contenido. B01 termina en el piloto de especialización y espera revisión antes de B02.

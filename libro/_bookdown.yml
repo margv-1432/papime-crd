@@ -1,8 +1,9 @@
-book_filename: papime-piloto
+book_filename: papime-libro
 output_dir: _book
 delete_merged_file: true
 rmd_files:
   - index.Rmd
+  - capitulos/01-territorio.Rmd
   - capitulos/02-piloto-especializacion.Rmd
   - referencias.Rmd
 language:

@@ -1,0 +1,18 @@
+[
+  {
+    "archivo_local": "tmp/fuentes/F04/SGM-Anuario_2023_Edicion_2024.pdf",
+    "url": "https://www.sgm.gob.mx/productos/pdf/Anuario_2023_Edicion_2024.pdf",
+    "sha256": "a14d23d3562be8610ceaa08c7e7005751e4b9e2f05a1ea1be9aed41ca51be74a",
+    "bytes": 7842180,
+    "consulta": "2026-11-05",
+    "distribucion": "No se versiona anuario completo; extractos numericos propios en datos/originales/capitulo-01/F04"
+  },
+  {
+    "archivo_local": "tmp/fuentes/F04/CONAPESCA-Anuario-2023.pdf",
+    "url": "https://nube.conapesca.gob.mx/sites/cona/dgppe/2023/ANUARIO_ESTADISTICO_DE_ACUACULTURA_Y_PESCA_2023.pdf",
+    "sha256": "0a1e2e6388850d81c59cd00665f8df358fd64543ad8db3e6648c4a3fea94a6fe",
+    "bytes": 10317332,
+    "consulta": "2026-11-05",
+    "distribucion": "No se versiona anuario completo; extractos numericos propios en datos/originales/capitulo-01/F04"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "figura": "F04",
+  "fuentes_consultadas": "2026-11-05",
+  "cobre": {
+    "filas": 32,
+    "numericos": 13,
+    "guiones": 6,
+    "sin_fila": 13,
+    "total_t": 778838.95,
+    "sonora_t": 550597.5
+  },
+  "madera": {
+    "filas_elementales_2023": 292,
+    "entidades": 32,
+    "total_m3r": 6621041.399495694
+  },
+  "pesca": {
+    "filas_estatales": 31,
+    "total_nacional_t": 2150294,
+    "acuacultura_nacional_publicada_t": 304731,
+    "acuacultura_suma_estatal_t": 304732,
+    "discrepancia_redondeo_t": 1
+  },
+  "vegetacion": {
+    "claves": 183,
+    "grupos": 11,
+    "servicio": "SEMARNAT; fuente INEGI SerieVII",
+    "medicion_superficies": false
+  },
+  "fuentes": [
+    {
+      "archivo": "datos/originales/capitulo-01/F04/anuarios-fuentes.json",
+      "bytes": 886,
+      "sha256": "ddbe3bca824f0d1ad098b8fff97894c114d2b905a38740251d17ef3145d9d796"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/CONAPESCA-cuadros2.1.5-2.3.3-2023-extracto.csv",
+      "bytes": 1516,
+      "sha256": "8a5cdf7d4e29e7d84cfff080326a478bed1c2a47e151731e65c90934da98c6e9"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/SEMARNAT-Produccion-forestal-2019-2024.xlsx",
+      "bytes": 125002,
+      "sha256": "d2a24ca990d09a978069c3a0c9b6cb15fc8f83ce19fe045b2a8936978d9fe64c"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/SGM-cuadro7.4-cobre2023-extracto.csv",
+      "bytes": 799,
+      "sha256": "945146441e6d7ceecdf8601929e5862dc108cff2041a346f5fd0d8c301740510"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-agrupada-1600.png",
+      "bytes": 601896,
+      "sha256": "595403ba0a1432144ba459760201cdd1e5a3af1711c1a9d19ba986cc8c06442b"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-export-respuesta.json",
+      "bytes": 821,
+      "sha256": "ee6771c6fa7f82b13baac77f47d55daf9ba343b91eb4b7ea6730d217c772701f"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-geonode.html",
+      "bytes": 59475,
+      "sha256": "41338017b5354609a5dd95fb2efb79bd7bf4f12459cc38df50429ead92089c6a"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-semarnat-agro-clases.json",
+      "bytes": 1682,
+      "sha256": "cb4b42c04ffe869f02607475e2bd741921698e837c2ff0fe25be92a68e927ba7"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-semarnat-clases.json",
+      "bytes": 1688,
+      "sha256": "52b81f4458c63d241281109503b0a0fd80810b73dc67a2ab8aeffd9b9ecedd52"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-semarnat-correspondencia.json",
+      "bytes": 30396,
+      "sha256": "3ca01681cce93da49057f0d5a1b4af2e125a56d59d9a1caf1265d23dfc96c21f"
+    },
+    {
+      "archivo": "datos/originales/capitulo-01/F04/vegetacion-semarnat-layers.json",
+      "bytes": 314778,
+      "sha256": "da9ccaff6da14cec722dda1434857138b53507c57475debdb1bb4c47a07c9c81"
+    }
+  ]
+}

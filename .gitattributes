@@ -13,6 +13,7 @@
 *.xlsx binary
 *.docx binary
 datos/originales/** -text
+datos/preparados/capitulo-01/** -text
 referencias/** -text -whitespace
 datos/originales/** -whitespace
 entregas/web/** -whitespace

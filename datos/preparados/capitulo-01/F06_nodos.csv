@@ -1,0 +1,10 @@
+id,etiqueta,detalle,tipo
+base,Condiciones geográficas,"Relieve, localización, clima, agua, suelos y recursos delimitan posibilidades y restricciones.",proceso
+acceso,Acceso efectivo,"Los recursos y destinos deben poder utilizarse en condiciones técnicas, económicas y de calidad adecuadas.",proceso
+uso,Aprovechamiento,"Actividades, transformación y vínculos productivos requieren evidencia de su funcionamiento.",proceso
+resultados,Resultados territoriales,"Empleo, ingresos y distribución de beneficios y cargas requieren indicadores propios.",proceso
+infra,Infraestructura,"Captación, conducción, transporte, drenaje y mantenimiento median el acceso.",mediacion
+tec,Tecnología y manejo,La factibilidad y la aptitud se definen para usos y formas de manejo específicos.,mediacion
+org,Organización productiva,"La coordinación, la capacidad de transformación y la reinversión pueden modificar los vínculos locales.",mediacion
+inst,Derechos y decisiones,Las reglas y la participación inciden en el reparto de beneficios y costos.,mediacion
+conservacion,Conservación o degradación,El aprovechamiento y las decisiones de manejo modifican la base natural de usos futuros.,retorno

@@ -1,0 +1,10 @@
+book_filename: papime-piloto
+output_dir: _book-B01
+delete_merged_file: true
+rmd_files:
+  - index-B01.Rmd
+  - capitulos/02-piloto-especializacion.Rmd
+  - referencias.Rmd
+language:
+  ui:
+    chapter_name: ""

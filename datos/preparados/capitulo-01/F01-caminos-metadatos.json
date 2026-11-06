@@ -1,0 +1,16 @@
+{
+  "fuente": "INEGI RNC2025, GPKG oficial",
+  "sha256_original": "f6cb5dcb5d52b29461146830edc6050ac7e0022ba7d81558995629547c96ed6e",
+  "consulta": "2026-11-05",
+  "seleccion_sql": "SELECT ID_RED, UNION_INI, UNION_FIN, geom FROM red_vial WHERE TIPO_VIAL = 'Carretera' AND ADMINISTRA = 'Federal' AND ESTATUS = 'Habilitado' AND CONDICION = 'En operación'",
+  "segmentos_fuente": 120863,
+  "cadenas_dibujo": 7467,
+  "tolerancia_simplificacion_m": 500,
+  "comprobaciones": {
+    "id_red_unicos": true,
+    "segmentos_visitados": 120863,
+    "sin_geometrias_vacias": true
+  },
+  "metodo": "Encadenamiento exclusivamente en nodos originales de grado2 con extremo coincidente a0.01m;sin unión espacial ni modelación de rutas",
+  "alcance": "Conectividad visual; no calcula accesibilidad, tiempos, velocidades o distancias"
+}

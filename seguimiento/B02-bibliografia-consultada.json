@@ -1,0 +1,38 @@
+[
+  {
+    "archivo": "bassols1979.pdf",
+    "bytes": 25018146,
+    "sha256": "459698d36a2a792bdf5e6dcaddb58b810a6a70d6b8c518b01359820663c815f2",
+    "distribuido": false
+  },
+  {
+    "archivo": "constitucion1824.pdf",
+    "bytes": 9513478,
+    "sha256": "bb9ce56c2ce81b6470d40146635a7d62b375b69f14b5b702e02b585a82780a3c",
+    "distribuido": false
+  },
+  {
+    "archivo": "gasca2014.pdf",
+    "bytes": 406727,
+    "sha256": "8f951a5f15546d71d44eeffdd685c708605f503eb53e6fc585bde05f5233bc3c",
+    "distribuido": false
+  },
+  {
+    "archivo": "geurs2004.pdf",
+    "bytes": 329759,
+    "sha256": "826a82b37a7b7673093328dfdbb93f6c4f0542c20526280963364cec9bb37ffc",
+    "distribuido": false
+  },
+  {
+    "archivo": "ruiz1997.pdf",
+    "bytes": 18837182,
+    "sha256": "a3f0f435987bae310d4c3de22dee31f36476cff592e0a5f134e15c82c27d7235",
+    "distribuido": false
+  },
+  {
+    "archivo": "ruiz1999.pdf",
+    "bytes": 21513542,
+    "sha256": "c59b52ccb79c40b694acf053e327391cdb5c5c788682d4495daef2c15e314c6b",
+    "distribuido": false
+  }
+]

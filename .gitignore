@@ -1,7 +1,12 @@
 .local/
+datos/originales/geografia/794551163030_gpk.zip
 tmp/
 libro/_book/
 libro/_bookdown_files/
+libro/_book-B01/
+libro/_book-capitulo-I/
+libro/papime-libro.*
+libro/papime-capitulo-I.*
 libro/papime-piloto.*
 !libro/papime-piloto.Rmd
 .Rhistory

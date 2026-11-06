@@ -14,6 +14,9 @@
 .book .book-body .page-wrapper .page-inner section.normal p { margin: 0 0 1.15em; }
 .grafico-interactivo { display: block; width: 100%; height: 1480px; border: 1px solid var(--linea); border-radius: 4px; background: white; margin: 1em 0; }
 .alternativa, .enlaces-edicion { font-size: .9em; }
+.book .book-body .page-wrapper .page-inner section.normal table { display: table; width: 100%; max-width: 100%; table-layout: fixed; }
+.book .book-body .page-wrapper .page-inner section.normal table td,
+.book .book-body .page-wrapper .page-inner section.normal table th { overflow-wrap: anywhere; word-break: normal; }
 .MathJax_Display { overflow-x: auto; overflow-y: hidden; padding: .5em 0; }
 .math.display { display: block; max-width: 100%; overflow-x: auto; overflow-y: hidden; }
 mjx-container[display="true"] { display: block; max-width: 100%; overflow-x: auto; overflow-y: hidden; padding: .5em 0; }
