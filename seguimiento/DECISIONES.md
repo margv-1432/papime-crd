@@ -1,5 +1,16 @@
 # Registro de decisiones
 
+## Prioridad del manual web y revisión de figuras. 6 de noviembre de 2026
+
+Esta instrucción posterior del autor prevalece sobre las obligaciones prospectivas de PDF y actividades de los registros anteriores. Aquellos registros y sus comprobantes se conservan como historia de lo efectivamente realizado.
+
+| ID | Decisión y fundamento | Alcance |
+|---|---|---|
+| D25 | El esfuerzo de elaboración y comprobación se concentra en el manual web y sus recursos HTML. Se retiran del alcance vigente los PDF de avance y cualquier nueva entrega PDF mientras el autor no la solicite expresamente, junto con su maquetación y revisión. Las estáticas nuevas se limitan a necesidades concretas de la web. | Sustituye las obligaciones prospectivas de salida dual de D09/D21/D23 y del plan anterior. El PDF rector y los documentos bibliográficos siguen como fuentes; las entregas PDF y estáticas anteriores se conservan como antecedentes. El flujo web no debe generar ni copiar PDF a la entrega activa. |
+| D26 | El autor pide retirar las actividades finales del capítulo I y prescindir de actividades, ejercicios, cuestionarios y tareas para el lector en el manual. | Retirar el apartado y sus consignas y enlaces en la fuente y en la web de B02. Los ejemplos y la exploración de datos quedan integrados a la exposición y las figuras. Aplica a todos los bloques siguientes. |
+| D27 | Se refuerza transversalmente la interacción útil y amigable: selección persistente por clic/toque, controles con búsqueda y comparación según los datos, detalle visible y vistas/tablas coordinadas, restablecimiento y exportación fiel. | Revisar F01–F06 y aplicar el criterio a todas las figuras nuevas. Los estados son seleccionables cuando la fuente es estatal; F03/F05 conservan sus RHA y F06 sus nodos y relaciones conceptuales. La selección visual conserva cortes, denominadores, unidades y faltantes, sin recalcular los índices ni multiplicadores sobre subconjuntos visuales. |
+| D28 | La presente solicitud modifica ahora la planeación y prepara las instrucciones de ejecución. El retiro de actividades y la mejora de F01–F06 se realizarán en el chat B02; B03 se iniciará después desde esa revisión. | Estado actual: documentos actualizados, implementación de la revisión B02 pendiente y B03 no iniciado. Los nuevos comprobantes deben describir las interacciones realmente verificadas en navegador, con escritorio, pantalla pequeña, teclado y toque. Se conserva D22 y el destino exclusivo del fork. |
+
 ## Revisión narrativa transversal. 6 de noviembre de 2026
 
 | ID | Decisión y fundamento | Alcance |

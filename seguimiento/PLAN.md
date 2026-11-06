@@ -2,7 +2,7 @@
 
 **Destino vigente de publicación, reafirmado por el autor el 6 de noviembre de 2026.** Todos los bloques se guardan en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd). `postsocratico/papime-crd` es exclusivamente un antecedente y repositorio de consulta. No publicar cambios ni abrir PR hacia el original. Esta instrucción se mantiene entre conversaciones. Consultar `ESTADO.md` para identificar la rama y entrega vigentes dentro del fork.
 
-Versión reorganizada del 5 de noviembre, con revisión editorial transversal del 6 de noviembre de 2026. B01 completado y aceptado; B02 completo, corregido y entregado para nueva lectura del autor en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd). El estado mantenido se encuentra en `seguimiento/ESTADO.md`. Esta versión conserva los acuerdos de planeación y la prioridad narrativa ampliada. B03 no iniciado.
+Versión revisada el 6 de noviembre de 2026 para concentrar el desarrollo en el manual web y reforzar la interactividad. B01 aceptado; la entrega anterior de B02 se conserva y requiere una revisión para retirar actividades y dinamizar F01–F06. B03 se iniciará después desde esa revisión web. El estado mantenido se encuentra en `seguimiento/ESTADO.md`.
 
 El documento rector es `PAPIME Libro.pdf`, ubicado en la carpeta principal del proyecto. Los resúmenes de PAPIME_Mx y los materiales anteriores sirven como antecedentes. El repositorio de referencia es [postsocratico/papime-crd](https://github.com/postsocratico/papime-crd). La revisión de esta planeación corresponde a su rama main, commit `458257c3d7b69602560cbcaeb89fd0980297ad6b`.
 
@@ -11,27 +11,37 @@ El trabajo se organiza en diez bloques amplios: preparación, un bloque por cada
 ## Resultado previsto
 
 - Un libro web integrado en bookdown, con lectura continua y una presentación basada en el PDF actual.
-- Un PDF completo con figuras estáticas de calidad editorial.
 - Los capítulos editables en R Markdown, acompañados por una bibliografía común y referencias cruzadas consistentes.
-- Los componentes conservados por separado, incluidos scripts, datos preparados, tablas, gráficos interactivos HTML y figuras estáticas.
+- Las figuras interactivas como HTML individuales portátiles e integradas en el libro.
+- Los componentes conservados por separado, incluidos scripts, datos preparados y tablas verificadas.
 
 La integración será progresiva. Cada capítulo se incorporará al libro al quedar revisado; la etapa final resolverá la coherencia del conjunto y comprobará sus entregables.
+
+**Alcance vigente de las entregas.** El trabajo y la verificación se concentran en el manual web. Se retiran de los requisitos ordinarios la generación, actualización, maquetación y revisión de nuevos PDF, así como la producción sistemática de equivalentes estáticos destinada a ellos. Un PDF futuro requerirá una solicitud expresa del autor. El PDF rector y los PDF bibliográficos siguen siendo fuentes de consulta; los avances PDF y las figuras estáticas existentes se conservan como antecedentes. Un recurso estático nuevo sólo se justifica si resuelve una necesidad concreta del propio sitio.
+
+**Contenido del manual.** Se retiran las actividades finales del capítulo I y sus referencias en la navegación y el texto. Los capítulos siguientes desarrollan exposición, evidencia y figuras, con sus fuentes y notas, sin actividades finales, cuestionarios, tareas o ejercicios para el lector. Los ejemplos y las simulaciones pueden integrarse a la explicación y a las figuras cuando contribuyan al argumento, sin convertirse en consignas de trabajo.
 
 ## Criterios transversales
 
 **Bibliografía.** Cada capítulo combinará literatura seminal y contribuciones posteriores pertinentes, con estudios sobre México y debates necesarios para interpretar sus resultados. La obra de Clemente Ruiz Durán tendrá presencia transversal sustentada en textos concretos. Cada referencia registrará la edición consultada y el argumento al que contribuye; se comprobarán páginas y datos bibliográficos. Los pasajes citados se contrastarán con la obra original siempre que sea accesible. Una fuente inaccesible se registrará como pendiente o se sustituirá por evidencia verificable, sin atribuirle una lectura que no se realizó.
 
-**Redacción. Prioridad editorial absoluta, precisada por el autor el 6 de noviembre de 2026.** La narrativa debe leerse con naturalidad y continuidad, con el tono académico de un manual interactivo. Cada pasaje se desarrollará a partir de su argumento y de la evidencia que necesita el lector, revisando la relación entre oraciones y párrafos y procurando variedad de ritmo y construcción entre secciones y capítulos. Se reelaborarán los párrafos que parezcan listados de afirmaciones breves, las fórmulas genéricas que se limiten a atribuir una función o una diferencia a un objeto y las precisiones sobre asuntos que el texto no está tratando. La revisión afectará también aperturas, transiciones, cierres, actividades y notas de los recursos, de acuerdo con los criterios ampliados de `GUIA_EDITORIAL.md`.
+**Redacción. Prioridad editorial absoluta, precisada por el autor el 6 de noviembre de 2026.** La narrativa debe leerse con naturalidad y continuidad, con el tono académico de un manual interactivo. Cada pasaje se desarrollará a partir de su argumento y de la evidencia que necesita el lector, revisando la relación entre oraciones y párrafos y procurando variedad de ritmo y construcción entre secciones y capítulos. Se reelaborarán los párrafos que parezcan listados de afirmaciones breves, las fórmulas genéricas que se limiten a atribuir una función o una diferencia a un objeto y las precisiones sobre asuntos que el texto no está tratando. La revisión afectará también aperturas, transiciones, cierres y notas de los recursos, de acuerdo con los criterios ampliados de `GUIA_EDITORIAL.md`.
 
-La precisión de fuentes y métodos se conservará en el lugar que permita interpretar la evidencia. Los detalles de unidades, fechas, clasificaciones y cobertura se documentarán en pies y notas; la prosa desarrollará sus consecuencias cuando sean relevantes para la explicación. Antes de cerrar cada bloque se hará una lectura editorial continua, seguida del cotejo entre los textos de las fuentes, la web y el PDF. Esta revisión forma parte del trabajo ordinario autorizado y se aplicará al contenido existente y al que se elabore después. Permanecen los acuerdos sobre atribución, bibliografía y datos, así como las restricciones a guiones largos, exceso de dos puntos, ternas mecánicas y comparaciones formularias.
+La precisión de fuentes y métodos se conservará en el lugar que permita interpretar la evidencia. Los detalles de unidades, fechas, clasificaciones y cobertura se documentarán en pies y notas; la prosa desarrollará sus consecuencias cuando sean relevantes para la explicación. Antes de cerrar cada bloque se hará una lectura editorial continua, seguida del cotejo entre los textos de las fuentes y el contenido del manual web. Esta revisión forma parte del trabajo ordinario autorizado y se aplicará al contenido existente y al que se elabore después. Permanecen los acuerdos sobre atribución, bibliografía y datos, así como las restricciones a guiones largos, exceso de dos puntos, ternas mecánicas y comparaciones formularias.
 
 **Datos.** Se conservarán la fuente original y su fecha de consulta, junto con periodo, cobertura, unidades y transformaciones. Se distinguirán precios corrientes y constantes, año base, frecuencia, valores faltantes y ceros. Las comparaciones territoriales utilizarán clasificaciones y denominadores compatibles. Los datos tendrán un corte explícito por edición del libro; las actualizaciones serán deliberadas y verificables.
 
 **Diseño editorial.** El PDF actual será la referencia para la composición y el tono visual. La web tendrá un ancho de lectura cómodo, jerarquías tipográficas consistentes, navegación discreta y figuras colocadas junto a la explicación pertinente. La adaptación a pantalla conservará la identidad del libro.
 
-**Gráficos.** La interactividad se concentrará en las figuras. Cada recurso tendrá una vista inicial suficiente para acompañar la lectura y controles pertinentes a su pregunta económica. Se cuidarán las escalas, etiquetas y leyendas, así como los espacios y la continuidad cromática. Las versiones interactivas y estáticas utilizarán los mismos datos preparados. Se preservarán las decisiones ya trabajadas para KSI, ICE e IEE; cualquier cambio metodológico deberá justificarse y registrarse.
+**Gráficos. Prioridad funcional.** Todas las figuras ofrecerán interacción útil y amigable, integrada en la lectura. Las entidades y elementos disponibles podrán seleccionarse por clic o toque, con selección persistente y un detalle legible. Se incorporarán selectores con búsqueda y comparación múltiple cuando los datos lo permitan, así como vistas y tablas coordinadas, restablecimiento y descarga fiel de los datos mostrados. Las unidades, el periodo y la selección activa serán visibles. Las ayudas al pasar el cursor complementan los controles persistentes. Se preservan las decisiones de KSI, ICE e IEE; filtrar una vista conserva sus denominadores y referencias. Las figuras nacionales permiten seleccionar sectores o flujos según su cobertura, sin inventar desagregación estatal.
 
 **Reproducibilidad y continuidad.** Los cálculos deberán poder ejecutarse desde los archivos conservados, con rutas relativas y dependencias documentadas. Las sesiones dejarán un registro breve del resultado, sus verificaciones y el siguiente trabajo. El guardado será progresivo y las versiones coherentes se registrarán en GitHub.
+
+## Revisión funcional prioritaria de F01–F06
+
+Esta revisión pertenece a B02 y precede a B03. La interfaz de cada figura mostrará su selección y permitirá consultar valores o explicaciones de forma persistente, comparar elementos compatibles y restablecer la vista. En mapas con varias capas se seleccionarán las capas disponibles y se controlará la visibilidad cuando aporte legibilidad. Los paneles de F04 coordinarán categorías y selección territorial con sus tablas, respetando los periodos y coberturas documentados. F03 y F05 mantendrán las trece RHA como unidad de sus datos; una selección de estado sólo puede aportar contexto geográfico independiente, sin repartir población, agua o VAB entre unidades. F06 permitirá seleccionar nodos y relaciones para leer sus explicaciones y referencias, manteniendo su carácter interpretativo.
+
+La revisión se comprobará en un navegador real, en escritorio y pantalla pequeña. Se probarán clic/toque, selección múltiple donde corresponda, búsqueda, estados sin datos, restablecimiento y descargas, así como el uso por teclado y la legibilidad de ejes y leyendas. Las pruebas contrastarán la selección y sus valores con la base preparada. Se ajustará la compilación para que el flujo habitual produzca y revise únicamente la web y no arrastre PDF anteriores a la entrega activa.
 
 ## Referencias iniciales de diseño y bibliografía
 
@@ -58,19 +68,19 @@ Las actividades de cada bloque se ejecutan como un conjunto. Se enlazan la inves
 
 **Alcance.** Conciliar el inventario local y el repositorio, identificar la versión vigente y registrar insumos faltantes. Establecer la copia local de trabajo y las carpetas del proyecto, preservando los originales. Resolver la arquitectura editorial y la numeración de apartados, junto con la guía de redacción y la matriz bibliográfica inicial.
 
-Construir el esqueleto de bookdown y su plantilla editorial basada en el PDF. Definir el sistema común de gráficos y probar ambas plantillas con el fragmento de especialización existente, incluyendo citas, ecuaciones y un gráfico interactivo con su equivalente estático. Documentar la compilación y las dependencias necesarias.
+Construir el esqueleto de bookdown y su plantilla editorial basada en el PDF. Definir el sistema común de gráficos y probar ambas plantillas con el fragmento de especialización existente, incluyendo citas, ecuaciones y un gráfico con selección persistente y consulta de datos. Documentar la compilación y las dependencias necesarias.
 
-**Entregable.** Proyecto organizado y reproducible, con un piloto navegable y su PDF. El piloto permitirá revisar la identidad visual y la lectura antes de extenderlas al libro. La matriz bibliográfica orientará la investigación posterior, que se profundizará dentro de cada capítulo.
+**Entregable.** Proyecto organizado y reproducible, con un piloto web navegable. El piloto permitirá revisar la identidad visual y la lectura antes de extenderlas al libro. La matriz bibliográfica orientará la investigación posterior, que se profundizará dentro de cada capítulo.
 
-**Cierre.** El piloto compila en ambos formatos, sus cifras corresponden al cálculo y los archivos de seguimiento permiten retomar el proyecto. Las decisiones metodológicas existentes quedan registradas. Las comprobaciones del piloto se aprovecharán en el capítulo II.
+**Cierre.** El piloto compila en la web, sus cifras corresponden al cálculo y los archivos de seguimiento permiten retomar el proyecto. Las decisiones metodológicas existentes quedan registradas. Las comprobaciones del piloto se aprovecharán en el capítulo II.
 
 ### B02. Capítulo I. Fundamentos históricos y geográficos del territorio mexicano
 
 **Alcance.** Investigar y redactar «Evolución territorial de México». Revisar «Geografía y recursos de una geografía desigual», sus contrastes regionales y la regionalización utilizada, resolviendo las notas pendientes del manuscrito.
 
-Completar el conjunto de figuras F01–F06. Verificar relieve y localización, clasificaciones de clima y suelo, los recursos y sus paneles, así como las comparaciones de agua y población. Preparar conjuntamente los datos compartidos de F03 y F05 y resolver el esquema integrador F06. Elaborar las salidas interactivas pertinentes y sus versiones estáticas, junto con las actividades del capítulo.
+Completar y reforzar la interactividad de F01–F06. Verificar relieve y localización, clasificaciones de clima y suelo, los recursos y sus paneles, así como las comparaciones de agua y población. Preparar conjuntamente los datos compartidos de F03 y F05 y resolver el esquema integrador F06. Revisar cada figura existente para permitir selección persistente por clic o toque, controles pertinentes a su unidad, comparación y consulta coordinada de datos. Las 32 entidades se podrán seleccionar cuando exista información estatal; F03/F05 conservarán las regiones hidrológico-administrativas y F06 explorará nodos y relaciones documentados. Retirar las actividades finales del capítulo, sus consignas y sus referencias en navegación y texto.
 
-**Entregable.** Capítulo I completo en R Markdown e integrado al libro web y al PDF, con bibliografía verificada y recursos individuales conservados.
+**Entregable.** Capítulo I completo en R Markdown e integrado al libro web, sin actividades finales, con F01–F06 mejoradas y sus HTML individuales portátiles. Bibliografía y datos verificados.
 
 **Cierre.** La historia territorial y la explicación geográfica forman un argumento continuo. Las figuras coinciden con los datos y la prosa; sus coberturas y clasificaciones son explícitas.
 
@@ -78,9 +88,9 @@ Completar el conjunto de figuras F01–F06. Verificar relieve y localización, c
 
 **Alcance.** Completar la introducción y «Segmentación de la producción» con la literatura pertinente. Extender el piloto de especialización para integrar KSI, ICE e IEE, preservando los criterios metodológicos y visuales ya trabajados, incluida la matriz completa.
 
-Reproducir el modelo nacional de insumo-producto y su explicación, distinguiendo los tratamientos de insumos domésticos y totales cuando corresponda. Recuperar y validar la base regional antes de desarrollar su aplicación y explorador. Revisar «Regiones y el sector externo», verificar unidades y conversiones monetarias y completar sus figuras. Integrar las actividades y revisar el capítulo en su conjunto.
+Reproducir el modelo nacional de insumo-producto y su explicación, distinguiendo los tratamientos de insumos domésticos y totales cuando corresponda. Recuperar y validar la base regional antes de desarrollar su aplicación y explorador. Revisar «Regiones y el sector externo», verificar unidades y conversiones monetarias y completar sus figuras. Integrar sus recursos interactivos y revisar el capítulo en su conjunto.
 
-**Entregable.** Capítulo II completo con modelos reproducibles y visualizaciones interactivas, acompañado por las salidas estáticas y sus bases documentadas.
+**Entregable.** Capítulo II completo en la web con modelos reproducibles y visualizaciones interactivas, acompañado por los HTML individuales y sus bases documentadas. Incluye selección persistente de entidades y actividades, celdas o flujos, según la cobertura de cada recurso.
 
 **Cierre.** La aplicación regional tiene una base y método resueltos; las figuras del sector externo utilizan series comparables. Los resultados de especialización conservan las convenciones acordadas. Si falta un insumo decisivo, se avanza en los componentes independientes y se registra exactamente qué impide cerrar el capítulo.
 
@@ -88,9 +98,9 @@ Reproducir el modelo nacional de insumo-producto y su explicación, distinguiend
 
 **Alcance.** Revisar la literatura y delimitar el alcance institucional del capítulo. Desarrollar los conceptos de gobernanza y coordinación territorial, considerando las capacidades de gobierno y sus tensiones. Seleccionar y elaborar un caso mexicano con evidencia documental verificable.
 
-Preparar el recurso didáctico y las actividades que ayuden a analizar el caso. La interactividad se incorporará cuando exista una pregunta que pueda explorarse con datos.
+Preparar los recursos de consulta y exploración que ayuden a comprender el caso. La interactividad responderá a las preguntas que puedan explorarse con sus datos o relaciones documentadas.
 
-**Entregable.** Capítulo III completo con marco conceptual y caso documentado, integrado en los formatos del libro.
+**Entregable.** Capítulo III completo con marco conceptual y caso documentado, integrado al libro web.
 
 **Cierre.** El análisis identifica actores y mecanismos y distingue los efectos respaldados por evidencia de las interpretaciones propuestas.
 
@@ -98,9 +108,9 @@ Preparar el recurso didáctico y las actividades que ayuden a analizar el caso. 
 
 **Alcance.** Recuperar y validar los insumos viales y energéticos. Reproducir las regresiones y completar la tabla pendiente del manuscrito, revisando sus supuestos y alcances. Preparar las series de tecnologías de generación y comprobar las fuentes geográficas de centrales e infraestructura.
 
-Desarrollar sus mapas y gráficos, incluidas las dispersiones vinculadas con los modelos ya verificados. Completar ubicación, logística y puertos, coordinando los datos compartidos con el capítulo II. Revisar el texto y las actividades e integrar el conjunto.
+Desarrollar sus mapas y gráficos, incluidas las dispersiones vinculadas con los modelos ya verificados. Completar ubicación, logística y puertos, coordinando los datos compartidos con el capítulo II. Revisar el texto y la experiencia de exploración e integrar el conjunto.
 
-**Entregable.** Capítulo IV completo con análisis reproducibles y recursos gráficos terminados, tanto interactivos como estáticos.
+**Entregable.** Capítulo IV completo en la web, con análisis reproducibles y recursos gráficos interactivos terminados.
 
 **Cierre.** Las bases y ubicaciones están comprobadas. La interpretación distingue las asociaciones observadas de las afirmaciones causales que requerirían otro sustento.
 
@@ -108,9 +118,9 @@ Desarrollar sus mapas y gráficos, incluidas las dispersiones vinculadas con los
 
 **Alcance.** Revisar la bibliografía y establecer las unidades territoriales y los indicadores. Desarrollar el análisis urbano y de vivienda, vinculando el acceso a oportunidades con la organización espacial de las ciudades. Examinar educación y capacidades laborales con una discusión crítica de su medición.
 
-Preparar la evidencia y los recursos comparativos, revisar las actividades y cerrar el capítulo.
+Preparar la evidencia y los recursos comparativos interactivos y cerrar el capítulo.
 
-**Entregable.** Capítulo V completo con indicadores documentados y visualizaciones pertinentes, integrado al libro web y al PDF.
+**Entregable.** Capítulo V completo con indicadores documentados y visualizaciones interactivas, integrado al libro web.
 
 **Cierre.** Las comparaciones utilizan unidades territoriales compatibles. Las relaciones entre condiciones urbanas y oportunidades de la población están sustentadas.
 
@@ -118,7 +128,7 @@ Preparar la evidencia y los recursos comparativos, revisar las actividades y cer
 
 **Alcance.** Revisar los enfoques de desigualdad y formular el método de diagnóstico. Construir la base comparable y resolver las diferencias de cobertura o periodo. Elaborar el análisis territorial y contrastarlo con la literatura.
 
-Preparar los perfiles territoriales y su exploración interactiva, junto con sus versiones estáticas y las actividades del capítulo.
+Preparar los perfiles territoriales y su exploración interactiva, con selección, comparación y consulta de valores en tablas coordinadas.
 
 **Entregable.** Capítulo VI completo con diagnóstico reproducible y perfiles regionales trazables a sus datos.
 
@@ -128,17 +138,17 @@ Preparar los perfiles territoriales y su exploración interactiva, junto con sus
 
 **Alcance.** Revisar la literatura y vincular el diagnóstico territorial con los objetivos de intervención y las restricciones ambientales. Desarrollar los instrumentos de política y sus condiciones de ejecución, considerando capacidades institucionales y coordinación.
 
-Integrar criterios de sustentabilidad y evaluación. Preparar un ejercicio acotado de escenarios y sus actividades, utilizando interactividad si aporta al aprendizaje.
+Integrar criterios de sustentabilidad y evaluación. Desarrollar un análisis acotado de escenarios cuando exista sustento suficiente y utilizar controles interactivos para explorar sus supuestos y resultados dentro de la explicación.
 
-**Entregable.** Capítulo VII completo con propuestas argumentadas y un ejercicio de evaluación o escenarios documentado.
+**Entregable.** Capítulo VII completo con propuestas argumentadas y un análisis de evaluación o escenarios documentado e integrado al manual web.
 
-**Cierre.** Los instrumentos responden al diagnóstico. Los escenarios explicitan sus supuestos y se presentan como ejercicios, con las tensiones entre objetivos debidamente discutidas.
+**Cierre.** Los instrumentos responden al diagnóstico. Los escenarios explicitan sus supuestos y su alcance analítico, con las tensiones entre objetivos debidamente discutidas.
 
 ### B09. Capítulo VIII. El territorio ante la globalización
 
 **Alcance.** Revisar la literatura y definir los procesos globales que organizarán el capítulo. Analizar la inserción económica de México y sus efectos territoriales, aprovechando la evidencia ya verificada. Examinar estrategias y casos regionales a partir de sus condiciones productivas e institucionales.
 
-Elaborar el recurso de síntesis y las actividades, revisar el texto e integrarlo al argumento del libro.
+Elaborar el recurso interactivo de síntesis, revisar el texto e integrarlo al argumento del libro.
 
 **Entregable.** Capítulo VIII completo con evidencia y bibliografía verificadas, acompañado por sus recursos gráficos.
 
@@ -148,9 +158,9 @@ Elaborar el recurso de síntesis y las actividades, revisar el texto e integrarl
 
 **Alcance.** Revisar el argumento del conjunto, completar la introducción general y las conclusiones y resolver repeticiones o transiciones deficientes. Auditar bibliografía y citas, además de cifras, ecuaciones y referencias cruzadas.
 
-Revisar visualmente el libro web y el PDF. Comprobar controles, enlaces y descargas, así como el uso en pantallas pequeñas, teclado y dispositivos táctiles. Preparar los entregables locales y su versión en GitHub, documentar la reproducción y actualización y publicar en el destino acordado.
+Revisar visualmente el libro web y sus figuras integradas e individuales. Comprobar controles, enlaces y descargas, así como el uso en pantallas pequeñas, teclado y dispositivos táctiles. Preparar los entregables locales y su versión en GitHub, documentar la reproducción y actualización y publicar en el destino acordado.
 
-**Entregable.** Libro web integrado, PDF final y componentes individuales organizados, con una versión identificable del proyecto y las instrucciones necesarias para mantenerlo.
+**Entregable.** Libro web integrado y componentes individuales organizados, con una versión identificable del proyecto y las instrucciones necesarias para mantenerlo.
 
 **Cierre.** Las incidencias de contenido y funcionamiento están resueltas o, cuando dependen de una condición externa, identificadas con precisión. La edición publicada se comprueba en su destino. Este bloque realiza una revisión transversal de capítulos que ya fueron comprobados durante su desarrollo.
 
@@ -158,7 +168,7 @@ Los títulos de los ocho capítulos proceden del PDF actual. Los apartados todav
 
 ## Orden de avance y autonomía
 
-La secuencia ordinaria es B01, los capítulos I–VIII y B10. Cada capítulo se incorpora al libro conforme se completa. El piloto de B01 se reutiliza al elaborar B03, los datos del sector externo se coordinan con B05 y el diagnóstico de B07 alimenta B08.
+La secuencia ordinaria es B01, los capítulos I–VIII y B10. La siguiente ejecución revisará primero B02 para retirar las actividades y reforzar F01–F06; B03 partirá de esa edición web. Cada capítulo se incorpora al libro conforme se completa. El piloto de B01 se reutiliza al elaborar B03, los datos del sector externo se coordinan con B05 y el diagnóstico de B07 alimenta B08.
 
 La solicitud de comenzar un bloque autoriza a avanzar sobre todas las tareas comprendidas en él y a resolver las decisiones ordinarias conforme a los acuerdos editoriales vigentes. El asistente coordinará los pasos internos y continuará mientras pueda producir un avance sustancial verificable. Solo consultará cuando sea indispensable una decisión del autor que cambie el contenido, el método o el alcance, y continuará el trabajo independiente mientras espera.
 
@@ -191,7 +201,7 @@ papime-crd/
     manifiesto.csv
   assets/
     capitulo-01/ ... capitulo-08/
-      figuras-estaticas/
+      figuras-estaticas/  (recursos existentes o respaldo web puntual)
       interactivos/
       tablas/
   seguimiento/
@@ -203,18 +213,18 @@ papime-crd/
   entregas/
     capitulos/
     web/
-    pdf/
+    pdf/  (archivo histórico; fuera de las entregas vigentes)
 ```
 
 Los originales se conservarán íntegros. Los datos compartidos tendrán una ubicación común con procedencia documentada; los derivados se identificarán por capítulo. Los archivos grandes tendrán un mecanismo de conservación y distribución adecuado a su tamaño. Se registrarán las dependencias y se separará la configuración local de los archivos publicados.
 
-Cada figura conservará un identificador estable que vincule su fuente, cálculo y ubicación editorial con sus salidas HTML y estática. Los HTML individuales incluirán las dependencias necesarias o indicarán claramente la carpeta que los acompaña.
+Cada figura conservará un identificador estable que vincule su fuente, cálculo y ubicación editorial con su HTML y su tabla de datos. Las salidas estáticas ya existentes se conservan como antecedentes y no son un requisito de las nuevas entregas. Los HTML individuales incluirán las dependencias necesarias o indicarán claramente la carpeta que los acompaña.
 
 ## Cierre de sesiones y capítulos
 
 Una sesión termina con archivos guardados, fuentes y decisiones relevantes registradas y las comprobaciones realizadas descritas. El registro de estado identifica el bloque activo y el próximo trabajo concreto. El asistente mantendrá estos registros sin requerir que el usuario los redacte o reconstruya.
 
-Un bloque se considerará terminado cuando su entregable esté completo, verificado e integrado donde corresponda. Un capítulo requerirá correspondencia entre las cifras de la prosa y las figuras, referencias completas y lectura comprobada en los formatos aplicables. Los problemas metodológicos que alteren la interpretación deberán resolverse antes del cierre.
+Un bloque se considerará terminado cuando su entregable esté completo, verificado e integrado donde corresponda. Un capítulo requerirá correspondencia entre las cifras de la prosa y las figuras, referencias completas y lectura comprobada en la web integrada y los HTML individuales. Los problemas metodológicos que alteren la interpretación deberán resolverse antes del cierre.
 
 Los avances coherentes se conservarán localmente y se registrarán en GitHub. Se informará de cualquier sincronización pendiente. Un insumo faltante limitará el trabajo dependiente de él, y se continuará con las actividades independientes.
 
@@ -228,7 +238,7 @@ La continuidad descansará en los archivos del proyecto. Al abrir un chat se lee
 
 Instrucción de arranque sugerida para el nuevo chat:
 
-> Trabajaremos en el libro PAPIME, en `C:\Users\marce\Downloads\PAPIME\papime-crd`. Lee primero `seguimiento/PLAN.md`, `ESTADO.md` y `DECISIONES.md`, y después la guía editorial, la arquitectura y el cierre vigente. Utiliza el manuscrito rector identificado en esos archivos y retoma el punto de continuación registrado, sin repetir bloques aceptados. La prioridad absoluta es una narrativa natural, continua y variada, conforme a D23–D24; conserva los demás acuerdos bibliográficos y metodológicos. Publica exclusivamente en el fork `margv-1432/papime-crd`, con el original `postsocratico/papime-crd` sólo como consulta. Coordina y completa el trabajo autorizado, guarda versiones coherentes, comprueba web/PDF y actualiza el estado. El cambio de bloque requiere una instrucción cuyo alcance lo comprenda.
+> Trabajaremos en el libro PAPIME, en `C:\Users\marce\Downloads\PAPIME\papime-crd`. Lee primero `seguimiento/PLAN.md`, `ESTADO.md` y `DECISIONES.md`, y después la guía editorial, la arquitectura y el cierre vigente. Utiliza el manuscrito rector identificado en esos archivos y retoma el punto de continuación registrado, sin repetir bloques aceptados. La prioridad absoluta es una narrativa natural, continua y variada, conforme a D23–D24; conserva los demás acuerdos bibliográficos y metodológicos. Publica exclusivamente en el fork `margv-1432/papime-crd`, con el original `postsocratico/papime-crd` sólo como consulta. Coordina y completa el trabajo autorizado, guarda versiones coherentes, comprueba la web y las interacciones y actualiza el estado. Concentra el desarrollo en HTML, retira las actividades finales y aplica los requisitos de selección y exploración de D25–D28. El cambio de bloque requiere una instrucción cuyo alcance lo comprenda.
 
 Para continuar dentro de un bloque:
 
