@@ -38,3 +38,7 @@ El [informe funcional](REVISION_FUNCIONAL_WEB_B02.md), la [verificación](VERIFI
 No quedan decisiones adicionales ni tareas independientes pendientes de esta solicitud. Corresponde la lectura del autor sobre `entregas/web/index.html` y los seis HTML de `assets/capitulo-01/interactivos`. Las limitaciones de cobertura conservadas se explican en cada recurso y en el informe.
 
 Para ajustes posteriores: leer plan, estado, decisiones, guía y arquitectura; partir del generador web de la figura o de `libro/capitulos/01-territorio.Rmd`; compilar HTML y repetir las pruebas pertinentes. Mantener la prioridad absoluta de narrativa natural y variada, sin actividades finales ni nuevas entregas PDF. Las fuentes, cortes y acuerdos bibliográficos sobre Ruiz Durán y literatura seminal permanecen vigentes. B03 requiere una instrucción posterior cuyo alcance lo comprenda.
+
+## Publicación comprobada
+
+Contenido web publicado en `0da305d1c2b9bfade5f5ebda16831fc74f9401c7`, con árbol `07d58d4627e8069d8338859262f25af0eb232d01`, idéntico al checkpoint local `203f30c917963207e9eb3f25d55cea6d2fa95f2f`. Rama `b02-capitulo-i` y PR #1 del fork actualizados. Véase [verificacion-publicacion-B02-web.json](verificacion-publicacion-B02-web.json). No quedan archivos pendientes de publicación.

@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-11-06",
+  "resultado": "correcto",
+  "repository_full_name": "margv-1432/papime-crd",
+  "rama": "b02-capitulo-i",
+  "pr": "https://github.com/margv-1432/papime-crd/pull/1",
+  "alcance": "Checkpoint de contenido B02 web; este comprobante se incorpora después en un cierre documental.",
+  "commit_remoto_contenido": "0da305d1c2b9bfade5f5ebda16831fc74f9401c7",
+  "commit_local_contenido": "203f30c917963207e9eb3f25d55cea6d2fa95f2f",
+  "arbol_remoto": "07d58d4627e8069d8338859262f25af0eb232d01",
+  "arbol_local": "07d58d4627e8069d8338859262f25af0eb232d01",
+  "arboles_identicos": true,
+  "base_remota": "77e67b0c12bf3b38c17975d46b193bc0ff457029",
+  "base_local": "8e55f7961f22b0bed0229418160178723710cab7",
+  "rutas_actualizadas": 97,
+  "blobs_unicos": 61,
+  "blobs_grandes_verificados_por_sha": 5,
+  "main_fork_conservado": "c35d2b974799d1b17d44e9ac597d43dfe0686710",
+  "base_y_head_del_pr_en_fork": true,
+  "pdf_en_web_activa": 0,
+  "copias_historicas_retiradas_y_conservadas": 29,
+  "verificaciones": {
+    "integracion": 37,
+    "navegador_integrado": 59,
+    "fisico": 38,
+    "recursos": 37,
+    "agua_mecanismos": 51,
+    "total_suites_mantenidas": 222,
+    "controles_moviles_adicionales": 7
+  },
+  "repositorio_original": "Sólo consulta; sin operaciones de escritura en esta revisión",
+  "continuidad": "B02 web completo para lectura del autor. B03 no iniciado. Conservar D22–D28 y publicar exclusivamente en este fork."
+}

@@ -19,3 +19,7 @@ El navegador verificó selecciones persistentes, comparación múltiple, búsque
 La narrativa del capítulo I previa a las actividades coincide exactamente con el checkpoint de partida. Las 30 claves citadas y sus localizadores permanecen resueltos, la bibliografía se conserva y el piloto mantiene ecuaciones y expresiones de cálculo. Las bases cuantitativas y las fuentes/entregas históricas están intactas; sólo se añadió la geometría estatal de dibujo y se actualizó el manifiesto.
 
 Las capturas de QA están en `tmp/qa-web-B02-funcional`, `tmp/qa-fisico-web`, `tmp/qa-recursos-web-B02` y `tmp/qa-agua-web-B02`. El [informe funcional](REVISION_FUNCIONAL_WEB_B02.md) describe las mejoras y sus coberturas. Los comprobantes anteriores de PDF permanecen como historia de aquellas entregas y no forman parte de la verificación vigente.
+
+## Publicación comprobada
+
+Contenido web publicado en `0da305d1c2b9bfade5f5ebda16831fc74f9401c7`, con árbol `07d58d4627e8069d8338859262f25af0eb232d01`, idéntico al checkpoint local `203f30c917963207e9eb3f25d55cea6d2fa95f2f`. Rama `b02-capitulo-i` y PR #1 del fork actualizados. Véase [verificacion-publicacion-B02-web.json](verificacion-publicacion-B02-web.json). No quedan archivos pendientes de publicación.

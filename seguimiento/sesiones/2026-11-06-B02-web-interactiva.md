@@ -11,3 +11,5 @@ Compilación web correcta; 37 comprobaciones de integración, 59 globales de nav
 Destino exclusivo de publicación: **fork margv-1432/papime-crd**, rama `b02-capitulo-i`, PR #1 del propio fork. El original `postsocratico/papime-crd` es de consulta. Los comprobantes de publicación se registran tras verificar el árbol remoto.
 
 Punto de reanudación: lectura del autor de `entregas/web/index.html` y los seis HTML individuales. Para ajustes, consultar plan/estado/decisiones/guía/arquitectura, modificar la fuente correspondiente y compilar únicamente HTML. Mantener narrativa natural y variada, sin actividades finales, cortes conservados y destino fork. No hay decisiones adicionales ni tareas independientes pendientes; B03 no iniciado.
+
+Publicación comprobada: commit de contenido `0da305d1c2b9bfade5f5ebda16831fc74f9401c7`, árbol idéntico al checkpoint local `203f30c917963207e9eb3f25d55cea6d2fa95f2f`. Ver `../verificacion-publicacion-B02-web.json`. No queda sincronización pendiente.
