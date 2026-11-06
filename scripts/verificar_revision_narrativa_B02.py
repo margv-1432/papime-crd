@@ -1,4 +1,8 @@
-"""Coteja la revisión editorial con el checkpoint previo y con ambas lecturas."""
+"""Verificador histórico de la revisión narrativa anterior a D25–D28.
+
+Las comprobaciones vigentes de HTML están en verificar_B02.py y verificar_web_B02.cjs.
+Este archivo conserva el procedimiento de aquella entrega dual como antecedente.
+"""
 from pathlib import Path
 from html.parser import HTMLParser
 from collections import Counter

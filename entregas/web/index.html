@@ -52,8 +52,22 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <meta name="color-scheme" content="light">
-<meta name="description" content="Piloto editorial del manual de Economía Mexicana PAPIME. Especialización regional con datos de 2024 a precios de 2018.">
+<meta name="description" content="Manual interactivo de Economía Mexicana PAPIME. Territorio, recursos y estructura productiva.">
 <script>window.MathJax = {tex: {tags: 'ams'}, svg: {fontCache: 'global'}, options: {enableMenu: false}};</script>
+<script>
+// Cada explorador informa su altura para conservar la lectura continua del libro.
+window.addEventListener('message', function(event) {
+  if (!event.data || event.data.type !== 'papime:resize') return;
+  var h = Number(event.data.height);
+  if (!Number.isFinite(h) || h < 200 || h > 50000) return;
+  document.querySelectorAll('iframe.territorio').forEach(function(frame) {
+    if (frame.contentWindow === event.source && Math.abs(frame.getBoundingClientRect().height-h)>3) {
+      frame.style.height = Math.ceil(h+4)+'px';
+      frame.setAttribute('data-altura-ajustada','true');
+    }
+  });
+});
+</script>
 
 
 
@@ -117,7 +131,6 @@ div.csl-indent {
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#recursos-aprovechamiento"><i class="fa fa-check"></i>I.2.4 Recursos naturales y aprovechamiento regional</a></li>
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#cierre-geografico"><i class="fa fa-check"></i>I.2.5 Cierre integrador</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#actividades-territorio"><i class="fa fa-check"></i>I.3 Actividades de análisis territorial</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="especializacion.html"><a href="especializacion.html"><i class="fa fa-check"></i>Capítulo II Estructura productiva y especialización regional</a>
 <ul>
@@ -151,16 +164,13 @@ div.csl-indent {
 <h1 class="title">Economía mexicana</h1>
 <h2 class="subtitle"><em>Territorio y estructura productiva</em></h2>
 <p class="author"><em>Proyecto PAPIME</em></p>
-<p class="date"><em>Edición revisada B02 · 6 de noviembre de 2026</em></p>
+<p class="date"><em>Edición web B02 · 6 de noviembre de 2026</em></p>
 </div>
 <div id="presentacion" class="section level1 unnumbered hasAnchor">
 <h1>Presentación<a href="index.html#presentacion" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>Para comprender la distribución de las actividades económicas en México conviene volver sobre la formación de sus regiones: cómo se poblaron, de qué manera se conectaron y bajo qué condiciones se han aprovechado sus recursos. El capítulo I recorre esa historia y examina los contrastes geográficos del país a partir de problemas concretos, entre ellos el acceso a los mercados y la relación entre agua y población. Los mapas y gráficos acompañan la explicación; al recorrerlos es posible detenerse en un lugar, contrastarlo con otros y consultar los datos que sostienen la comparación.</p>
 <p>Esta edición reúne el <a href="territorio.html#territorio">capítulo I completo</a> y un primer acercamiento a la <a href="especializacion.html#especializacion">medición de la especialización, en el capítulo II</a>, donde se trabaja con una matriz de actividad económica de 2024 a precios de 2018. Este último fragmento forma parte del piloto editorial con el que se preparó el libro y antecede al desarrollo completo del segundo capítulo. Las <a href="referencias.html#referencias">referencias</a> reúnen las obras y fuentes utilizadas en ambos textos.</p>
-<p>En pantalla, los controles de las figuras dan acceso a capas, categorías y tablas; para la lectura impresa se han preparado versiones estáticas con la misma evidencia y sus notas de fuente. A lo largo del recorrido se precisan las fechas y escalas pertinentes, de modo que el lector pueda situar cada comparación y, cuando una pregunta lo lleve a una localidad o a un periodo distinto, reconocer qué información adicional necesita.</p>
-<p class="enlaces-edicion">
-<a href="papime-libro.pdf">Descargar el libro en PDF</a> · <a href="PAPIME-B02-capitulo-I.pdf">Descargar el capítulo I en PDF</a>
-</p>
+<p>En los exploradores, la selección de lugares y categorías enlaza los mapas y gráficos con sus tablas y notas, de manera que cada comparación puede seguirse hasta los datos que la sostienen. A lo largo del recorrido se precisan las fechas y escalas pertinentes para situar la evidencia y reconocer qué información adicional haría falta al estudiar otra localidad o periodo.</p>
 
 </div>
             </section>
@@ -201,7 +211,7 @@ gitbook.start({
     "link": null,
     "text": null
   },
-  "download": ["papime-libro.pdf"],
+  "download": null,
   "search": {
     "engine": "fuse",
     "options": null

@@ -1,5 +1,6 @@
 ruta,bytes,sha256
 datos/preparados/capitulo-01/.gitkeep,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+datos/preparados/capitulo-01/estados-web.json,127206,e69a886e50454e9b5ca707eb1c261706fd75ec05d4bed6b55afc638dfc3b5247
 datos/preparados/capitulo-01/F01-caminos-metadatos.json,837,49d2451618f2aaba6eb834ced32f17ed90094f14bce3ebe3ede9c59bae086f0f
 datos/preparados/capitulo-01/F01-carreteras-federales.gpkg,1376256,47e45c10ef709dd346a3421ccf4f6f61b9d267980c85b6d47723edabd6f67f80
 datos/preparados/capitulo-01/F01-elevacion-1800m.tif,3111090,60b1cdd9dc439de148c839c89f555019a95199ee4b8cac7e43dd2cc8ef28ef31

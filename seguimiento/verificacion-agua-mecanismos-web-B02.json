@@ -1,0 +1,271 @@
+{
+  "fecha": "2026-11-06",
+  "pruebas": [
+    {
+      "prueba": "F03 muestra 13 filas iniciales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 exporta base completa exacta",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 búsqueda sin acentos y por nombre",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 selección persiste visible",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 multiselección simple coordinada",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 exporta filas seleccionadas exactas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 detalle cifras XI",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 porcentajes y denominadores congelados",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 casilla operable por teclado y conserva foco",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 reset restaura vista y búsqueda",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 mapa selecciona múltiples sin Ctrl",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 mapa con Enter conserva foco",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 variable de símbolos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 capa símbolos se oculta",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 reset capas y variable",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 muestra 13 filas iniciales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 exporta base completa exacta",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 búsqueda sin acentos y por nombre",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 selección persiste visible",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 multiselección simple coordinada",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 exporta filas seleccionadas exactas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 detalle cifras XI",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 porcentajes y denominadores congelados",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 casilla operable por teclado y conserva foco",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 reset restaura vista y búsqueda",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 gráfico activa selección",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 orden y exportación coinciden",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 capa serie",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 nueve nodos y diez relaciones",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 exporta diez relaciones exactas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 nodo coordina tabla y explicación",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 exportación de conexiones exacta",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 selección múltiple de nodos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 amplía vecinos documentados",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 flechas multiselección",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 exportación de relaciones seleccionadas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 referencias conservadas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 búsqueda de relación",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 teclado y foco persistente",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 reset restaura esquema",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 sin desborde horizontal a 360px",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 toque conserva selección y detalle",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F03 reset táctil",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 sin desborde horizontal a 360px",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 toque conserva selección y detalle",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F05 reset táctil",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 sin desborde horizontal a 360px",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 toque conserva selección y detalle",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "F06 reset táctil",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin errores JavaScript",
+      "correcto": true,
+      "detalle": []
+    },
+    {
+      "prueba": "Sin peticiones externas",
+      "correcto": true,
+      "detalle": []
+    }
+  ],
+  "errores": [],
+  "externas": [],
+  "capturas": [
+    "tmp\\qa-agua-web-B02\\F03-escritorio.png",
+    "tmp\\qa-agua-web-B02\\F05-escritorio.png",
+    "tmp\\qa-agua-web-B02\\F06-escritorio.png",
+    "tmp\\qa-agua-web-B02\\F03-movil-toque.png",
+    "tmp\\qa-agua-web-B02\\F05-movil-toque.png",
+    "tmp\\qa-agua-web-B02\\F06-movil-toque.png"
+  ],
+  "resultado": "correcto"
+}

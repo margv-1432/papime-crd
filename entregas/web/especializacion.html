@@ -52,8 +52,22 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <meta name="color-scheme" content="light">
-<meta name="description" content="Piloto editorial del manual de Economía Mexicana PAPIME. Especialización regional con datos de 2024 a precios de 2018.">
+<meta name="description" content="Manual interactivo de Economía Mexicana PAPIME. Territorio, recursos y estructura productiva.">
 <script>window.MathJax = {tex: {tags: 'ams'}, svg: {fontCache: 'global'}, options: {enableMenu: false}};</script>
+<script>
+// Cada explorador informa su altura para conservar la lectura continua del libro.
+window.addEventListener('message', function(event) {
+  if (!event.data || event.data.type !== 'papime:resize') return;
+  var h = Number(event.data.height);
+  if (!Number.isFinite(h) || h < 200 || h > 50000) return;
+  document.querySelectorAll('iframe.territorio').forEach(function(frame) {
+    if (frame.contentWindow === event.source && Math.abs(frame.getBoundingClientRect().height-h)>3) {
+      frame.style.height = Math.ceil(h+4)+'px';
+      frame.setAttribute('data-altura-ajustada','true');
+    }
+  });
+});
+</script>
 
 
 
@@ -117,7 +131,6 @@ div.csl-indent {
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#recursos-aprovechamiento"><i class="fa fa-check"></i>I.2.4 Recursos naturales y aprovechamiento regional</a></li>
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#cierre-geografico"><i class="fa fa-check"></i>I.2.5 Cierre integrador</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#actividades-territorio"><i class="fa fa-check"></i>I.3 Actividades de análisis territorial</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="especializacion.html"><a href="especializacion.html"><i class="fa fa-check"></i>Capítulo II Estructura productiva y especialización regional</a>
 <ul>
@@ -181,7 +194,7 @@ KSI_i=\sum_{j=1}^{21}\left|s_{ij}-s_j\right|.
 <iframe class="grafico-interactivo" src="recursos/F07-ksi.html" title="Especialización relativa por entidad en 2024. Gráfico y tabla de 32 entidades" loading="eager">
 </iframe>
 <p class="alternativa">
-<a href="recursos/F07-ksi.html">Abrir gráfico y tabla en una ventana completa</a> · <a href="recursos/F07-ksi.png">Ver figura estática</a>
+<a href="recursos/F07-ksi.html" target="_blank" rel="noopener">Abrir gráfico y tabla en una ventana completa</a>
 </p>
 <p>Fuente: elaboración propia con la matriz conservada de INEGI, PIBE 2024, millones de pesos de 2018. Cálculo sobre VAB, 32 entidades y 21 actividades. Identificador de conservación F07-KSI.</p>
 <p>Campeche registra un KSI de 1.352 y Tabasco de 0.919. Para comprender el primer resultado conviene detenerse en la minería petrolera, que representa 61.16 % del VAB de Campeche frente a 2.69 % en el país: esa sola brecha aporta aproximadamente 0.585 al índice. Al incorporar las demás actividades hasta completar las 21 se reúne la distancia observada, tanto por las participaciones que superan la referencia nacional como por las que quedan por debajo de ella.</p>
@@ -216,7 +229,7 @@ ICE_j=\sum_i w_i|IEE_{ij}-1|.
 <div id="lectura-resultados" class="section level3 unnumbered hasAnchor">
 <h3>II.2.4 Lectura de los resultados<a href="especializacion.html#lectura-resultados" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>La lectura de estos resultados queda situada en 2024 y en la valoración a precios de 2018. Como los precios relativos intervienen en el peso de las actividades, al comparar otro periodo conviene mantener una base de precios y una cobertura compatibles, además de examinar cuánto ha cambiado la estructura nacional con la que se establece la distancia.</p>
-<p>Puede comenzar la exploración de la figura seleccionando Campeche y una entidad con un KSI menor, para después localizar otra de su interés mediante el orden alfabético. La tabla ofrece los valores completos con los que se ordenaron las barras. Al interpretar la comparación, vuelva a las participaciones sectoriales y considere qué actividades explican la distancia en cada caso, siguiendo el ejemplo de la minería petrolera: un mismo valor del KSI puede reunir perfiles productivos diferentes.</p>
+<p>La tabla reúne los valores completos con los que se ordenaron las barras, mientras que la selección de una entidad permite localizarla en el conjunto. En Campeche, el desglose sectorial muestra cuánto aporta la minería petrolera a la distancia con el país; en otras entidades, un valor similar del KSI puede corresponder a perfiles productivos diferentes. La interpretación de cada resultado se completa, por ello, con las participaciones de las actividades que lo componen.</p>
 
 </div>
 </div>
@@ -259,7 +272,7 @@ gitbook.start({
     "link": null,
     "text": null
   },
-  "download": ["papime-libro.pdf"],
+  "download": null,
   "search": {
     "engine": "fuse",
     "options": null

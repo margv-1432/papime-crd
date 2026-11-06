@@ -1,0 +1,199 @@
+{
+  "fecha": "2026-11-06",
+  "edicion": "web D25–D28",
+  "base_preservada": "8e55f7961f22b0bed0229418160178723710cab7",
+  "resultado": "correcto",
+  "pruebas": 37,
+  "comprobaciones": [
+    {
+      "prueba": "Cuatro páginas del manual",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Página de enlace inexistente",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "IDs únicos 404.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "IDs únicos especializacion.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "IDs únicos index.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "IDs únicos referencias.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "IDs únicos territorio.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Enlaces y recursos locales",
+      "correcto": true,
+      "detalle": {
+        "comprobados": 304,
+        "rotos": []
+      }
+    },
+    {
+      "prueba": "Sin PDF en entrega web activa",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Narrativa del capítulo conservada",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Actividades retiradas de fuente y navegación",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "30 claves citadas resueltas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Citas y localizadores conservados",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Bibliografía conservada",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Piloto conserva ecuaciones",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Piloto conserva expresiones R",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Piloto conserva citas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin notas editoriales pendientes",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Denominadores de agua y población",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Participaciones III",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Participaciones XI",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML integrado idéntico F01-relieve-localizacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML individual autónomo F01-relieve-localizacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML integrado idéntico F02-clima-suelos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML individual autónomo F02-clima-suelos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML integrado idéntico F03-agua-renovable",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML individual autónomo F03-agua-renovable",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML integrado idéntico F04-recursos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML individual autónomo F04-recursos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML integrado idéntico F05-agua-poblacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML individual autónomo F05-agua-poblacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML integrado idéntico F06-mecanismos-territoriales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "HTML individual autónomo F06-mecanismos-territoriales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Fuentes y entregas históricas intactas",
+      "correcto": true,
+      "detalle": []
+    },
+    {
+      "prueba": "Bases preparadas cuantitativas intactas",
+      "correcto": true,
+      "detalle": [
+        "datos/preparados/capitulo-01/manifiesto-B02.csv"
+      ]
+    },
+    {
+      "prueba": "Manuscrito rector intacto",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Copias retiradas conservadas con hash",
+      "correcto": true,
+      "detalle": 29
+    }
+  ]
+}

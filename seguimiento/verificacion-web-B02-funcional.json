@@ -1,0 +1,476 @@
+{
+  "fecha": "2026-11-06",
+  "edicion": "web D25–D28",
+  "pruebas": [
+    {
+      "prueba": "Página disponible index.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin enlaces locales PDF index.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin actividades ni navegación residual index.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Página disponible territorio.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin enlaces locales PDF territorio.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin actividades ni navegación residual territorio.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Seis exploradores integrados",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Altura coordinada sin recortes de iframe",
+      "correcto": true,
+      "detalle": [
+        {
+          "src": "recursos/F01-relieve-localizacion.html",
+          "h": 2272,
+          "ajustada": "true"
+        },
+        {
+          "src": "recursos/F02-clima-suelos.html",
+          "h": 2450,
+          "ajustada": "true"
+        },
+        {
+          "src": "recursos/F03-agua-renovable.html",
+          "h": 2604,
+          "ajustada": "true"
+        },
+        {
+          "src": "recursos/F04-recursos.html",
+          "h": 2578,
+          "ajustada": "true"
+        },
+        {
+          "src": "recursos/F05-agua-poblacion.html",
+          "h": 3396,
+          "ajustada": "true"
+        },
+        {
+          "src": "recursos/F06-mecanismos-territoriales.html",
+          "h": 2438,
+          "ajustada": "true"
+        }
+      ]
+    },
+    {
+      "prueba": "Contenido completo dentro de iframes escritorio",
+      "correcto": true,
+      "detalle": [
+        {
+          "src": "F01-relieve-localizacion.html",
+          "contenido": 2270,
+          "alto": 2270
+        },
+        {
+          "src": "F02-clima-suelos.html",
+          "contenido": 2448,
+          "alto": 2448
+        },
+        {
+          "src": "F03-agua-renovable.html",
+          "contenido": 2602,
+          "alto": 2602
+        },
+        {
+          "src": "F04-recursos.html",
+          "contenido": 2576,
+          "alto": 2576
+        },
+        {
+          "src": "F05-agua-poblacion.html",
+          "contenido": 3394,
+          "alto": 3394
+        },
+        {
+          "src": "F06-mecanismos-territoriales.html",
+          "contenido": 2436,
+          "alto": 2436
+        }
+      ]
+    },
+    {
+      "prueba": "Controles y datos integrados F01-relieve-localizacion.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Controles y datos integrados F02-clima-suelos.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Controles y datos integrados F03-agua-renovable.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Controles y datos integrados F04-recursos.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Controles y datos integrados F05-agua-poblacion.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Controles y datos integrados F06-mecanismos-territoriales.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Página disponible especializacion.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin enlaces locales PDF especializacion.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin actividades ni navegación residual especializacion.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cinco ecuaciones conservadas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Página disponible referencias.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin enlaces locales PDF referencias.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin actividades ni navegación residual referencias.html",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Bibliografía única 33 entradas",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Citas resueltas en bibliografía",
+      "correcto": true,
+      "detalle": 38
+    },
+    {
+      "prueba": "Navegación al capítulo",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Búsqueda del libro",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Búsqueda vacía clara",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Lectura móvil index.html",
+      "correcto": true,
+      "detalle": {
+        "html": 390,
+        "w": 390,
+        "section": 350,
+        "client": 350
+      }
+    },
+    {
+      "prueba": "Lectura móvil territorio.html",
+      "correcto": true,
+      "detalle": {
+        "html": 390,
+        "w": 390,
+        "section": 350,
+        "client": 350
+      }
+    },
+    {
+      "prueba": "Contenido completo dentro de iframes móvil",
+      "correcto": true,
+      "detalle": [
+        {
+          "src": "F01-relieve-localizacion.html",
+          "contenido": 2872,
+          "alto": 2872
+        },
+        {
+          "src": "F02-clima-suelos.html",
+          "contenido": 3404,
+          "alto": 3404
+        },
+        {
+          "src": "F03-agua-renovable.html",
+          "contenido": 3141,
+          "alto": 3141
+        },
+        {
+          "src": "F04-recursos.html",
+          "contenido": 3125,
+          "alto": 3125
+        },
+        {
+          "src": "F05-agua-poblacion.html",
+          "contenido": 4122,
+          "alto": 4122
+        },
+        {
+          "src": "F06-mecanismos-territoriales.html",
+          "contenido": 3078,
+          "alto": 3078
+        }
+      ]
+    },
+    {
+      "prueba": "Lectura móvil especializacion.html",
+      "correcto": true,
+      "detalle": {
+        "html": 390,
+        "w": 390,
+        "section": 350,
+        "client": 350
+      }
+    },
+    {
+      "prueba": "Lectura móvil referencias.html",
+      "correcto": true,
+      "detalle": {
+        "html": 390,
+        "w": 390,
+        "section": 350,
+        "client": 350
+      }
+    },
+    {
+      "prueba": "Explorador móvil sin desborde F01-relieve-localizacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Selección táctil persistente F01-relieve-localizacion",
+      "correcto": true,
+      "detalle": {
+        "before": "false",
+        "after": "true"
+      }
+    },
+    {
+      "prueba": "Selección por teclado F01-relieve-localizacion",
+      "correcto": true,
+      "detalle": {
+        "after": "true",
+        "key": "false"
+      }
+    },
+    {
+      "prueba": "HTML portátil local F01-relieve-localizacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Explorador móvil sin desborde F02-clima-suelos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Selección táctil persistente F02-clima-suelos",
+      "correcto": true,
+      "detalle": {
+        "before": "false",
+        "after": "true"
+      }
+    },
+    {
+      "prueba": "Selección por teclado F02-clima-suelos",
+      "correcto": true,
+      "detalle": {
+        "after": "true",
+        "key": "false"
+      }
+    },
+    {
+      "prueba": "HTML portátil local F02-clima-suelos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Explorador móvil sin desborde F03-agua-renovable",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Selección táctil persistente F03-agua-renovable",
+      "correcto": true,
+      "detalle": {
+        "before": "false",
+        "after": "true"
+      }
+    },
+    {
+      "prueba": "Selección por teclado F03-agua-renovable",
+      "correcto": true,
+      "detalle": {
+        "after": "true",
+        "key": "false"
+      }
+    },
+    {
+      "prueba": "HTML portátil local F03-agua-renovable",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Explorador móvil sin desborde F04-recursos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Selección táctil persistente F04-recursos",
+      "correcto": true,
+      "detalle": {
+        "before": "false",
+        "after": "true"
+      }
+    },
+    {
+      "prueba": "Selección por teclado F04-recursos",
+      "correcto": true,
+      "detalle": {
+        "after": "true",
+        "key": "false"
+      }
+    },
+    {
+      "prueba": "HTML portátil local F04-recursos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Explorador móvil sin desborde F05-agua-poblacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Selección táctil persistente F05-agua-poblacion",
+      "correcto": true,
+      "detalle": {
+        "before": "false",
+        "after": "true"
+      }
+    },
+    {
+      "prueba": "Selección por teclado F05-agua-poblacion",
+      "correcto": true,
+      "detalle": {
+        "after": "true",
+        "key": "false"
+      }
+    },
+    {
+      "prueba": "HTML portátil local F05-agua-poblacion",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Explorador móvil sin desborde F06-mecanismos-territoriales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Selección táctil persistente F06-mecanismos-territoriales",
+      "correcto": true,
+      "detalle": {
+        "before": "false",
+        "after": "true"
+      }
+    },
+    {
+      "prueba": "Selección por teclado F06-mecanismos-territoriales",
+      "correcto": true,
+      "detalle": {
+        "after": "true",
+        "key": "false"
+      }
+    },
+    {
+      "prueba": "HTML portátil local F06-mecanismos-territoriales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin errores JavaScript",
+      "correcto": true,
+      "detalle": []
+    },
+    {
+      "prueba": "Sin recursos externos",
+      "correcto": true,
+      "detalle": []
+    },
+    {
+      "prueba": "Sin fallos de red",
+      "correcto": true,
+      "detalle": []
+    }
+  ],
+  "errores": [],
+  "externas": [],
+  "fallos_red": [],
+  "capturas": [
+    "tmp\\qa-web-B02-funcional\\index-desktop.png",
+    "tmp\\qa-web-B02-funcional\\territorio-desktop.png",
+    "tmp\\qa-web-B02-funcional\\especializacion-desktop.png",
+    "tmp\\qa-web-B02-funcional\\referencias-desktop.png",
+    "tmp\\qa-web-B02-funcional\\index-movil.png",
+    "tmp\\qa-web-B02-funcional\\territorio-movil.png",
+    "tmp\\qa-web-B02-funcional\\especializacion-movil.png",
+    "tmp\\qa-web-B02-funcional\\referencias-movil.png",
+    "tmp\\qa-web-B02-funcional\\F01-relieve-localizacion-desktop.png",
+    "tmp\\qa-web-B02-funcional\\F01-relieve-localizacion-movil.png",
+    "tmp\\qa-web-B02-funcional\\F02-clima-suelos-desktop.png",
+    "tmp\\qa-web-B02-funcional\\F02-clima-suelos-movil.png",
+    "tmp\\qa-web-B02-funcional\\F03-agua-renovable-desktop.png",
+    "tmp\\qa-web-B02-funcional\\F03-agua-renovable-movil.png",
+    "tmp\\qa-web-B02-funcional\\F04-recursos-desktop.png",
+    "tmp\\qa-web-B02-funcional\\F04-recursos-movil.png",
+    "tmp\\qa-web-B02-funcional\\F05-agua-poblacion-desktop.png",
+    "tmp\\qa-web-B02-funcional\\F05-agua-poblacion-movil.png",
+    "tmp\\qa-web-B02-funcional\\F06-mecanismos-territoriales-desktop.png",
+    "tmp\\qa-web-B02-funcional\\F06-mecanismos-territoriales-movil.png"
+  ],
+  "resultado": "correcto"
+}

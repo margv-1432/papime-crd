@@ -159,17 +159,3 @@ figura_territorio("F06", "Esquema interpretativo de mecanismos territoriales", 1
 ```
 
 Las diferencias de capacidad entre las regiones se forman históricamente en las conexiones y en los acuerdos que regulan el aprovechamiento. La distribución del ingreso y la continuidad de las actividades deben examinarse dentro de esas trayectorias. El capítulo II retoma el problema desde la estructura productiva, al estudiar la concentración de actividades y las diferencias entre las economías estatales.
-
-## I.3 Actividades de análisis territorial {.unnumbered #actividades-territorio}
-
-**1. Historia y unidad de observación.** Elija dos hitos de I.1, uno sobre la frontera y otro sobre la organización interna, y explique qué cambió en cada caso. A partir de esa distinción, indique qué información permitiría investigar sus consecuencias económicas y justifique los ajustes que necesitaría una división estatal contemporánea para estudiar 1824.
-
-**2. Conectividad y accesibilidad.** Seleccione dos localidades de F01 y describa su posición en el mapa. Utilice esa comparación para formular una pregunta de accesibilidad que requiera información adicional, precisando los destinos, el medio de viaje y la medida con la cual podría responderla. Explique también cómo interviene el umbral gráfico en la ausencia de algunas localidades.
-
-**3. Clasificación y aptitud.** Elija una condición climática y una fase de suelo de los paneles de F02, y proponga un uso concreto del terreno. Explique qué necesitaría conocer sobre el manejo y las condiciones locales para evaluar su aptitud, y qué costos consideraría al juzgar su conveniencia económica. Incorpore a su razonamiento el alcance de la categoría «sin fase registrada» y las restricciones que todavía sería necesario investigar.
-
-**4. Reproducción de participaciones.** Con la tabla común de F03 y F05, recalcule las participaciones de Pacífico Norte y Frontera Sur e informe el redondeo utilizado y las diferencias en puntos porcentuales. Redacte una conclusión descriptiva respaldada por esos resultados y contraste su alcance con el de una afirmación que necesitaría datos de demanda o de servicio para sostenerse.
-
-**5. Producción y recurso.** Compare las primeras entidades de dos paneles de F04, tomando en cuenta el periodo, la unidad y el universo de cada uno. Al explicar los resultados, distinga el significado de un cero explícito, un guion y la ausencia de una fila. Razone qué problemas introduciría sumar cobre, madera y pesca como medida de abundancia o añadir la acuacultura al total sectorial.
-
-**6. Mecanismos y evidencia.** Seleccione una relación de F06 y un territorio donde podría estudiarla. Proponga las observaciones necesarias y una explicación alternativa que deba considerarse, atendiendo al lugar donde se reciben los beneficios y donde pueden acumularse los costos. Concluya con una pregunta de investigación cuya escala corresponda a los datos propuestos.

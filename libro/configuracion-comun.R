@@ -28,8 +28,8 @@ figura_territorio <- function(id,titulo,alto=1000) {
   stopifnot(nrow(rotulo)==1L)
   if(knitr::is_html_output()) {
     cat(sprintf('<div id="%s"><p><strong>%s</strong></p>\n',rotulo$ancla,rotulo$titulo))
+    cat(sprintf('<p class="alternativa"><a href="recursos/%s.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>\n',nombre))
     cat(sprintf('<iframe class="grafico-interactivo territorio" src="recursos/%s.html" title="%s" style="height:%spx" loading="eager"></iframe>\n',nombre,titulo,alto))
-    cat(sprintf('<p class="alternativa"><a href="recursos/%s.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/%s.pdf">Descargar figura estática en PDF</a></p>\n',nombre,nombre))
     cat(sprintf('<p class="fuente-figura">%s</p></div>\n',rotulo$fuente))
   } else {
     esc <- function(s) gsub("%","\\%",s,fixed=TRUE)

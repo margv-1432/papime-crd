@@ -1,7 +1,10 @@
 .local/
 datos/originales/geografia/794551163030_gpk.zip
 tmp/
+__pycache__/
+*.pyc
 libro/_book/
+libro/_book-web/
 libro/_bookdown_files/
 libro/_book-B01/
 libro/_book-capitulo-I/

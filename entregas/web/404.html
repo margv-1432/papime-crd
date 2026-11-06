@@ -52,8 +52,22 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <meta name="color-scheme" content="light">
-<meta name="description" content="Piloto editorial del manual de Economía Mexicana PAPIME. Especialización regional con datos de 2024 a precios de 2018.">
+<meta name="description" content="Manual interactivo de Economía Mexicana PAPIME. Territorio, recursos y estructura productiva.">
 <script>window.MathJax = {tex: {tags: 'ams'}, svg: {fontCache: 'global'}, options: {enableMenu: false}};</script>
+<script>
+// Cada explorador informa su altura para conservar la lectura continua del libro.
+window.addEventListener('message', function(event) {
+  if (!event.data || event.data.type !== 'papime:resize') return;
+  var h = Number(event.data.height);
+  if (!Number.isFinite(h) || h < 200 || h > 50000) return;
+  document.querySelectorAll('iframe.territorio').forEach(function(frame) {
+    if (frame.contentWindow === event.source && Math.abs(frame.getBoundingClientRect().height-h)>3) {
+      frame.style.height = Math.ceil(h+4)+'px';
+      frame.setAttribute('data-altura-ajustada','true');
+    }
+  });
+});
+</script>
 
 
 
@@ -117,7 +131,6 @@ div.csl-indent {
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#recursos-aprovechamiento"><i class="fa fa-check"></i>I.2.4 Recursos naturales y aprovechamiento regional</a></li>
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#cierre-geografico"><i class="fa fa-check"></i>I.2.5 Cierre integrador</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#actividades-territorio"><i class="fa fa-check"></i>I.3 Actividades de análisis territorial</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="especializacion.html"><a href="especializacion.html"><i class="fa fa-check"></i>Capítulo II Estructura productiva y especialización regional</a>
 <ul>
@@ -191,7 +204,7 @@ gitbook.start({
     "link": null,
     "text": null
   },
-  "download": ["papime-libro.pdf"],
+  "download": null,
   "search": {
     "engine": "fuse",
     "options": null

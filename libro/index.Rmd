@@ -2,7 +2,7 @@
 title: "Economía mexicana"
 subtitle: "Territorio y estructura productiva"
 author: "Proyecto PAPIME"
-date: "Edición revisada B02 · 6 de noviembre de 2026"
+date: "Edición web B02 · 6 de noviembre de 2026"
 lang: es
 bibliography: bibliografia.bib
 link-citations: true
@@ -29,8 +29,4 @@ Para comprender la distribución de las actividades económicas en México convi
 
 Esta edición reúne el [capítulo I completo](#territorio) y un primer acercamiento a la [medición de la especialización, en el capítulo II](#especializacion), donde se trabaja con una matriz de actividad económica de 2024 a precios de 2018. Este último fragmento forma parte del piloto editorial con el que se preparó el libro y antecede al desarrollo completo del segundo capítulo. Las [referencias](#referencias) reúnen las obras y fuentes utilizadas en ambos textos.
 
-En pantalla, los controles de las figuras dan acceso a capas, categorías y tablas; para la lectura impresa se han preparado versiones estáticas con la misma evidencia y sus notas de fuente. A lo largo del recorrido se precisan las fechas y escalas pertinentes, de modo que el lector pueda situar cada comparación y, cuando una pregunta lo lleve a una localidad o a un periodo distinto, reconocer qué información adicional necesita.
-
-```{r enlaces-lectura, results='asis'}
-if (knitr::is_html_output()) cat('<p class="enlaces-edicion"><a href="papime-libro.pdf">Descargar el libro en PDF</a> · <a href="PAPIME-B02-capitulo-I.pdf">Descargar el capítulo I en PDF</a></p>')
-```
+En los exploradores, la selección de lugares y categorías enlaza los mapas y gráficos con sus tablas y notas, de manera que cada comparación puede seguirse hasta los datos que la sostienen. A lo largo del recorrido se precisan las fechas y escalas pertinentes para situar la evidencia y reconocer qué información adicional haría falta al estudiar otra localidad o periodo.

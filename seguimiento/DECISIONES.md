@@ -11,6 +11,8 @@ Esta instrucción posterior del autor prevalece sobre las obligaciones prospecti
 | D27 | Se refuerza transversalmente la interacción útil y amigable: selección persistente por clic/toque, controles con búsqueda y comparación según los datos, detalle visible y vistas/tablas coordinadas, restablecimiento y exportación fiel. | Revisar F01–F06 y aplicar el criterio a todas las figuras nuevas. Los estados son seleccionables cuando la fuente es estatal; F03/F05 conservan sus RHA y F06 sus nodos y relaciones conceptuales. La selección visual conserva cortes, denominadores, unidades y faltantes, sin recalcular los índices ni multiplicadores sobre subconjuntos visuales. |
 | D28 | La presente solicitud modifica ahora la planeación y prepara las instrucciones de ejecución. El retiro de actividades y la mejora de F01–F06 se realizarán en el chat B02; B03 se iniciará después desde esa revisión. | Estado actual: documentos actualizados, implementación de la revisión B02 pendiente y B03 no iniciado. Los nuevos comprobantes deben describir las interacciones realmente verificadas en navegador, con escritorio, pantalla pequeña, teclado y toque. Se conserva D22 y el destino exclusivo del fork. |
 
+Aplicación registrada el 6 de noviembre de 2026: se implementó la revisión web de B02, con retiro de actividades, flujo HTML y F01–F06 mejoradas. El alcance y las comprobaciones efectivas se mantienen en `REVISION_FUNCIONAL_WEB_B02.md` y `ESTADO.md`; el estado pendiente descrito en D28 corresponde al encargo documental anterior a esta ejecución. Las decisiones D25–D28 se conservan y B03 no se ha iniciado.
+
 ## Revisión narrativa transversal. 6 de noviembre de 2026
 
 | ID | Decisión y fundamento | Alcance |

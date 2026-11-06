@@ -2,7 +2,7 @@
 
 **Destino vigente de publicación, reafirmado por el autor el 6 de noviembre de 2026.** Todos los bloques se guardan en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd). `postsocratico/papime-crd` es exclusivamente un antecedente y repositorio de consulta. No publicar cambios ni abrir PR hacia el original. Esta instrucción se mantiene entre conversaciones. Consultar `ESTADO.md` para identificar la rama y entrega vigentes dentro del fork.
 
-Versión revisada el 6 de noviembre de 2026 para concentrar el desarrollo en el manual web y reforzar la interactividad. B01 aceptado; la entrega anterior de B02 se conserva y requiere una revisión para retirar actividades y dinamizar F01–F06. B03 se iniciará después desde esa revisión web. El estado mantenido se encuentra en `seguimiento/ESTADO.md`.
+Versión revisada el 6 de noviembre de 2026 para concentrar el desarrollo en el manual web y reforzar la interactividad. B01 aceptado; la revisión funcional de B02 retira las actividades, adapta la compilación a HTML y dinamiza F01–F06. Sus resultados y comprobaciones están en `seguimiento/REVISION_FUNCIONAL_WEB_B02.md`. Las entregas anteriores se conservan como antecedentes. B03 no iniciado; el estado mantenido se encuentra en `seguimiento/ESTADO.md`.
 
 El documento rector es `PAPIME Libro.pdf`, ubicado en la carpeta principal del proyecto. Los resúmenes de PAPIME_Mx y los materiales anteriores sirven como antecedentes. El repositorio de referencia es [postsocratico/papime-crd](https://github.com/postsocratico/papime-crd). La revisión de esta planeación corresponde a su rama main, commit `458257c3d7b69602560cbcaeb89fd0980297ad6b`.
 

@@ -1,0 +1,206 @@
+{
+  "fecha": "2026-11-06",
+  "figura": "F04",
+  "comprobaciones": [
+    {
+      "prueba": "32 entidades seleccionables en mapa",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cobre: tabla inicial idéntica a base",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cobre: 32 barras y estados faltantes visibles",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Datos incrustados: hashes de las cuatro fuentes",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cobre: descarga inicial igual a tabla y base",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Clic en Sonora conserva selección",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sonora: 550597.50 t y detalle persistente",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Búsqueda localiza Jalisco sin alterar la selección",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Multiselección coordina mapa, barras y tabla",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cero explícito de Jalisco conservado",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Descarga de comparación contiene exactamente las filas visibles",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Acercamiento a selección cambia encuadre",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Mapa completo recupera encuadre sin perder selección",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Tabla operable por teclado y foco conservado",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cambio de panel conserva selección estatal",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Madera: 32 filas exactas de la base",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Madera: comparación por espacio/Enter",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Madera: descarga conserva decimales originales",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Pesca: 32 filas con CDMX vacía",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "CDMX mantiene sin fila y valores vacíos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Faltante de CDMX exportado como vacío",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Pesca: totales y diferencia de redondeo conservados",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: raster conservado y once categorías",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: 183 claves idénticas a fuente",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: comparación múltiple coordina catálogo y detalle",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: exportación exacta del subconjunto visible",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: estado sin coincidencias",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: restablecer categorías recupera 183 claves",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta: ampliación accesible por teclado",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Restablecimiento completo de panel, selección y tabla",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Ancho del libro: mapa y gráfico apilados sin desbordamiento",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Toque en mapa mantiene selección y detalle",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Multiselección por toque",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Móvil 360px sin desbordamiento del documento",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Controles principales con área táctil de 44px",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Cubierta móvil: descarga coincide con base filtrada",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Sin errores JavaScript ni peticiones externas",
+      "correcto": true,
+      "detalle": {
+        "errores": [],
+        "externas": []
+      }
+    }
+  ],
+  "errores": [],
+  "externas": [],
+  "capturas": [
+    "tmp\\qa-recursos-web-B02\\F04-escritorio.png",
+    "tmp\\qa-recursos-web-B02\\F04-ancho-libro.png",
+    "tmp\\qa-recursos-web-B02\\F04-movil-seleccion.png",
+    "tmp\\qa-recursos-web-B02\\F04-movil-mapa.png",
+    "tmp\\qa-recursos-web-B02\\F04-movil-cubierta.png",
+    "tmp\\qa-recursos-web-B02\\F04-movil-categorias.png"
+  ],
+  "resultado": "correcto",
+  "pruebas": 37
+}

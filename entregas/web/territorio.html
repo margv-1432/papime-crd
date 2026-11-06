@@ -52,8 +52,22 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <meta name="color-scheme" content="light">
-<meta name="description" content="Piloto editorial del manual de Economía Mexicana PAPIME. Especialización regional con datos de 2024 a precios de 2018.">
+<meta name="description" content="Manual interactivo de Economía Mexicana PAPIME. Territorio, recursos y estructura productiva.">
 <script>window.MathJax = {tex: {tags: 'ams'}, svg: {fontCache: 'global'}, options: {enableMenu: false}};</script>
+<script>
+// Cada explorador informa su altura para conservar la lectura continua del libro.
+window.addEventListener('message', function(event) {
+  if (!event.data || event.data.type !== 'papime:resize') return;
+  var h = Number(event.data.height);
+  if (!Number.isFinite(h) || h < 200 || h > 50000) return;
+  document.querySelectorAll('iframe.territorio').forEach(function(frame) {
+    if (frame.contentWindow === event.source && Math.abs(frame.getBoundingClientRect().height-h)>3) {
+      frame.style.height = Math.ceil(h+4)+'px';
+      frame.setAttribute('data-altura-ajustada','true');
+    }
+  });
+});
+</script>
 
 
 
@@ -117,7 +131,6 @@ div.csl-indent {
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#recursos-aprovechamiento"><i class="fa fa-check"></i>I.2.4 Recursos naturales y aprovechamiento regional</a></li>
 <li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#cierre-geografico"><i class="fa fa-check"></i>I.2.5 Cierre integrador</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="territorio.html"><a href="territorio.html#actividades-territorio"><i class="fa fa-check"></i>I.3 Actividades de análisis territorial</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="especializacion.html"><a href="especializacion.html"><i class="fa fa-check"></i>Capítulo II Estructura productiva y especialización regional</a>
 <ul>
@@ -241,11 +254,11 @@ div.csl-indent {
 <p>
 <strong>Figura I.2.1 Relieve, poblamiento y conexiones de México</strong>
 </p>
+<p class="alternativa">
+<a href="recursos/F01-relieve-localizacion.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a>
+</p>
 <iframe class="grafico-interactivo territorio" src="recursos/F01-relieve-localizacion.html" title="Relieve, localidades seleccionadas y conexiones" style="height:940px" loading="eager">
 </iframe>
-<p class="alternativa">
-<a href="recursos/F01-relieve-localizacion.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/F01-relieve-localizacion.pdf">Descargar figura estática en PDF</a>
-</p>
 <p class="fuente-figura">
 Fuente: elaboración propia con INEGI, CEM 3.0, provincias fisiográficas edición 2001, localidades del Censo 2020 y selección de la Red Nacional de Caminos 2025. Elevación en metros sobre el nivel del mar; población en habitantes. Las capas se generalizan para la lectura nacional. El recurso individual detalla resoluciones y criterios de selección.
 </p>
@@ -263,11 +276,11 @@ Fuente: elaboración propia con INEGI, CEM 3.0, provincias fisiográficas edici�
 <p>
 <strong>Figura I.2.2 Condiciones climáticas y características superficiales del suelo</strong>
 </p>
+<p class="alternativa">
+<a href="recursos/F02-clima-suelos.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a>
+</p>
 <iframe class="grafico-interactivo territorio" src="recursos/F02-clima-suelos.html" title="Climas históricos y fases superficiales del suelo" style="height:1040px" loading="eager">
 </iframe>
-<p class="alternativa">
-<a href="recursos/F02-clima-suelos.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/F02-clima-suelos.pdf">Descargar figura estática en PDF</a>
-</p>
 <p class="fuente-figura">
 Fuente: elaboración propia con INEGI, unidades climáticas edición 2008, escala 1:1 000 000; edafología Serie II, edición 2024, escala 1:250 000, observaciones 2002–2006. Cada panel representa la clasificación de su fuente en una rejilla de dibujo de 1.8 km.
 </p>
@@ -279,11 +292,11 @@ Fuente: elaboración propia con INEGI, unidades climáticas edición 2008, escal
 <p>
 <strong>Figura I.2.3 Distribución regional del agua renovable</strong>
 </p>
+<p class="alternativa">
+<a href="recursos/F03-agua-renovable.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a>
+</p>
 <iframe class="grafico-interactivo territorio" src="recursos/F03-agua-renovable.html" title="Agua renovable por región hidrológico-administrativa" style="height:1000px" loading="eager">
 </iframe>
-<p class="alternativa">
-<a href="recursos/F03-agua-renovable.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/F03-agua-renovable.pdf">Descargar figura estática en PDF</a>
-</p>
 <p class="fuente-figura">
 Fuente: elaboración propia con CONAGUA, Estadísticas del agua en México 2023, publicada en 2024, tabla 1.5.2, p. 16, corte 2022; cartografía SEMARNAT de RHA, referencia 2023. El área de los símbolos representa el volumen regional de recursos medios, expresado en hm³/año.
 </p>
@@ -303,11 +316,11 @@ Fuente: elaboración propia con CONAGUA, Estadísticas del agua en México 2023,
 <p>
 <strong>Figura I.2.4 Cobertura vegetal y aprovechamientos regionales registrados</strong>
 </p>
+<p class="alternativa">
+<a href="recursos/F04-recursos.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a>
+</p>
 <iframe class="grafico-interactivo territorio" src="recursos/F04-recursos.html" title="Cobertura vegetal, cobre, madera y producción pesquera" style="height:1420px" loading="eager">
 </iframe>
-<p class="alternativa">
-<a href="recursos/F04-recursos.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/F04-recursos.pdf">Descargar figura estática en PDF</a>
-</p>
 <p class="fuente-figura">
 Fuente: elaboración propia con INEGI, uso del suelo y vegetación Serie VII, referencia 2018; SGM, cobre preliminar 2023, en toneladas de metal; SEMARNAT, producción maderable 2023, en m³ de madera en rollo; CONAPESCA, producción pesquera y acuícola 2023, en toneladas en peso vivo. La acuacultura forma parte del total sectorial. Las tablas distinguen los guiones publicados y las ausencias de fila del cero observado.
 </p>
@@ -326,11 +339,11 @@ Fuente: elaboración propia con INEGI, uso del suelo y vegetación Serie VII, re
 <p>
 <strong>Figura I.2.5 Participaciones nacionales de agua renovable y población</strong>
 </p>
+<p class="alternativa">
+<a href="recursos/F05-agua-poblacion.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a>
+</p>
 <iframe class="grafico-interactivo territorio" src="recursos/F05-agua-poblacion.html" title="Comparación de agua renovable y población por RHA" style="height:1160px" loading="eager">
 </iframe>
-<p class="alternativa">
-<a href="recursos/F05-agua-poblacion.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/F05-agua-poblacion.pdf">Descargar figura estática en PDF</a>
-</p>
 <p class="fuente-figura">
 Fuente: elaboración propia con CONAGUA, Estadísticas del agua en México 2023, publicada en 2024, tabla 1.5.2, p. 16, corte 2022. Los porcentajes se calculan sobre las sumas de las trece RHA: 461 640 hm³/año y 129.35 millones de habitantes. Se utiliza la proyección demográfica de mitad de 2022 de esa edición. Las diferencias entre participaciones se expresan en puntos porcentuales.
 </p>
@@ -342,27 +355,18 @@ Fuente: elaboración propia con CONAGUA, Estadísticas del agua en México 2023,
 <p>
 <strong>Figura I.2.6 Mecanismos territoriales del aprovechamiento y sus resultados</strong>
 </p>
+<p class="alternativa">
+<a href="recursos/F06-mecanismos-territoriales.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a>
+</p>
 <iframe class="grafico-interactivo territorio" src="recursos/F06-mecanismos-territoriales.html" title="Esquema interpretativo de mecanismos territoriales" style="height:1100px" loading="eager">
 </iframe>
-<p class="alternativa">
-<a href="recursos/F06-mecanismos-territoriales.html">Abrir figura y tablas en ventana completa</a> · <a href="recursos/F06-mecanismos-territoriales.pdf">Descargar figura estática en PDF</a>
-</p>
 <p class="fuente-figura">
 Fuente: síntesis interpretativa propia del argumento y las referencias del capítulo. Las flechas proponen relaciones para el análisis territorial; cada una remite a su referencia de apoyo en el recurso individual.
 </p>
 </div>
 <p>Las diferencias de capacidad entre las regiones se forman históricamente en las conexiones y en los acuerdos que regulan el aprovechamiento. La distribución del ingreso y la continuidad de las actividades deben examinarse dentro de esas trayectorias. El capítulo II retoma el problema desde la estructura productiva, al estudiar la concentración de actividades y las diferencias entre las economías estatales.</p>
-</div>
-</div>
-<div id="actividades-territorio" class="section level2 unnumbered hasAnchor">
-<h2>I.3 Actividades de análisis territorial<a href="territorio.html#actividades-territorio" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><strong>1. Historia y unidad de observación.</strong> Elija dos hitos de I.1, uno sobre la frontera y otro sobre la organización interna, y explique qué cambió en cada caso. A partir de esa distinción, indique qué información permitiría investigar sus consecuencias económicas y justifique los ajustes que necesitaría una división estatal contemporánea para estudiar 1824.</p>
-<p><strong>2. Conectividad y accesibilidad.</strong> Seleccione dos localidades de F01 y describa su posición en el mapa. Utilice esa comparación para formular una pregunta de accesibilidad que requiera información adicional, precisando los destinos, el medio de viaje y la medida con la cual podría responderla. Explique también cómo interviene el umbral gráfico en la ausencia de algunas localidades.</p>
-<p><strong>3. Clasificación y aptitud.</strong> Elija una condición climática y una fase de suelo de los paneles de F02, y proponga un uso concreto del terreno. Explique qué necesitaría conocer sobre el manejo y las condiciones locales para evaluar su aptitud, y qué costos consideraría al juzgar su conveniencia económica. Incorpore a su razonamiento el alcance de la categoría «sin fase registrada» y las restricciones que todavía sería necesario investigar.</p>
-<p><strong>4. Reproducción de participaciones.</strong> Con la tabla común de F03 y F05, recalcule las participaciones de Pacífico Norte y Frontera Sur e informe el redondeo utilizado y las diferencias en puntos porcentuales. Redacte una conclusión descriptiva respaldada por esos resultados y contraste su alcance con el de una afirmación que necesitaría datos de demanda o de servicio para sostenerse.</p>
-<p><strong>5. Producción y recurso.</strong> Compare las primeras entidades de dos paneles de F04, tomando en cuenta el periodo, la unidad y el universo de cada uno. Al explicar los resultados, distinga el significado de un cero explícito, un guion y la ausencia de una fila. Razone qué problemas introduciría sumar cobre, madera y pesca como medida de abundancia o añadir la acuacultura al total sectorial.</p>
-<p><strong>6. Mecanismos y evidencia.</strong> Seleccione una relación de F06 y un territorio donde podría estudiarla. Proponga las observaciones necesarias y una explicación alternativa que deba considerarse, atendiendo al lugar donde se reciben los beneficios y donde pueden acumularse los costos. Concluya con una pregunta de investigación cuya escala corresponda a los datos propuestos.</p>
 
+</div>
 </div>
 </div>
             </section>
@@ -403,7 +407,7 @@ gitbook.start({
     "link": null,
     "text": null
   },
-  "download": ["papime-libro.pdf"],
+  "download": null,
   "search": {
     "engine": "fuse",
     "options": null

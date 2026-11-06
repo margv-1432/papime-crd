@@ -49,7 +49,7 @@ if (knitr::is_latex_output()) cat("\\clearpage\n")
 ```{r F07-ksi, results='asis', out.width='90%'}
 if (knitr::is_html_output()) {
   cat('<iframe class="grafico-interactivo" src="recursos/F07-ksi.html" title="Especialización relativa por entidad en 2024. Gráfico y tabla de 32 entidades" loading="eager"></iframe>\n')
-  cat('<p class="alternativa"><a href="recursos/F07-ksi.html">Abrir gráfico y tabla en una ventana completa</a> · <a href="recursos/F07-ksi.png">Ver figura estática</a></p>\n')
+  cat('<p class="alternativa"><a href="recursos/F07-ksi.html" target="_blank" rel="noopener">Abrir gráfico y tabla en una ventana completa</a></p>\n')
 } else {
   knitr::include_graphics("../assets/capitulo-02/figuras-estaticas/F07-ksi.pdf")
 }
@@ -102,4 +102,4 @@ Aunque el KSI recorre las actividades de cada entidad y el ICE reúne las entida
 
 La lectura de estos resultados queda situada en 2024 y en la valoración a precios de 2018. Como los precios relativos intervienen en el peso de las actividades, al comparar otro periodo conviene mantener una base de precios y una cobertura compatibles, además de examinar cuánto ha cambiado la estructura nacional con la que se establece la distancia.
 
-Puede comenzar la exploración de la figura seleccionando Campeche y una entidad con un KSI menor, para después localizar otra de su interés mediante el orden alfabético. La tabla ofrece los valores completos con los que se ordenaron las barras. Al interpretar la comparación, vuelva a las participaciones sectoriales y considere qué actividades explican la distancia en cada caso, siguiendo el ejemplo de la minería petrolera: un mismo valor del KSI puede reunir perfiles productivos diferentes.
+La tabla reúne los valores completos con los que se ordenaron las barras, mientras que la selección de una entidad permite localizarla en el conjunto. En Campeche, el desglose sectorial muestra cuánto aporta la minería petrolera a la distancia con el país; en otras entidades, un valor similar del KSI puede corresponder a perfiles productivos diferentes. La interpretación de cada resultado se completa, por ello, con las participaciones de las actividades que lo componen.
