@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-06",
   "pruebas": [
     {
       "prueba": "Página disponible index.html",
@@ -30,12 +30,12 @@
       "prueba": "Seis documentos de figuras cargados",
       "correcto": true,
       "detalle": [
-        "http://127.0.0.1:50365/recursos/F01-relieve-localizacion.html",
-        "http://127.0.0.1:50365/recursos/F02-clima-suelos.html",
-        "http://127.0.0.1:50365/recursos/F03-agua-renovable.html",
-        "http://127.0.0.1:50365/recursos/F04-recursos.html",
-        "http://127.0.0.1:50365/recursos/F05-agua-poblacion.html",
-        "http://127.0.0.1:50365/recursos/F06-mecanismos-territoriales.html"
+        "http://127.0.0.1:63785/recursos/F01-relieve-localizacion.html",
+        "http://127.0.0.1:63785/recursos/F02-clima-suelos.html",
+        "http://127.0.0.1:63785/recursos/F03-agua-renovable.html",
+        "http://127.0.0.1:63785/recursos/F04-recursos.html",
+        "http://127.0.0.1:63785/recursos/F05-agua-poblacion.html",
+        "http://127.0.0.1:63785/recursos/F06-mecanismos-territoriales.html"
       ]
     },
     {
@@ -279,6 +279,6 @@
     "tmp\\qa-web-B02\\F05-agua-poblacion-movil.png",
     "tmp\\qa-web-B02\\F06-mecanismos-territoriales-movil.png"
   ],
-  "base": "http://127.0.0.1:50365/",
+  "base": "http://127.0.0.1:63785/",
   "resultado": "correcto"
 }

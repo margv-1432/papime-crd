@@ -2,6 +2,8 @@
 import csv,json,hashlib,re,subprocess,zipfile
 from pathlib import Path
 R=Path(__file__).resolve().parents[1]
+if (R/'seguimiento/REVISION_NARRATIVA_B02.md').exists():
+ raise SystemExit('Cierre histórico del 5 de noviembre: no sobrescribe los registros mantenidos tras la revisión narrativa. Actualice ESTADO y VERIFICACION con los informes vigentes, conservando D22–D24.')
 qa=json.loads((R/'seguimiento/verificacion-proyecto-B02.json').read_text(encoding='utf8'))
 web=json.loads((R/'seguimiento/verificacion-web-B02.json').read_text(encoding='utf8'))
 assert qa['resultado']==web['resultado']=='correcto'

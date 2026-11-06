@@ -16,4 +16,6 @@ F04 conserva la consulta de cubierta vegetal, sus 183 correspondencias y su más
 
 `python scripts/verificar_B02.py` comprueba cifras, citas, enlaces, integridad y correspondencia entre salidas. `node scripts/verificar_web_B02.cjs` abre Chrome mediante Playwright y un servidor temporal local. Las pruebas individuales de agua y F04 están en `analisis/capitulo-01/verificar_agua_sintesis.cjs` y `verificar_F04.cjs`. Las capturas temporales se conservan en `tmp/qa-web-B02`; la revisión del PDF queda en `VERIFICACION_B02.md`.
 
+La revisión narrativa del 6 de noviembre añade `python scripts/verificar_revision_narrativa_B02.py`: coteja citas y localizadores, ecuaciones y código con el checkpoint anterior, comprueba que los datos cuantitativos sigan intactos y compara la prosa extraída de web y PDF. El resultado queda en `verificacion-revision-narrativa-B02.json`. Esta comprobación de preservación y consistencia acompaña la lectura editorial continua establecida por la guía.
+
 El piloto anterior conserva fuentes y configuración en `index-B01.Rmd`, `_bookdown-B01.yml` y `scripts/compilar_B01.R`, que compila a carpetas separadas. Los registros de su auditoría original y su PDF de entrega permanecen conservados. La edición B02 no incorpora contenidos nuevos de B03.

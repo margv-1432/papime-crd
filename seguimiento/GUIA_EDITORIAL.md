@@ -1,14 +1,20 @@
 # Guía editorial y sistema común de figuras
 
-B01 fija una plantilla para revisar antes de extenderla al libro. El punto de partida es el PDF rector de 64 páginas. La guía conserva su lectura académica y sus títulos azules; corrige incoherencias de composición propias del borrador.
+La composición del libro parte del PDF rector de 64 páginas y de la plantilla verificada en B01. La revisión del 6 de noviembre de 2026 establece como prioridad editorial la naturalidad de la narrativa, junto con el rigor académico y el propósito didáctico del manual. Este acuerdo se aplica al texto existente, a los recursos y a los capítulos por desarrollar.
 
 ## Redacción y desarrollo didáctico
 
-La pregunta económica organiza cada sección. La teoría introduce relaciones y conceptos; los datos mexicanos muestran cómo se observan y qué interpretación permiten. La exposición define sus variables antes de utilizarlas y enlaza las figuras con una explicación de su contenido. Las actividades del estudiante deben referirse a conceptos y evidencia ya presentados.
+El desarrollo de una pregunta económica debe permitir al lector seguir un razonamiento, reconocerlo en la evidencia mexicana y volver sobre él al explorar las figuras. Las definiciones y las variables se introducen cuando ayudan a comprender ese razonamiento, acompañadas por el contexto necesario para utilizarlas. Al preparar las actividades se recuperan problemas ya trabajados en la exposición, de manera que la consulta de datos y controles tenga un propósito de aprendizaje reconocible.
 
-La prosa será formal y continua, con párrafos cuya extensión responda al argumento. Se evitan guiones largos, exceso de dos puntos, aperturas breves forzadas, ternas mecánicas, observaciones vacías y comparaciones formularias del tipo «no es X sino Y» o «no solamente X, también Y». Se revisa su uso en contexto; los títulos o listas necesarios para una comparación no se sustituyen por rodeos.
+La prioridad absoluta de redacción es una voz académica natural, con la continuidad y variedad de un manual escrito para leerse. Se revisan los pasajes completos, atendiendo a cómo avanza la explicación entre párrafos y secciones. La extensión de las oraciones, las formas de introducir una idea y la relación entre evidencia y comentario deben responder a lo que se está desarrollando; una misma secuencia de definición, ejemplo y advertencia repetida a lo largo del libro termina por imponer una cadencia mecánica.
 
-La evidencia, la interpretación y los alcances del método se distinguen en el desarrollo. Una asociación estimada no acredita por sí misma causalidad. Un cociente de localización no mide productividad ni bienestar. La cautela metodológica se integra a la explicación y evita advertencias hipotéticas repetidas.
+Los párrafos compuestos por breves afirmaciones sucesivas necesitan reelaborarse desde su argumento. También requieren revisión las frases genéricas que atribuyen a un objeto una función o una diferencia sin explicar su significado en el caso estudiado, como «la literatura ofrece regionalizaciones diferentes» o «las redes tuvieron extensiones diferentes». En su lugar se desarrolla la relación histórica, territorial o económica que justifica incorporar la idea. El trabajo editorial incluye revisar conexiones, énfasis y contenido; acumular subordinadas o unir enunciados con punto y coma dejaría intacta una exposición concebida como listado.
+
+Las precisiones de método se incorporan allí donde condicionan una lectura concreta del resultado. Los años de observación, las unidades, los denominadores y el tratamiento de faltantes deben ser recuperables en pies, tablas y notas, mientras que la prosa explica las consecuencias que resultan pertinentes para el argumento. Se eliminan las aclaraciones breves sobre cuestiones ajenas al pasaje, las negaciones preventivas y las fórmulas reiteradas sobre lo que una figura no hace. Cuando un límite modifica la interpretación, se desarrolla con la evidencia o el ejemplo que permite comprenderlo.
+
+La revisión abarca títulos, introducciones, cierres, actividades, pies y textos de ayuda de los interactivos. Los controles y las leyendas mantienen la concisión necesaria para usarlos con facilidad; las notas de lectura se redactan como explicaciones vinculadas con la figura. Se conservan los acuerdos de atribución, comprobación bibliográfica y distinción entre evidencia e interpretación, así como las restricciones previas sobre guiones largos, exceso de dos puntos, ternas mecánicas y comparaciones formularias.
+
+Antes de aprobar una sección se lee de forma continua y en relación con las que la rodean, para comprobar que las transiciones tengan sentido y que el ritmo no repita un molde. Después se cotejan las citas y las precisiones desplazadas a notas y se comprueba la lectura en web y PDF. Los recuentos de palabras o de longitud de oración pueden orientar una revisión, pero la aceptación editorial depende del texto en contexto. Los siguientes capítulos deberán conservar la voz del libro con variación de estructura y ritmo acorde con su contenido.
 
 ## Bibliografía y atribución
 
@@ -66,4 +72,4 @@ Los ejes, unidades y leyendas deben ser legibles al tamaño de inserción. Las e
 
 Antes de entregar se comprueban cálculo, cifras del texto, rótulos, citas y referencias cruzadas. Se compilan web y PDF desde los archivos guardados. Se revisa visualmente el PDF y el navegador, incluyendo pantallas angostas y operación básica por teclado. Se prueba que las descargas correspondan a la tabla usada por la figura.
 
-Las decisiones y cambios de método se registran en `seguimiento/DECISIONES.md`. Cada sesión deja resultado, comprobaciones y continuación en seguimiento. La aceptación de B01 corresponde a la revisión del piloto; B02 no comienza durante su preparación.
+Las decisiones y cambios de método se registran en `seguimiento/DECISIONES.md`. Cada sesión deja resultado, comprobaciones y continuación en seguimiento. El estado vigente identifica el bloque autorizado y sus pendientes; la revisión transversal de estilo se aplica al material ya incorporado, conservando el alcance de contenido autorizado para cada entrega.

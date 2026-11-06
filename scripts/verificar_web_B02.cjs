@@ -2,7 +2,7 @@
 const fs=require('node:fs'),path=require('node:path'),http=require('node:http');
 const {chromium}=require('C:/Program Files/WindowsApps/OpenAI.CodexPrimaryRuntime.v26-1030-493-0_26.1030.493.0_x64__3k8sg7r9htsxt/dependencies/node/node_modules/playwright');
 const root=process.cwd(),web=path.join(root,'entregas/web'),qa=path.join(root,'tmp/qa-web-B02');fs.mkdirSync(qa,{recursive:true});
-const report={fecha:'2026-11-05',pruebas:[],errores:[],externas:[],fallos_red:[],capturas:[]};
+const report={fecha:'2026-11-06',pruebas:[],errores:[],externas:[],fallos_red:[],capturas:[]};
 let browser,server;
 const check=(prueba,ok,detalle='')=>report.pruebas.push({prueba,correcto:!!ok,detalle});
 const norm=s=>s.replace(/^\uFEFF/,'').replace(/\r\n/g,'\n').trim();

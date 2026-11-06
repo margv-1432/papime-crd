@@ -1,17 +1,17 @@
 {
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-06",
   "resultado": "correcto",
   "pruebas": 40,
   "pdfs": {
     "PAPIME-B02-capitulo-I.pdf": {
-      "paginas": 24,
-      "sha256": "2f746a4d136e427fb7c4cdb286aa9ff4a32d8d542889b2f632d7f8d66f207e55",
-      "bytes": 3303379
+      "paginas": 23,
+      "sha256": "660ed0e6650d854d1e3cf7960b988a0a0626e7f69d007bee0d4bdaf6c2e3247d",
+      "bytes": 3300604
     },
     "PAPIME-libro-avance-B02.pdf": {
-      "paginas": 31,
-      "sha256": "662e92d2d5b1af1b978e7541ed11d11af48a30ffa465dfd6362bbbe3da35d326",
-      "bytes": 3363905
+      "paginas": 30,
+      "sha256": "d9a3519aab4c8fde6c5e23b149654a53bed3b276608ddd8c587a5e8089ce876f",
+      "bytes": 3362010
     }
   },
   "comprobaciones": [
@@ -86,7 +86,7 @@
     {
       "prueba": "PDF sin páginas vacías PAPIME-B02-capitulo-I.pdf",
       "correcto": true,
-      "detalle": 24
+      "detalle": 23
     },
     {
       "prueba": "Seis rótulos en PAPIME-B02-capitulo-I.pdf",
@@ -106,7 +106,7 @@
     {
       "prueba": "PDF sin páginas vacías PAPIME-libro-avance-B02.pdf",
       "correcto": true,
-      "detalle": 31
+      "detalle": 30
     },
     {
       "prueba": "Seis rótulos en PAPIME-libro-avance-B02.pdf",

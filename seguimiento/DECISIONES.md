@@ -1,5 +1,12 @@
 # Registro de decisiones
 
+## Revisión narrativa transversal. 6 de noviembre de 2026
+
+| ID | Decisión y fundamento | Alcance |
+|---|---|---|
+| D23 | El autor establece como prioridad editorial absoluta una narrativa natural, continua y variada, propia de un manual interactivo. Se revisan pasajes completos para superar la cadencia de oraciones cortas, las frases genéricas sobre objetos y funciones, las aclaraciones negativas ajenas al argumento y las estructuras repetidas como listados. | Aplicación transversal al capítulo I, presentación, fragmento ya existente de II.2, actividades y textos de recursos, y a los capítulos futuros. La guía, el plan y la plantilla incorporan esta prioridad; la revisión se comprueba en web y PDF. No se desarrollan contenidos nuevos de B03. |
+| D24 | Las precisiones necesarias de método y fuente se integran a la interpretación o se documentan en pies y notas, según su función. Se conserva la información que permite reconstruir unidades, fechas, clasificaciones, denominadores y faltantes. | La revisión modifica la exposición y su distribución, con cálculos, cortes, controles, citas y acuerdos bibliográficos conservados. Los originales y entregas históricas permanecen como antecedentes. La aceptación narrativa requiere lectura editorial del conjunto, sin imponer una longitud uniforme ni una fórmula de párrafo. |
+
 ## Instrucción permanente de publicación. 6 de noviembre de 2026
 
 | ID | Decisión y fundamento | Alcance |

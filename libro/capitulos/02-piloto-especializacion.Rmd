@@ -4,11 +4,11 @@
 
 La estructura productiva de las entidades mexicanas presenta diferencias que se aprecian tanto en el valor de la producción como en su distribución entre las distintas actividades económicas, ya que las cifras absolutas expresan el tamaño de cada economía estatal y las participaciones sectoriales muestran la importancia de sus actividades dentro del total. Así, una entidad con una producción manufacturera elevada y otra con una producción mucho menor pueden dedicar la misma proporción de su actividad a las manufacturas, razón por la cual, al estudiar su especialización, interesa comparar esas proporciones locales con las del país para reconocer en qué actividades se apartan del patrón nacional.
 
-El índice de especialización de Krugman (KSI) resume las diferencias entre la composición productiva estatal y la nacional. El Índice de Concentración Espacial (ICE) examina la distribución territorial de cada actividad respecto del peso económico de las entidades. El Índice de Especialización Económica (IEE) relaciona la participación local de una actividad con su participación nacional. La matriz que se utiliza a continuación permite calcular las tres medidas con una misma referencia.
+La comparación puede hacerse desde la economía de una entidad, reuniendo sus diferencias con la composición nacional mediante el índice de especialización de Krugman (KSI), o desde una actividad, siguiendo su distribución entre entidades mediante el Índice de Concentración Espacial (ICE). En el cruce de ambas perspectivas, el Índice de Especialización Económica (IEE) permite examinar cuánto pesa una actividad en la entidad respecto de su participación en el país. Las tres medidas se calculan aquí sobre una misma matriz, por lo que es posible relacionar sus resultados y volver a las participaciones que los explican.
 
 ### II.2.1 La matriz de actividad económica {.unnumbered #matriz}
 
-La información se organiza en una matriz cuyas filas corresponden a entidades y cuyas columnas representan actividades. Cada elemento $x_{ij}$ expresa el valor agregado de la actividad $j$ en la entidad $i$. La suma de una fila proporciona el VAB estatal, $x_{i\cdot}$; la suma de una columna proporciona el VAB nacional de la actividad, $x_{\cdot j}$. Ambas agregaciones conducen al total nacional $x_{\cdot\cdot}$.
+Al disponer las entidades en filas y las actividades en columnas, cada casilla de la matriz contiene el valor agregado de una actividad $j$ en una entidad $i$, denotado por $x_{ij}$. Recorrer una fila y sumar sus valores da el VAB estatal, $x_{i\cdot}$, mientras que la suma de una columna reúne la producción de esa actividad en el país, $x_{\cdot j}$. Cualquiera de los dos recorridos conduce, al completar la suma de la matriz, al total nacional $x_{\cdot\cdot}$:
 
 []{#eq-totales}
 
@@ -19,13 +19,13 @@ x_{\cdot\cdot}=\sum_{i=1}^{32}\sum_{j=1}^{21}x_{ij}.
 \tag{II.2.1}
 \]
 
-Se utiliza la información del Producto Interno Bruto por Entidad Federativa del INEGI para 2024, expresada en millones de pesos de 2018 [@inegi2026]. La matriz conserva 32 entidades y 21 actividades y separa la minería petrolera de la no petrolera. La suma de las actividades corresponde al valor agregado bruto y sirve como denominador de las participaciones. El PIB incluye, además, los impuestos netos de subsidios sobre los productos; utilizar ese agregado como denominador impediría que las participaciones sectoriales sumaran uno.
+Los datos proceden del Producto Interno Bruto por Entidad Federativa del INEGI para 2024 y están expresados en millones de pesos de 2018 [@inegi2026]. Se reúnen 32 entidades y 21 actividades, con la minería petrolera separada de la no petrolera. Para obtener las participaciones se toma como denominador la suma de las actividades, que corresponde al valor agregado bruto: de este modo, cada composición sectorial suma uno. En el PIB se agregan los impuestos netos de subsidios sobre los productos, por lo que su uso como denominador cambiaría esa correspondencia entre las partes y el total.
 
-En el corte conservado para esta edición hay 672 observaciones, con 36 ceros y sin valores faltantes. El VAB nacional obtenido por suma de las actividades es de `r formatC(sum(ksi$VAB), format="f", digits=3, big.mark=",", decimal.mark=".")` millones de pesos de 2018. La matriz se mantiene fija para el piloto y su procedencia permite distinguir este corte de revisiones posteriores de las series.
+Con este desglose se obtienen 672 observaciones, de las cuales 36 son ceros; todas las casillas cuentan con un valor registrado. El VAB nacional suma `r formatC(sum(ksi$VAB), format="f", digits=3, big.mark=",", decimal.mark=".")` millones de pesos de 2018. Los resultados que se presentan corresponden a este corte conservado de la matriz, cuya procedencia queda documentada para poder reproducir el ejercicio aun cuando las series se revisen posteriormente.
 
 ### II.2.2 El índice de especialización de Krugman {.unnumbered #ksi}
 
-Krugman describe la distancia entre estructuras regionales mediante la suma de diferencias absolutas entre participaciones sectoriales [@krugman2010, p. 12]. Su formulación utiliza empleo; aquí se aplica al VAB de la matriz mexicana. En la comparación entre una entidad y el país, $s_{ij}=x_{ij}/x_{i\cdot}$ representa la participación de la actividad $j$ en el VAB estatal y $s_j=x_{\cdot j}/x_{\cdot\cdot}$, su participación nacional.
+Para medir la distancia entre estructuras regionales, Krugman suma las diferencias absolutas entre sus participaciones sectoriales [@krugman2010, p. 12]. Aunque su formulación utiliza empleo, el mismo procedimiento se aplica aquí al VAB de la matriz mexicana: se calcula primero el peso de cada actividad $j$ en la entidad, $s_{ij}=x_{ij}/x_{i\cdot}$, y se compara con su peso en el país, $s_j=x_{\cdot j}/x_{\cdot\cdot}$.
 
 []{#eq-ksi}
 
@@ -34,9 +34,9 @@ KSI_i=\sum_{j=1}^{21}\left|s_{ij}-s_j\right|.
 \tag{II.2.2}
 \]
 
-Las diferencias con signo suman cero porque las participaciones de cada estructura suman uno. El valor absoluto evita que las diferencias positivas se cancelen con las negativas y recoge la magnitud de cada brecha. Una entidad con las mismas participaciones que el país registra un KSI de cero; las diferencias más grandes elevan el índice. La [figura II.2.1](#fig-ksi) muestra los resultados de las 32 entidades.
+Si se sumaran las diferencias con su signo, los excesos de participación en unas actividades compensarían los déficits de otras, puesto que ambas estructuras suman uno. Al tomar el valor absoluto se conserva la magnitud de cada brecha y se obtiene una distancia conjunta. Cuando las participaciones estatales coinciden con las nacionales el KSI es cero, y aumenta conforme se apartan de ellas, como puede examinarse para las 32 entidades en la [figura II.2.1](#fig-ksi).
 
-El KSI tiene una escala general de cero a dos y se conserva como suma completa, sin dividir entre dos. En la comparación con el país, la producción de cada entidad forma parte de la referencia nacional, por lo que el límite estatal es $2(1-w_i)$, donde $w_i=x_{i\cdot}/x_{\cdot\cdot}$. Su valor expresa distancia respecto de la composición nacional. La diversificación absoluta de una economía requiere examinar también la distribución interna de sus actividades.
+En esta edición se utiliza la suma completa de la ecuación, sin dividir entre dos, con una escala general de cero a dos. Al comparar cada entidad con el país hay, además, una particularidad: su propia producción forma parte de la referencia nacional, de modo que el límite estatal es $2(1-w_i)$, donde $w_i=x_{i\cdot}/x_{\cdot\cdot}$. La lectura económica se refiere a esa distancia con la composición del país; para estudiar la diversificación de la entidad en sí misma habrá que observar también cómo reparte su actividad entre sectores.
 
 ```{r salto-figura, results='asis'}
 if (knitr::is_latex_output()) cat("\\clearpage\n")
@@ -57,9 +57,9 @@ if (knitr::is_html_output()) {
 
 Fuente: elaboración propia con la matriz conservada de INEGI, PIBE 2024, millones de pesos de 2018. Cálculo sobre VAB, 32 entidades y 21 actividades. Identificador de conservación F07-KSI.
 
-Campeche registra un KSI de `r fmt(ksi$KSI[ksi$cve_ent=="04"])` y Tabasco de `r fmt(ksi$KSI[ksi$cve_ent=="27"])`. El indicador agrega las brechas de las 21 actividades. En Campeche, la minería petrolera representa `r fmt(camp$participacion_local*100, 2)` % del VAB estatal frente a `r fmt(camp$participacion_nacional*100, 2)` % en el país, de modo que esa diferencia aporta aproximadamente `r fmt(camp$aportacion_KSI)` al índice. Las demás actividades completan la distancia observada, incluidas aquellas cuya participación local es inferior a la nacional.
+Campeche registra un KSI de `r fmt(ksi$KSI[ksi$cve_ent=="04"])` y Tabasco de `r fmt(ksi$KSI[ksi$cve_ent=="27"])`. Para comprender el primer resultado conviene detenerse en la minería petrolera, que representa `r fmt(camp$participacion_local*100, 2)` % del VAB de Campeche frente a `r fmt(camp$participacion_nacional*100, 2)` % en el país: esa sola brecha aporta aproximadamente `r fmt(camp$aportacion_KSI)` al índice. Al incorporar las demás actividades hasta completar las 21 se reúne la distancia observada, tanto por las participaciones que superan la referencia nacional como por las que quedan por debajo de ella.
 
-La suma de las brechas positivas equivale a la mitad del KSI. Por ejemplo, un KSI de 0.4 representa una reasignación de participaciones de 0.2, equivalente a 20 puntos porcentuales distribuidos entre actividades, con la referencia nacional fija. Esta interpretación conserva la escala de la [ecuación (II.2.2)](#eq-ksi).
+Como las brechas positivas y negativas se compensan antes de tomar el valor absoluto, cada grupo aporta la mitad del KSI. Un valor de 0.4 representa, por tanto, una reasignación de participaciones de 0.2, equivalente a 20 puntos porcentuales distribuidos entre actividades si la referencia nacional se mantiene fija. Así puede interpretarse la magnitud de la distancia con la escala de la [ecuación (II.2.2)](#eq-ksi).
 
 ### II.2.3 Concentración territorial y especialización sectorial {.unnumbered #otros-indices}
 
@@ -72,9 +72,9 @@ ICE_j=\sum_{i=1}^{32}|q_{ij}-w_i|.
 \tag{II.2.3}
 \]
 
-Un ICE de cero indica una distribución sectorial proporcional al peso económico de las entidades. La referencia incorpora las diferencias de tamaño entre sus economías. Un valor bajo es compatible con participaciones territoriales desiguales cuando estas guardan proporción con los pesos estatales.
+Puesto que la comparación toma en cuenta el tamaño económico de las entidades, el ICE llega a cero cuando la distribución de la actividad guarda proporción con sus pesos en el VAB nacional. Por ello, una actividad puede registrar un índice bajo y, al mismo tiempo, concentrar buena parte de su producción en las economías estatales más grandes: lo que se evalúa es cuánto se aparta de esa distribución de referencia.
 
-El IEE es el cociente de localización aplicado al valor agregado. Relaciona la participación de una actividad en una entidad con su participación nacional. La definición del cociente y la interpretación del umbral de uno siguen el procedimiento explicado por el Bureau of Labor Statistics para participaciones de empleo [@bls2011, p. 2]; en este ejercicio la variable es el VAB.
+Si interesa examinar una actividad dentro de una entidad, se divide su participación local entre la nacional y se obtiene el IEE, o cociente de localización aplicado al valor agregado. El procedimiento y la interpretación del umbral de uno siguen la explicación del Bureau of Labor Statistics para participaciones de empleo [@bls2011, p. 2], con la adaptación al VAB utilizada en este ejercicio.
 
 []{#eq-iee}
 
@@ -84,7 +84,7 @@ IEE_{ij}=\frac{x_{ij}/x_{i\cdot}}{x_{\cdot j}/x_{\cdot\cdot}}
 \tag{II.2.4}
 \]
 
-Un IEE superior a uno indica una participación local de la actividad mayor que la nacional. En las manufacturas de Coahuila, la participación estatal es aproximadamente `r fmt(coah$participacion_local, 4)` frente a `r fmt(coah$participacion_nacional, 4)` en el país. El cociente calculado antes de redondear es `r fmt(coah$IEE)`, de modo que el peso manufacturero dentro de la entidad equivale a unas `r fmt(coah$IEE, 2)` veces el nacional. El IEE carece del máximo universal de dos utilizado en las escalas generales del KSI y el ICE.
+Las manufacturas de Coahuila ofrecen un ejemplo: su participación en el VAB estatal es aproximadamente `r fmt(coah$participacion_local, 4)` frente a `r fmt(coah$participacion_nacional, 4)` en el país, y el cociente calculado antes de redondear alcanza `r fmt(coah$IEE)`. El peso manufacturero dentro de la entidad equivale así a unas `r fmt(coah$IEE, 2)` veces el nacional. Al superar uno, el resultado señala una presencia relativa mayor de esa actividad; el límite que puede alcanzar depende de las participaciones comparadas, sin el máximo universal de dos de las escalas generales del KSI y el ICE.
 
 Las relaciones entre los tres índices pueden expresarse con las ponderaciones de la misma matriz.
 
@@ -96,10 +96,10 @@ ICE_j=\sum_i w_i|IEE_{ij}-1|.
 \tag{II.2.5}
 \]
 
-El promedio del KSI ponderado por el VAB estatal coincide con el promedio del ICE ponderado por el VAB sectorial. Esta igualdad sirve para comprobar la consistencia de los cálculos. Las dos perspectivas agregan las diferencias de la misma matriz, con ponderaciones que conservan el tamaño económico de las entidades y de las actividades.
+Aunque el KSI recorre las actividades de cada entidad y el ICE reúne las entidades de cada actividad, ambos agregan diferencias de la misma matriz. Si se pondera el primero por el VAB estatal y el segundo por el VAB sectorial, sus promedios coinciden. Esta igualdad proporciona una comprobación de los cálculos y muestra cómo se enlazan las dos perspectivas al conservar el tamaño económico de sus componentes.
 
 ### II.2.4 Lectura de los resultados {.unnumbered #lectura-resultados}
 
-Los índices describen la composición y distribución de la actividad económica en el año observado. La elección de precios modifica las ponderaciones sectoriales: los precios de 2018 valoran la estructura con los precios relativos de ese año. Las comparaciones entre periodos requieren una base de precios y una cobertura compatibles, además de considerar los cambios de la estructura nacional de referencia.
+La lectura de estos resultados queda situada en 2024 y en la valoración a precios de 2018. Como los precios relativos intervienen en el peso de las actividades, al comparar otro periodo conviene mantener una base de precios y una cobertura compatibles, además de examinar cuánto ha cambiado la estructura nacional con la que se establece la distancia.
 
-Para trabajar con la figura, seleccione Campeche y una entidad con un KSI menor y examine qué información resume cada valor. Después utilice el orden alfabético para localizar una entidad de su interés. La tabla conserva los valores completos del cálculo y permite comprobar el orden del gráfico. La explicación del perfil sectorial requiere volver a las participaciones de las actividades, pues el KSI reúne sus diferencias en una sola medida.
+Puede comenzar la exploración de la figura seleccionando Campeche y una entidad con un KSI menor, para después localizar otra de su interés mediante el orden alfabético. La tabla ofrece los valores completos con los que se ordenaron las barras. Al interpretar la comparación, vuelva a las participaciones sectoriales y considere qué actividades explican la distancia en cada caso, siguiendo el ejemplo de la minería petrolera: un mismo valor del KSI puede reunir perfiles productivos diferentes.

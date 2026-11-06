@@ -55,7 +55,7 @@ for f in figures:
   p=R/'assets/capitulo-01'/folder/(f+'.'+ext)
   ck('Recurso integrado idéntico '+f+'.'+ext,p.exists() and sha(p)==sha(W/'recursos'/p.name))
 ck('Manuscrito rector intacto',sha(R/'referencias/manuscrito-base/PAPIME Libro.pdf')=='7bd8d8a23ff225a42728c167723c323a2bedebda7c999a9aa186df7a8e486b35')
-report=dict(fecha='2026-11-05',resultado='correcto' if all(x['correcto'] for x in checks) else 'incidencias',pruebas=len(checks),pdfs=pdfs,comprobaciones=checks)
+report=dict(fecha='2026-11-06',resultado='correcto' if all(x['correcto'] for x in checks) else 'incidencias',pruebas=len(checks),pdfs=pdfs,comprobaciones=checks)
 (R/'seguimiento/verificacion-proyecto-B02.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 print(json.dumps(dict(resultado=report['resultado'],pruebas=len(checks),fallos=[x for x in checks if not x['correcto']],pdfs=pdfs),ensure_ascii=False))
 if report['resultado']!='correcto':raise SystemExit(1)

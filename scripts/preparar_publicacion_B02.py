@@ -1,7 +1,10 @@
 """Prepara blobs canónicos del checkpoint, sin credenciales ni escritura remota."""
 from pathlib import Path
-import subprocess,json,base64,hashlib
-R=Path(__file__).resolve().parents[1];BASE='c35d2b974799d1b17d44e9ac597d43dfe0686710'
+import subprocess,json,base64,hashlib,argparse
+parser=argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--base',default='c35d2b974799d1b17d44e9ac597d43dfe0686710',help='Checkpoint local cuyo árbol ya está publicado en el fork')
+args=parser.parse_args()
+R=Path(__file__).resolve().parents[1];BASE=args.base
 def git(*a):return subprocess.check_output(['git',*a],cwd=R)
 tree=git('rev-parse','HEAD^{tree}').decode().strip();head=git('rev-parse','HEAD').decode().strip()
 entries={}

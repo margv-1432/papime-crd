@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-11-06",
+  "base": "e6c1f99f2512cf24fde4077cec4d9efabeef1087",
+  "resultado": "correcto",
+  "pruebas": 17,
+  "comprobaciones": [
+    {
+      "prueba": "01-territorio.Rmd: citas y localizadores",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "01-territorio.Rmd: chunks R",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "01-territorio.Rmd: cálculos R en línea",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "01-territorio.Rmd: ecuaciones",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "01-territorio.Rmd: fórmulas en línea",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "02-piloto-especializacion.Rmd: citas y localizadores",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "02-piloto-especializacion.Rmd: chunks R",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "02-piloto-especializacion.Rmd: cálculos R en línea",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "02-piloto-especializacion.Rmd: ecuaciones",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "02-piloto-especializacion.Rmd: fórmulas en línea",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Datos cuantitativos, originales y bibliografía intactos",
+      "correcto": true,
+      "detalle": [
+        "datos/preparados/capitulo-01/F06_nodos.csv",
+        "datos/preparados/capitulo-01/manifiesto-B02.csv"
+      ]
+    },
+    {
+      "prueba": "F06 conserva nodos, etiquetas y tipos",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Pies únicos y completos: PAPIME-libro-avance-B02.pdf",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Pies únicos y completos: PAPIME-B02-capitulo-I.pdf",
+      "correcto": true,
+      "detalle": ""
+    },
+    {
+      "prueba": "Prosa web/PDF: index.html",
+      "correcto": true,
+      "detalle": {
+        "parrafos": 3,
+        "ausentes": []
+      }
+    },
+    {
+      "prueba": "Prosa web/PDF: territorio.html",
+      "correcto": true,
+      "detalle": {
+        "parrafos": 57,
+        "ausentes": []
+      }
+    },
+    {
+      "prueba": "Prosa web/PDF: especializacion.html",
+      "correcto": true,
+      "detalle": {
+        "parrafos": 15,
+        "ausentes": []
+      }
+    }
+  ]
+}

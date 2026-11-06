@@ -3,7 +3,14 @@
 
 ## ROMANO.1 Título del apartado {.unnumbered #apartado-id}
 
-Desarrollar un argumento continuo con referencias verificadas y cifras reproducibles.
+<!-- La narrativa natural es prioridad editorial absoluta. Desarrollar el argumento
+con contexto, evidencia y transiciones propias de este apartado. Revisar el ritmo
+del conjunto y variar la construcción de párrafos y oraciones según su contenido.
+Reelaborar los pasajes que se lean como afirmaciones breves encadenadas, inventarios
+de funciones o advertencias sobre asuntos que el texto no trata. Las precisiones
+necesarias de fuente y método se sitúan donde permitan interpretar la evidencia,
+incluidos pies y notas, sin repetirse como remates automáticos de cada párrafo.
+Consultar seguimiento/GUIA_EDITORIAL.md y la decisión D23 antes de redactar. -->
 
 <!-- Cada ecuación: ancla eq-id antes de \[...\tag{ROMANO.1.1}\].
 Cada figura: ancla fig-id, rótulo editorial único y fuente/cobertura explícitas.

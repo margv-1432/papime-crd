@@ -2,7 +2,7 @@
 title: "Economía mexicana"
 subtitle: "Territorio y estructura productiva"
 author: "Proyecto PAPIME"
-date: "Edición de trabajo B02 · 5 de noviembre de 2026"
+date: "Edición revisada B02 · 6 de noviembre de 2026"
 lang: es
 bibliography: bibliografia.bib
 link-citations: true
@@ -25,11 +25,11 @@ source("configuracion-comun.R", encoding="UTF-8")
 
 # Presentación {.unnumbered #presentacion}
 
-La organización territorial de la economía mexicana reúne procesos históricos, condiciones geográficas y relaciones productivas. El capítulo I estudia la formación del territorio y sus contrastes ambientales, con figuras que permiten examinar las unidades y los datos utilizados. La lectura en pantalla y la edición impresa comparten el argumento y la evidencia.
+Para comprender la distribución de las actividades económicas en México conviene volver sobre la formación de sus regiones: cómo se poblaron, de qué manera se conectaron y bajo qué condiciones se han aprovechado sus recursos. El capítulo I recorre esa historia y examina los contrastes geográficos del país a partir de problemas concretos, entre ellos el acceso a los mercados y la relación entre agua y población. Los mapas y gráficos acompañan la explicación; al recorrerlos es posible detenerse en un lugar, contrastarlo con otros y consultar los datos que sostienen la comparación.
 
-El recorrido incluye el [capítulo I completo](#territorio), el fragmento editorial ya verificado sobre [especialización del capítulo II](#especializacion) y las [referencias](#referencias). El fragmento del capítulo II conserva su condición de piloto y su matriz de 2024 a precios de 2018; su desarrollo completo corresponde a una entrega posterior.
+Esta edición reúne el [capítulo I completo](#territorio) y un primer acercamiento a la [medición de la especialización, en el capítulo II](#especializacion), donde se trabaja con una matriz de actividad económica de 2024 a precios de 2018. Este último fragmento forma parte del piloto editorial con el que se preparó el libro y antecede al desarrollo completo del segundo capítulo. Las [referencias](#referencias) reúnen las obras y fuentes utilizadas en ambos textos.
 
-Las figuras ofrecen una vista inicial suficiente para seguir el texto, junto con controles y tablas para explorar la información. Las fuentes conservan fechas y coberturas propias. Los mapas nacionales se generalizan para su lectura y no sustituyen estudios de detalle.
+En pantalla, los controles de las figuras dan acceso a capas, categorías y tablas; para la lectura impresa se han preparado versiones estáticas con la misma evidencia y sus notas de fuente. A lo largo del recorrido se precisan las fechas y escalas pertinentes, de modo que el lector pueda situar cada comparación y, cuando una pregunta lo lleve a una localidad o a un periodo distinto, reconocer qué información adicional necesita.
 
 ```{r enlaces-lectura, results='asis'}
 if (knitr::is_html_output()) cat('<p class="enlaces-edicion"><a href="papime-libro.pdf">Descargar el libro en PDF</a> · <a href="PAPIME-B02-capitulo-I.pdf">Descargar el capítulo I en PDF</a></p>')

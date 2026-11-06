@@ -2,6 +2,8 @@
 
 El autor aceptó B01 y autorizó el capítulo I. B02 incorpora su texto completo y F01–F06 al libro. El piloto de II.2 sigue identificado como fragmento previo; los demás capítulos permanecen fuera de compilación. Los rótulos del capítulo I se mantienen en figuras-capitulo-I.csv. Las decisiones de arquitectura de B01 que siguen son el antecedente conservado.
 
+La revisión del 6 de noviembre de 2026 aplica la prioridad narrativa de D23–D24 al capítulo, sus recursos, la presentación y el piloto ya integrado. La guía editorial rige también las futuras incorporaciones: cada sección desarrolla su argumento con un ritmo propio, y la revisión continua en contexto acompaña las comprobaciones de datos y formatos. La jerarquía de títulos y los componentes técnicos de esta arquitectura organizan el libro sin imponer una fórmula de párrafo.
+
 # Arquitectura editorial del libro
 
 Decisiones de B01, 5 de noviembre de 2026. El PDF rector fija los ocho capítulos y su orden. La estructura se implementa progresivamente; reservar un archivo de capítulo no significa haber redactado o validado su contenido. B01 termina en el piloto de especialización y espera revisión antes de B02.

@@ -2,7 +2,7 @@
 title: "Economía mexicana"
 subtitle: "Capítulo I. Fundamentos históricos y geográficos del territorio mexicano"
 author: "Proyecto PAPIME"
-date: "Edición de trabajo B02 · 5 de noviembre de 2026"
+date: "Edición revisada B02 · 6 de noviembre de 2026"
 lang: es
 bibliography: bibliografia.bib
 link-citations: true
