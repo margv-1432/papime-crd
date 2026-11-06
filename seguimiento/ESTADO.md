@@ -27,7 +27,7 @@ Los datos cuantitativos, originales, bibliografía y matriz de especialización 
 
 ## Continuidad
 
-El [informe de revisión](REVISION_NARRATIVA_B02.md) detalla el alcance y la verificación. La publicación utiliza exclusivamente la rama B02 y el PR #1 del fork; los comprobantes de la entrega anterior se conservan como antecedentes y el de esta revisión se registra por separado.
+El [informe de revisión](REVISION_NARRATIVA_B02.md) detalla el alcance y la verificación. El contenido corregido está publicado en el commit `f43d22daf7905a2e578ad3de7d15dfcca8453e6e`, con árbol idéntico al checkpoint local `745ab2e7be8ae6f8827bdf29cc032a527c1b893e`. Se comprobaron 61 blobs únicos y 92 rutas actualizadas; véase [el comprobante de esta revisión](verificacion-publicacion-revision-B02.json). El PR #1 está actualizado. Los comprobantes anteriores se conservan como antecedentes. No quedan archivos de esta solicitud pendientes de publicación.
 
 No quedan correcciones independientes o decisiones metodológicas pendientes de esta solicitud. Corresponde la nueva lectura del autor. Para ajustes posteriores, reanudar en `libro/capitulos/01-territorio.Rmd` o el generador del recurso afectado, consultar primero plan/estado/decisiones/guía, compilar con `Rscript scripts/compilar.R todo` y repetir las comprobaciones pertinentes. Conservar la prioridad narrativa y el destino fork. No iniciar B03 sin autorización que lo comprenda.
 

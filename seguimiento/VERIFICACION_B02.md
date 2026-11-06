@@ -14,3 +14,5 @@ Se renderizaron y revisaron las 23 páginas del capítulo y las 30 del libro. Se
 | PAPIME-libro-avance-B02.pdf | 30 | `d9a3519aab4c8fde6c5e23b149654a53bed3b276608ddd8c587a5e8089ce876f` |
 
 Las copias PDF y los recursos individuales de la web coinciden con las entregas canónicas. Se conservaron el PDF histórico B01 y las auditorías específicas previas de F01/F02, agua/esquema y F04. El [informe editorial](REVISION_NARRATIVA_B02.md) explica los cambios y la continuidad.
+
+Publicación comprobada en `f43d22daf7905a2e578ad3de7d15dfcca8453e6e`: árbol remoto `f1ccd4450de20ede2d803021395dd1e112dc89d8`, idéntico al checkpoint local de contenido. Se verificaron 61 blobs para las 92 rutas modificadas. La base y la rama del PR #1 pertenecen al fork; main conserva B01. El [comprobante específico](verificacion-publicacion-revision-B02.json) se incorpora en este cierre documental posterior.
