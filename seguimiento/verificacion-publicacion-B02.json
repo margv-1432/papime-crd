@@ -1,0 +1,20 @@
+{
+  "fecha": "2026-11-05",
+  "resultado": "correcto",
+  "repositorio": "margv-1432/papime-crd",
+  "rama": "b02-capitulo-i",
+  "ref_comprobada": "refs/heads/b02-capitulo-i",
+  "commit_contenido": "dc9779a594eaaa44f1a0ff9473f63e6bad62c724",
+  "checkpoint_local_contenido": "dd858f56fbd7b41ec8a9d644698fcdf7765a82be",
+  "commit_base": "c35d2b974799d1b17d44e9ac597d43dfe0686710",
+  "arbol_local": "ce4e6960c0c4e995ef35e8baebfcfbc07c3a0723",
+  "arbol_remoto": "ce4e6960c0c4e995ef35e8baebfcfbc07c3a0723",
+  "rutas_contenido": 201,
+  "blobs_canonicos_verificados": 152,
+  "bytes_unicos": 43222163,
+  "pull_request": "https://github.com/margv-1432/papime-crd/pull/1",
+  "pull_request_estado": "borrador abierto para revisión del autor",
+  "main_remoto_modificado": false,
+  "revision_automatica": "Rechazó actualizar la rama predeterminada main por requerir autorización específica. Se completó la publicación en una rama de revisión, sin modificar main.",
+  "cierre_documental": "Este informe y los enlaces de seguimiento se conservan en un commit posterior de la misma rama; no cambian datos, capítulo, figuras ni PDF."
+}
