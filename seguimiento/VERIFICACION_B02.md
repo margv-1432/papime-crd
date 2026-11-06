@@ -1,5 +1,7 @@
 # Verificación B02
 
+**Continuidad de publicación, 6 de noviembre de 2026.** El autor confirma que todos los avances deben subirse exclusivamente al fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd). B02 está publicado en la rama `b02-capitulo-i` y el [PR #1](https://github.com/margv-1432/papime-crd/pull/1), cuya base también pertenece al fork. El repositorio original `postsocratico/papime-crd` es sólo de consulta y no recibe cambios. Las siguientes conversaciones deben conservar este destino, como establecen `ESTADO.md`, `PLAN.md` y D22 de `DECISIONES.md`.
+
 Corte del 5 de noviembre de 2026. Capítulo I completo y revisable. Los informes automáticos son `verificacion-proyecto-B02.json`, `verificacion-web-B02.json`, `auditoria-F01-F02.json`, `auditoria-geometria-F01-F02.json`, `auditoria-agua-sintesis.json` y `auditoria-F04.json`.
 
 Integración 40/40 y navegador 39/39 correctos. El navegador comprobó navegación, búsqueda, 33 referencias únicas al final, seis figuras integradas, controles y teclado, descarga hídrica exacta, figuras autónomas, lectura de360px y ausencia de errores o solicitudes externas. Las pruebas individuales de agua y F04 amplían esos controles. Se conservaron los datos y el PDF del piloto B01.

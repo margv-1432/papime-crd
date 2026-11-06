@@ -1,5 +1,11 @@
 # Registro de decisiones
 
+## Instrucción permanente de publicación. 6 de noviembre de 2026
+
+| ID | Decisión y fundamento | Alcance |
+|---|---|---|
+| D22 | El autor reafirma que toda publicación debe realizarse en el fork `margv-1432/papime-crd`. El original `postsocratico/papime-crd` se utiliza sólo como referencia de consulta. | Aplica a todos los bloques y futuras conversaciones, incluidos commits, ramas y base de los PR. Comprobar el propietario del repositorio antes de escribir. B02 y su PR #1 ya pertenecen al fork. La restricción previa sobre `main` corresponde al `main` del fork y no autoriza cambiar de destino. |
+
 ## B01 5 de noviembre de 2026
 
 | ID | Decisión y fundamento | Alcance |

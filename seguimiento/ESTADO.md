@@ -1,5 +1,15 @@
 # Estado del proyecto PAPIME
 
+## Destino permanente de publicación
+
+Instrucción del autor reafirmada el 6 de noviembre de 2026: **todos los avances, archivos versionados, ramas y pull requests deben publicarse exclusivamente en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd)**. El repositorio original `postsocratico/papime-crd` se conserva únicamente como referencia de consulta; no se debe escribir en él ni dirigirle pull requests. Esta regla continúa vigente al abrir otra conversación y al avanzar a los siguientes bloques.
+
+En Git local, `origin` apunta al fork y `upstream` al original de consulta. En el conector GitHub, indicar siempre `repository_full_name: margv-1432/papime-crd` y comprobar que la base y la rama de cada PR pertenezcan a ese fork. B02 ya está allí, en `b02-capitulo-i`, [PR #1 del propio fork](https://github.com/margv-1432/papime-crd/pull/1).
+
+La restricción documentada para actualizar `main` se refiere a **la rama `main` del fork**, no al repositorio original. No cambia el destino de publicación.
+
+## Avance del libro
+
 Corte del 5 de noviembre de 2026. **B02 completo y entregado para revisión del autor.** B01 fue revisado y su aceptación autorizó este bloque. El trabajo se mantuvo dentro del capítulo I. B03 no se ha iniciado.
 
 El capítulo «Fundamentos históricos y geográficos del territorio mexicano» contiene evolución territorial, criterios explícitos de regionalización, desarrollo geográfico y seis actividades. Se integran F01–F06 con HTML autónomos, estáticas y tablas. La bibliografía del capítulo utiliza 30 claves; la matriz conserva 63 registros, con acceso y páginas realmente consultadas. Ruiz Durán (1997 y 1999) y el ejemplar de Bassols (1992) están cotejados; Hanson conserva el alcance de sus resúmenes originales y García Martínez (2008) queda como candidata sin lectura atribuida.

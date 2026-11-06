@@ -1,5 +1,7 @@
 # Manual interactivo de economía mexicana
 
+**Repositorio de trabajo y publicación:** [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), el fork autorizado por el autor. Todos los avances y PR se guardan en este fork. El original `postsocratico/papime-crd` se utiliza únicamente como referencia de consulta. Esta instrucción permanece vigente para los siguientes bloques y conversaciones; véase [el estado de continuidad](seguimiento/ESTADO.md).
+
 B02 está completo para revisión del autor en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd/tree/b02-capitulo-i). Incluye el capítulo I, Fundamentos históricos y geográficos del territorio mexicano, con seis figuras interactivas y estáticas, datos preparados, bibliografía y actividades.
 
 - [Capítulo I en PDF](entregas/pdf/PAPIME-B02-capitulo-I.pdf), 24 páginas.

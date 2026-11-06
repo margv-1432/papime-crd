@@ -1,5 +1,7 @@
 # Planeación final del manual interactivo de Economía Mexicana
 
+**Destino vigente de publicación, reafirmado por el autor el 6 de noviembre de 2026.** Todos los bloques se guardan en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd). `postsocratico/papime-crd` es exclusivamente un antecedente y repositorio de consulta. No publicar cambios ni abrir PR hacia el original. Esta instrucción se mantiene entre conversaciones. Consultar `ESTADO.md` para identificar la rama y entrega vigentes dentro del fork.
+
 Versión reorganizada del 5 de noviembre de 2026. B01 completado: piloto y preparación verificados y publicados en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), entregados para revisión del autor. El estado mantenido se encuentra en `seguimiento/ESTADO.md`. Esta versión sustituye la organización anterior por unidades pequeñas y conserva los acuerdos de planeación. B02 completado y entregado para revisión del autor; B03 no iniciado.
 
 El documento rector es `PAPIME Libro.pdf`, ubicado en la carpeta principal del proyecto. Los resúmenes de PAPIME_Mx y los materiales anteriores sirven como antecedentes. El repositorio de referencia es [postsocratico/papime-crd](https://github.com/postsocratico/papime-crd). La revisión de esta planeación corresponde a su rama main, commit `458257c3d7b69602560cbcaeb89fd0980297ad6b`.
@@ -224,7 +226,7 @@ La continuidad descansará en los archivos del proyecto. Al abrir un chat se lee
 
 Instrucción de arranque sugerida para el nuevo chat:
 
-> Trabajaremos en el libro PAPIME. Lee `C:\Users\marce\Downloads\PAPIME\PLAN_FINAL_PAPIME.md`, que contiene la planeación vigente en diez bloques. El documento base es `PAPIME Libro.pdf` en esa misma carpeta y el repositorio es `postsocratico/papime-crd`. Comienza el bloque B01 y avanza de forma autónoma sobre todo su alcance, incluyendo la organización del proyecto, las plantillas y el piloto. Conserva los acuerdos bibliográficos, editoriales y metodológicos. Coordina las tareas internas sin pedirme que dirija cada paso. Guarda los avances localmente y en GitHub, comprueba los resultados y actualiza el registro de estado. Si el bloque necesita otra sesión, deja una continuación precisa. Cierra con un resultado sustancial revisable y sus archivos; no comiences B02 hasta que revisemos B01.
+> Trabajaremos en el libro PAPIME. Lee `C:\Users\marce\Downloads\PAPIME\PLAN_FINAL_PAPIME.md`, que contiene la planeación vigente en diez bloques. El documento base es `PAPIME Libro.pdf` en esa misma carpeta y el repositorio de trabajo y publicación es el fork `margv-1432/papime-crd`. El original `postsocratico/papime-crd` se utiliza únicamente como referencia de consulta. Comienza el bloque B01 y avanza de forma autónoma sobre todo su alcance, incluyendo la organización del proyecto, las plantillas y el piloto. Conserva los acuerdos bibliográficos, editoriales y metodológicos. Coordina las tareas internas sin pedirme que dirija cada paso. Guarda los avances localmente y en GitHub, comprueba los resultados y actualiza el registro de estado. Si el bloque necesita otra sesión, deja una continuación precisa. Cierra con un resultado sustancial revisable y sus archivos; no comiences B02 hasta que revisemos B01.
 
 Para continuar dentro de un bloque:
 
