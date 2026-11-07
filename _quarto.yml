@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: web
+  execute-dir: project
+  pre-render: python scripts/generar_widgets.py
+  resources:
+    - plots/capitulo-*/F*.html
+
+book:
+  title: "Economía mexicana"
+  subtitle: "Territorio y estructura productiva"
+  author: "Proyecto PAPIME"
+  chapters:
+    - index.qmd
+    - capitulos/01-territorio.qmd
+    - capitulos/02-estructura-productiva.qmd
+    - capitulos/referencias.qmd
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 2
+  page-navigation: true
+
+# Los capítulos 03–08 y las conclusiones conservan su fuente reservada en
+# capitulos/. Se incorporarán al índice al contar con contenido revisado.
+lang: es
+bibliography: bibliografia/bibliografia.bib
+link-citations: true
+number-sections: false
+toc: true
+toc-depth: 3
+toc-title: "En este capítulo"
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  error: false
+  freeze: false
+
+format:
+  html:
+    theme: default
+    page-layout: article
+    html-math-method: mathml
+    anchor-sections: true
+    smooth-scroll: true
+    code-copy: false
+    include-in-header: plots/comun/integracion.html
+    css:
+      - estilos/libro.css
+      - estilos/capitulo-01.css
+      - estilos/capitulo-02.css
+      - estilos/capitulo-03.css
+      - estilos/capitulo-04.css
+      - estilos/capitulo-05.css
+      - estilos/capitulo-06.css
+      - estilos/capitulo-07.css
+      - estilos/capitulo-08.css
+    grid:
+      sidebar-width: 270px
+      body-width: 850px
+      margin-width: 200px

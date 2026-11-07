@@ -1,0 +1,3 @@
+# Conclusiones {.unnumbered #conclusiones}
+
+<!-- Fuente reservada para el cierre del manual. Excluida de la edición web hasta su desarrollo y revisión. -->

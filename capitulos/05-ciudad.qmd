@@ -1,0 +1,7 @@
+---
+body-classes: capitulo-05
+---
+
+# Capítulo V Ciudad, vivienda y capital humano {.unnumbered #ciudad}
+
+<!-- Capítulo reservado. El texto del manuscrito base aún no se ha integrado a esta fuente. Excluido de la edición web hasta su desarrollo y revisión. -->

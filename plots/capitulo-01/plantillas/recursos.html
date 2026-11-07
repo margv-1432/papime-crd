@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>F04 · Recursos y aprovechamientos regionales</title>
+<style>__STYLE__</style>
+</head>
+<body>
+<main>
+<header>
+<p class="eyebrow">F04 · Explorador territorial</p>
+<h1>Recursos y aprovechamientos regionales</h1>
+<p>La producción registrada puede examinarse por entidad y compararse dentro de cada actividad. La cubierta vegetal acompaña esa lectura con la distribución nacional y las claves de la Serie VII.</p>
+</header>
+<nav class="panels" aria-label="Recurso representado">
+<button type="button" data-panel="cobre" aria-pressed="true">Cobre</button>
+<button type="button" data-panel="cubierta" aria-pressed="false">Cubierta vegetal</button>
+<button type="button" data-panel="madera" aria-pressed="false">Madera</button>
+<button type="button" data-panel="pesca" aria-pressed="false">Pesca y acuacultura</button>
+</nav>
+<section aria-label="Selección territorial" class="selection-box">
+<div class="toolbar">
+<div class="search-field"><label for="buscar">Buscar para elegir entidades</label><input id="buscar" type="search" placeholder="Nombre o clave estatal" autocomplete="off" aria-controls="state-options"></div>
+<button id="reset" type="button">Restablecer vista</button>
+<button id="export" type="button">Descargar datos CSV</button>
+</div>
+<details id="selector"><summary>Elegir entidades para comparar <span id="selection-count"></span></summary><p class="small">Marque varias entidades o selecciónelas en el mapa, las barras o la tabla. Sin una selección particular se muestran las 32.</p><div id="state-options" class="state-options" role="group" aria-label="Entidades para comparar"></div></details>
+<div id="chips" class="chips" aria-label="Selección activa"></div>
+</section>
+<div class="section-heading"><h2 id="panel-title">Cobre preliminar</h2><p id="meta" class="meta"></p></div>
+<p id="status" class="status" role="status" aria-live="polite" aria-atomic="true"></p>
+<div class="visual-grid">
+<section aria-labelledby="map-title" class="map-card">
+<div class="card-head"><h3 id="map-title">Entidades federativas</h3><div class="map-controls"><button type="button" id="zoom-selection">Acercar selección</button><button type="button" id="zoom-all">Mapa completo</button></div></div>
+<svg id="mapa" class="state-map" role="group" aria-label="Mapa seleccionable de las 32 entidades"><defs><pattern id="missing-pattern" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#eef1f2"/><path d="M0 7L7 0" stroke="#9da8ad" stroke-width="1"/></pattern><pattern id="dash-pattern" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#f2ede7"/><path d="M1 4H5" stroke="#8f7760" stroke-width="1.5"/></pattern></defs><g id="state-shapes"></g></svg>
+<div id="map-legend" class="map-legend"></div>
+<p id="map-note" class="small">El mapa y las barras conservan la escala nacional al seleccionar entidades.</p>
+</section>
+<section id="chart-card" aria-labelledby="chart-title" class="chart-card">
+<div class="card-head"><h3 id="chart-title">Producción por entidad</h3><label class="order-label" for="order">Orden<select id="order"><option value="valor">Valor descendente</option><option value="clave">Clave estatal</option><option value="nombre">Nombre</option></select></label></div>
+<p id="chart-scale" class="small"></p><div id="chart" class="chart-scroll" tabindex="0" aria-label="Gráfico de barras con desplazamiento para conservar la legibilidad"></div><p class="small">Desplace el gráfico para consultar las entidades y sus valores; la selección también está disponible en la tabla.</p>
+</section>
+</div>
+<section id="cover-card" class="cover-card" hidden aria-labelledby="cover-title">
+<div class="card-head"><h3 id="cover-title">Cubierta vegetal · Serie VII</h3><label class="zoom-label" for="cover-zoom">Ampliación <input id="cover-zoom" type="range" min="100" max="250" step="25" value="100"><output id="cover-zoom-value">100 %</output></label></div>
+<div class="cover-scroll" tabindex="0" aria-label="Mapa de cubierta vegetal ampliable; puede desplazarse horizontalmente"><img id="cover-image" src="data:image/png;base64,__COVER__" width="1600" height="1006" alt="Cubierta vegetal nacional, Serie VII, con once grupos de la clasificación documentada"></div>
+<p class="small">Las categorías elegidas coordinan el catálogo y el detalle; el mapa conserva la cubierta nacional completa. La selección estatal se presenta en el mapa de entidades como referencia de localización.</p>
+<div class="category-toolbar"><label for="cover-search">Buscar en las claves y descripciones<input type="search" id="cover-search" placeholder="Clave, formación o descripción" autocomplete="off"></label><button type="button" id="categories-all">Todas las categorías</button></div>
+<div id="categories" class="categories" role="group" aria-label="Categorías de cubierta"></div>
+</section>
+<section id="detalle" class="detail" aria-labelledby="detail-title" aria-live="polite" aria-atomic="false"><h3 id="detail-title">Detalle de la selección</h3><div id="detail-content"></div></section>
+<section aria-labelledby="table-title" class="table-card">
+<div class="card-head"><h3 id="table-title">Datos de la vista</h3><p id="table-count" class="small"></p></div>
+<div class="table-scroll" tabindex="0" aria-label="Tabla de datos; desplazamiento horizontal"><table id="datos"><caption id="table-caption">Datos de la vista actual</caption><thead id="thead"></thead><tbody id="tbody"></tbody></table></div>
+<p class="small">La descarga contiene las mismas filas y el mismo orden de esta tabla, con la precisión conservada en la base preparada. Los vacíos mantienen su estado de fuente.</p>
+</section>
+<details class="source-notes"><summary>Fuentes, cobertura y criterios</summary>
+<p id="source"></p>
+<p>La cubierta procede de INEGI, uso del suelo y vegetación Serie VII, imágenes de referencia 2018, servicio SEMARNAT. Sus 183 claves se reúnen en once grupos para el dibujo. El raster se conserva con su recorte MG2020; las entidades proceden del mismo marco, en otra vista cartográfica. Las correspondencias describen categorías nacionales, sin calcular superficies estatales.</p>
+<p>En cobre, seis guiones publicados y trece ausencias de fila mantienen el valor vacío; Jalisco conserva el cero explícito. La producción maderable suma 292 filas elementales e incluye plantaciones y otras autorizaciones. En pesca, Ciudad de México carece de fila. La acuacultura está incluida en el total sectorial: el total nacional publicado es 304&nbsp;731 t y la suma estatal, 304&nbsp;732 t, diferencia de redondeo de 1 t conservada.</p>
+<p>La producción de cobre corresponde a extracción registrada. La localización física y vigencia de los puntos del directorio minero no quedaron certificadas, por lo que se conserva la comparación estatal. En pesca, la entidad de registro puede diferir del lugar de captura.</p>
+<p><a href="https://www.sgm.gob.mx/productos/pdf/Anuario_2023_Edicion_2024.pdf" target="_blank" rel="noopener">SGM · Anuario 2023</a> · <a href="https://anuarios.semarnat.gob.mx/" target="_blank" rel="noopener">SEMARNAT · Anuarios</a> · <a href="https://nube.conapesca.gob.mx/sites/cona/dgppe/2023/ANUARIO_ESTADISTICO_DE_ACUACULTURA_Y_PESCA_2023.pdf" target="_blank" rel="noopener">CONAPESCA · Anuario 2023</a></p>
+</details>
+<noscript>Para explorar la selección y descargar la tabla de la vista es necesario activar JavaScript.</noscript>
+</main>
+<script id="f04-data" type="application/json">__PAYLOAD__</script>
+<script>__SCRIPT__</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+---
+body-classes: capitulo-08
+---
+
+# Capítulo VIII El territorio ante la globalización {.unnumbered #globalizacion}
+
+<!-- Capítulo reservado. El texto del manuscrito base aún no se ha integrado a esta fuente. Excluido de la edición web hasta su desarrollo y revisión. -->

@@ -1,0 +1,21 @@
+:root{color-scheme:light;--azul:#0F4761;--tinta:#24313A;--gris:#56616B;--linea:#D6E0E5;--suave:#F2F6F8}
+*{box-sizing:border-box}body{margin:0;background:#fff;color:var(--tinta);font:16px/1.55 Arial,Calibri,sans-serif}
+main{max-width:1000px;margin:auto;padding:24px 24px 30px}h1{font-size:clamp(1.25rem,3.6vw,1.8rem);line-height:1.25;margin:0 0 6px;font-weight:700}
+p{margin:0 0 14px}.subtitulo{color:var(--gris);font-size:.95rem}.controles{display:flex;gap:16px;flex-wrap:wrap;margin:22px 0 14px}
+.campo{flex:1 1 245px}.campo label{display:block;font-weight:700;font-size:.9rem;margin-bottom:5px}
+select,button{font:inherit;color:var(--tinta);border:1px solid #879CA8;border-radius:4px;background:#fff;padding:9px 11px;min-height:44px}
+select{width:100%}button{cursor:pointer;color:var(--azul);font-weight:700}button:hover{background:var(--suave)}
+:focus-visible{outline:3px solid #007CAF;outline-offset:3px}a{color:var(--azul)}
+.lectura{background:var(--suave);border-left:4px solid var(--azul);padding:12px 15px;min-height:94px;margin-bottom:14px}
+.lectura strong{display:block;font-size:1.04rem}.lectura p{margin:2px 0 0;font-size:.92rem}.valor-exacto{font-variant-numeric:tabular-nums;font-size:.86rem;color:var(--gris)}
+.ayuda{color:var(--gris);font-size:.86rem;margin-bottom:8px}.grafico{width:100%;min-width:0}svg{display:block;width:100%;height:auto;overflow:visible}
+.fila{cursor:pointer}.fila:focus{outline:none}.fila:focus .foco{stroke:#007CAF;stroke-width:2;fill:#F2F8FB}.fila:hover .foco{fill:#F2F8FB}
+.nombre{fill:var(--tinta)}.cifra{fill:var(--tinta);font-variant-numeric:tabular-nums}.fila.seleccionada .nombre,.fila.seleccionada .cifra{font-weight:700}
+.fuente{font-size:.86rem;color:var(--gris);margin:14px 0 18px}.fuente p{margin:0 0 6px}
+.acciones{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0 20px}.aviso-descarga{font-size:.86rem;color:var(--gris)}
+details{border-top:1px solid var(--linea);padding-top:14px}summary{cursor:pointer;color:var(--azul);font-weight:700;min-height:44px;padding:7px 0}
+.tabla-contenedor{overflow:auto}table{width:100%;border-collapse:collapse;font-size:.92rem}caption{text-align:left;padding:10px 0;color:var(--gris);font-size:.85rem}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--linea)}th{background:var(--suave)}td.numero{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}th.numero{text-align:right}tr.destacada td{background:#E8F0F4;font-weight:700}
+.sr-only{position:absolute;clip:rect(0,0,0,0);width:1px;height:1px;overflow:hidden;white-space:nowrap}
+@media(max-width:480px){main{padding:16px 10px 22px}.controles{gap:10px;margin-top:16px}.campo{flex-basis:100%}body{font-size:15px}.lectura{padding:10px 12px}}
+@media print{main{max-width:none;padding:0}.controles,.acciones,.ayuda,details{display:none}svg{max-height:230mm}.lectura{break-inside:avoid}h1{font-size:18pt}.fuente{font-size:9pt}}

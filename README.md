@@ -1,54 +1,31 @@
 # Manual interactivo de economía mexicana
 
-B01 está publicado en [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), fork del repositorio de referencia. El [PDF del piloto](https://github.com/margv-1432/papime-crd/blob/main/entregas/pdf/PAPIME-B01-piloto.pdf), las [fuentes editables](https://github.com/margv-1432/papime-crd/tree/main/libro) y el [libro web con sus recursos](https://github.com/margv-1432/papime-crd/tree/main/entregas/web) están disponibles para revisión. La carpeta web se descarga completa para abrirla localmente; todavía no se publica un sitio en GitHub Pages.
-
-Proyecto PAPIME organizado para desarrollar el libro web y su edición en PDF a partir del manuscrito conservado. B01 prepara la arquitectura editorial, las fuentes, las plantillas y un piloto de medición de la especialización. El resultado se revisará antes de comenzar el capítulo I. El estado de compilación y las comprobaciones vigentes se registran en [seguimiento/ESTADO.md](seguimiento/ESTADO.md).
-
-## Revisar el piloto
-
-La entrega web se abre desde [entregas/web/index.html](entregas/web/index.html). Es necesario conservar la carpeta `entregas/web` completa para que funcionen las ecuaciones, los estilos, la navegación y sus recursos. El gráfico permite explorar los mismos datos preparados utilizados por la figura estática.
-
-La versión de lectura e impresión está en [entregas/pdf/PAPIME-B01-piloto.pdf](entregas/pdf/PAPIME-B01-piloto.pdf). El piloto está compilado, verificado y publicado en el fork. Su versión y las comprobaciones se mantienen en el registro de estado.
-
-Si el navegador restringe funciones al abrir archivos locales, se puede servir la entrega desde la raíz del repositorio con Python 3:
-
-```powershell
-python -m http.server 8765 --bind 127.0.0.1 --directory entregas/web
-```
-
-Después se abre [el piloto local](http://127.0.0.1:8765/). El servidor se detiene con `Ctrl+C`. Esta operación solo permite revisar los archivos en la propia computadora; publicar la web tendrá un destino acordado durante la integración del libro.
-
-## Organización
+Proyecto PAPIME. El [fork de trabajo](https://github.com/margv-1432/papime-crd) reúne los capítulos editables, los generadores de las figuras y sus datos. El repositorio `postsocratico/papime-crd` se consulta como antecedente.
 
 | Carpeta | Contenido |
 |---|---|
-| `referencias/` | Manuscrito base y antecedentes conservados. |
-| `libro/` | Capítulos editables en R Markdown, bibliografía común, configuración de bookdown y estilos. |
-| `analisis/` | Preparación de datos, cálculos y comprobaciones por capítulo. |
-| `datos/originales/` | Insumos preservados; su procedencia y unidades se documentan en el manifiesto. |
-| `datos/preparados/` | Derivados reproducibles utilizados por texto y figuras. |
-| `assets/` | Figuras estáticas, interactivos individuales y tablas por capítulo. |
-| `scripts/` | Instalación de dependencias y compilación. |
-| `seguimiento/` | Plan vigente, estado, decisiones, inventario, bibliografía y registros de verificación. |
-| `entregas/` | Copias preparadas para revisar y distribuir. |
+| [`capitulos/`](capitulos/) | Un archivo `.qmd` por capítulo. `index.qmd` es la presentación del libro. |
+| [`plots/`](plots/) | Generadores, plantillas y HTML interactivos, organizados por capítulo. |
+| [`datos/`](datos/) | Bases exclusivas en `capitulo-XX/`, compartidas en `globales/` y fuentes directas en `fuentes/`. |
+| [`estilos/`](estilos/) | CSS del manual, de los capítulos y de sus widgets. |
+| [`bibliografia/`](bibliografia/) | Referencias, matriz de consulta y manuscrito rector. |
+| [`seguimiento/`](seguimiento/) | Planeación vigente, decisiones, registro de figuras y estado. |
 
-Los datos y scripts ya existentes en el repositorio se mantienen como antecedentes de sus respectivos análisis. La conciliación con los insumos locales queda documentada en [el inventario](seguimiento/INVENTARIO.md).
+## Edición conjunta
 
-## Reproducir
+Edita el `.qmd` del capítulo desde una rama del fork y abre un pull request allí. Las citas usan claves de `bibliografia/bibliografia.bib`. Los cambios de una figura se hacen en su generador, plantilla o estilo y se versionan junto con el HTML resultante. Las modificaciones de una base compartida se comprueban en todos sus capítulos consumidores.
 
-El entorno detectado utiliza R 4.6.1, bookdown 0.48 y rmarkdown 2.32, Pandoc incluido en RStudio y XeLaTeX de TinyTeX. Desde la raíz del repositorio:
+Quarto incluye en el libro la presentación, el capítulo I, el fragmento desarrollado de II.2 y las referencias. Los otros `.qmd` reservan el título y el lugar de los capítulos pendientes. Se incorporarán a `_quarto.yml` cuando tengan contenido revisado.
 
-```powershell
-& 'C:\Program Files\R\R-4.6.1\bin\Rscript.exe' scripts/instalar_dependencias.R
-& 'C:\Program Files\R\R-4.6.1\bin\Rscript.exe' scripts/compilar.R todo
+## Compilación web
+
+Instala Quarto, Python 3 y R. En R, ejecuta `source("scripts/instalar.R")` una vez desde la raíz para preparar los paquetes. Si las herramientas no están disponibles por su nombre, puedes indicar sus rutas con `PAPIME_QUARTO`, `PAPIME_RSCRIPT` y, si es necesario, `PAPIME_R_LIBRARY`.
+
+```sh
+python scripts/compilar.py
+python scripts/verificar.py
 ```
 
-También se admiten los modos `web` y `pdf`. La compilación vuelve a preparar los índices y las figuras desde la matriz conservada. Las versiones observadas de los paquetes y la sesión de R se guardan al finalizar. El instalador resuelve paquetes disponibles en CRAN; para repetir una edición debe compararse el entorno resultante con el manifiesto de dependencias guardado, pues el instalador no fija versiones antiguas automáticamente.
+La compilación ejecuta los generadores de widgets antes de renderizar y deja el libro en `web/index.html`. Se reutilizan figuras cuando sus entradas y salidas coinciden con la verificación anterior. `web/` se genera localmente; los HTML individuales sí se versionan en `plots/` y contienen sus datos y estilos para poder abrirlos por separado. Las bases canónicas se consultan en `datos/`. El flujo utiliza datos congelados y entrega únicamente HTML.
 
-La biblioteca `.local/R` pertenece a esta computadora y está excluida de Git. No es necesario distribuirla junto con el libro. Las instrucciones completas, la auditoría independiente y el protocolo para actualizar datos están en [REPRODUCIBILIDAD.md](seguimiento/REPRODUCIBILIDAD.md).
-
-## Continuidad editorial
-
-La ejecución se rige por [el plan de diez bloques](seguimiento/PLAN.md), [las decisiones registradas](seguimiento/DECISIONES.md) y [el estado del proyecto](seguimiento/ESTADO.md). Los originales no se sobrescriben. El piloto conserva VAB de 2024 a precios de 2018, 32 entidades y 21 actividades, con minería petrolera y no petrolera separadas. KSI e ICE se calculan como sumas completas de diferencias absolutas; el IEE corresponde al cociente de localización.
-
-La [matriz bibliográfica](seguimiento/MATRIZ_BIBLIOGRAFICA.csv) distingue fuentes consultadas, pasajes comprobados y lecturas pendientes. El siguiente bloque comenzará después de revisar B01.
+Consulta el [plan](seguimiento/PLAN.md) y el [estado](seguimiento/ESTADO.md) antes de comenzar otro bloque. El historial de Git conserva las versiones y fuentes que salieron del árbol activo durante la reorganización.

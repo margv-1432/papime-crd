@@ -1,0 +1,2 @@
+archivo,capitulos,generadores
+globales/estados-web.json,01;02,plots/capitulo-01/generar_fisico_web.R;plots/capitulo-01/generar_recursos_web.py;plots/capitulo-02/generar_interactivo.R
