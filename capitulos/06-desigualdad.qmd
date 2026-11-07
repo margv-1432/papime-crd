@@ -1,0 +1,7 @@
+---
+body-classes: capitulo-06
+---
+
+# Capítulo VI Desigualdad y diagnóstico territorial {.unnumbered #desigualdad}
+
+<!-- Capítulo reservado. El texto del manuscrito base aún no se ha integrado a esta fuente. Excluido de la edición web hasta su desarrollo y revisión. -->

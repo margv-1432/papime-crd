@@ -1,0 +1,9 @@
+/* Presentación de los recursos territoriales del capítulo I. */
+.capitulo-01 .grafico-interactivo.territorio { min-height: 600px; }
+.capitulo-01 .figura-f01 iframe { height: 940px; }
+.capitulo-01 .figura-f02 iframe { height: 1040px; }
+.capitulo-01 .figura-f03 iframe { height: 1000px; }
+.capitulo-01 .figura-f04 iframe { height: 1420px; }
+.capitulo-01 .figura-f05 iframe { height: 1160px; }
+.capitulo-01 .figura-f06 iframe { height: 1100px; }
+.capitulo-01 table { table-layout: fixed; }

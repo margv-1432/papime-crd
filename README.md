@@ -1,16 +1,31 @@
 # Manual interactivo de economía mexicana
 
-**Repositorio de trabajo y publicación:** [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd), el fork autorizado. Todos los avances, ramas y PR se guardan aquí. El original `postsocratico/papime-crd` es de consulta. Esta instrucción permanece vigente entre conversaciones.
+Proyecto PAPIME. El [fork de trabajo](https://github.com/margv-1432/papime-crd) reúne los capítulos editables, los generadores de las figuras y sus datos. El repositorio `postsocratico/papime-crd` se consulta como antecedente.
 
-B02 desarrolla el capítulo I, «Fundamentos históricos y geográficos del territorio mexicano». La revisión D25–D28 concentra la entrega en el manual web, retira las actividades finales y amplía la exploración de F01–F06 con selección persistente, búsqueda, comparación, consulta de datos y exportación.
+| Carpeta | Contenido |
+|---|---|
+| [`capitulos/`](capitulos/) | Un archivo `.qmd` por capítulo. `index.qmd` es la presentación del libro. |
+| [`plots/`](plots/) | Generadores, plantillas y HTML interactivos, organizados por capítulo. |
+| [`datos/`](datos/) | Bases exclusivas en `capitulo-XX/`, compartidas en `globales/` y fuentes directas en `fuentes/`. |
+| [`estilos/`](estilos/) | CSS del manual, de los capítulos y de sus widgets. |
+| [`bibliografia/`](bibliografia/) | Referencias, matriz de consulta y manuscrito rector. |
+| [`seguimiento/`](seguimiento/) | Planeación vigente, decisiones, registro de figuras y estado. |
 
-- [Manual web](entregas/web/index.html): descargar la carpeta `entregas/web` completa y abrir `index.html`.
-- [Figuras HTML individuales](assets/capitulo-01/interactivos): cada archivo funciona por separado con sus datos incrustados.
-- [Fuente del capítulo](libro/capitulos/01-territorio.Rmd).
-- [Informe de revisión funcional](seguimiento/REVISION_FUNCIONAL_WEB_B02.md), [verificaciones](seguimiento/VERIFICACION_B02.md) y [estado de continuidad](seguimiento/ESTADO.md).
+## Edición conjunta
 
-Desde la raíz, ejecutar `Rscript scripts/compilar.R web`. La [reproducción documentada](seguimiento/REPRODUCIBILIDAD_B02.md) explica dependencias, generadores y comprobaciones. Se utilizan los derivados congelados sin descargar series durante la compilación. Los PDF del manuscrito y de entregas anteriores, las figuras estáticas y los insumos originales permanecen como fuentes y antecedentes conservados.
+Edita el `.qmd` del capítulo desde una rama del fork y abre un pull request allí. Las citas usan claves de `bibliografia/bibliografia.bib`. Los cambios de una figura se hacen en su generador, plantilla o estilo y se versionan junto con el HTML resultante. Las modificaciones de una base compartida se comprueban en todos sus capítulos consumidores.
 
-La [guía editorial](seguimiento/GUIA_EDITORIAL.md), el [plan](seguimiento/PLAN.md) y las [decisiones](seguimiento/DECISIONES.md) rigen la narrativa y el trabajo siguiente. B03 no se ha iniciado.
+Quarto incluye en el libro la presentación, el capítulo I, el fragmento desarrollado de II.2 y las referencias. Los otros `.qmd` reservan el título y el lugar de los capítulos pendientes. Se incorporarán a `_quarto.yml` cuando tengan contenido revisado.
 
-La entrega se mantiene en la rama [b02-capitulo-i](https://github.com/margv-1432/papime-crd/tree/b02-capitulo-i) y el [PR #1 del fork](https://github.com/margv-1432/papime-crd/pull/1). GitHub Pages no está habilitado.
+## Compilación web
+
+Instala Quarto, Python 3 y R. En R, ejecuta `source("scripts/instalar.R")` una vez desde la raíz para preparar los paquetes. Si las herramientas no están disponibles por su nombre, puedes indicar sus rutas con `PAPIME_QUARTO`, `PAPIME_RSCRIPT` y, si es necesario, `PAPIME_R_LIBRARY`.
+
+```sh
+python scripts/compilar.py
+python scripts/verificar.py
+```
+
+La compilación ejecuta los generadores de widgets antes de renderizar y deja el libro en `web/index.html`. Se reutilizan figuras cuando sus entradas y salidas coinciden con la verificación anterior. `web/` se genera localmente; los HTML individuales sí se versionan en `plots/` y contienen sus datos y estilos para poder abrirlos por separado. Las bases canónicas se consultan en `datos/`. El flujo utiliza datos congelados y entrega únicamente HTML.
+
+Consulta el [plan](seguimiento/PLAN.md) y el [estado](seguimiento/ESTADO.md) antes de comenzar otro bloque. El historial de Git conserva las versiones y fuentes que salieron del árbol activo durante la reorganización.

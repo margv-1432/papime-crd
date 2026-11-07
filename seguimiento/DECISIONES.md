@@ -1,5 +1,16 @@
 # Registro de decisiones
 
+## Organización y edición en Quarto. 6 de noviembre de 2026
+
+| ID | Decisión | Alcance |
+|---|---|---|
+| D29 | El libro se edita en Quarto, con un `.qmd` por capítulo y salida HTML. | Sustituye el flujo anterior de Rmd y bookdown. Se conserva el capítulo I y el fragmento de II.2; los capítulos pendientes se incorporan al índice tras su revisión. |
+| D30 | Los generadores, plantillas y HTML se organizan en `plots/capitulo-XX/` y el CSS en `estilos/`. | Quarto ejecuta los generadores antes del render. Se conserva la experiencia de exploración y se verifican sus valores. |
+| D31 | Las bases exclusivas van en `datos/capitulo-XX/` y las compartidas en `datos/globales/`. | F01, F02, F04 y F07 consumen el mismo catálogo territorial. `uso-global.csv` registra los consumidores. Las bases no se duplican al incorporarse a otro capítulo. |
+| D32 | El árbol activo conserva los archivos necesarios. Se retiran scripts Mike, copias de avances, compilaciones viejas y otros insumos sin uso actual. | El historial conserva los antecedentes versionados. El PDF rector se mantiene como fuente. El repositorio original sigue como consulta y las contribuciones se hacen en el fork. |
+
+Los registros anteriores describen la historia del proyecto; D29–D32 sustituyen sus rutas y procedimientos de compilación.
+
 ## Prioridad del manual web y revisión de figuras. 6 de noviembre de 2026
 
 Esta instrucción posterior del autor prevalece sobre las obligaciones prospectivas de PDF y actividades de los registros anteriores. Aquellos registros y sus comprobantes se conservan como historia de lo efectivamente realizado.

@@ -1,0 +1,7 @@
+---
+body-classes: capitulo-04
+---
+
+# Capítulo IV Infraestructura e importancia estratégica del transporte y la energía {.unnumbered #infraestructura}
+
+<!-- Capítulo reservado. El texto del manuscrito base aún no se ha integrado a esta fuente. Excluido de la edición web hasta su desarrollo y revisión. -->

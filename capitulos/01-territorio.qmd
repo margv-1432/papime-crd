@@ -1,0 +1,183 @@
+---
+body-classes: capitulo-01
+---
+
+# Capítulo I Fundamentos históricos y geográficos del territorio mexicano {.unnumbered #territorio}
+
+La minería de plata promovió circuitos de abasto que enlazaban centros productivos con otras poblaciones de la Nueva España. Siglos después, la apertura comercial dio un nuevo peso a la cercanía del mercado estadounidense para ciertas manufacturas. Ambas experiencias muestran cómo la importancia económica de un lugar se forma a través de sus relaciones con otros espacios. Las condiciones geográficas participan en esa historia junto con las decisiones que regulan el acceso a los recursos y la construcción de conexiones. A medida que cambian las fronteras o las formas de propiedad, también se modifican las posibilidades de aprovechar una localización y la distribución de sus ventajas.
+
+## I.1 Evolución territorial de México {.unnumbered #evolucion-territorial}
+
+### I.1.1 Poblamiento y articulación regional {.unnumbered #poblamiento-historico}
+
+Antes de la constitución del Estado mexicano, los espacios que hoy forman el país albergaban sociedades agrícolas con centros urbanos y grupos que combinaban la movilidad con el aprovechamiento de distintos ambientes. Mesoamérica comprendió un ámbito de relaciones culturales y económicas que rebasaba las fronteras actuales y cuya delimitación cambió con el tiempo. Dentro de ese ámbito, los intercambios vinculaban sociedades sujetas a poderes diferentes: la expansión mexica coexistió con otros dominios y con territorios independientes [@escalante2004, sección «Los guerreros de Quetzalcóatl»]. El contorno nacional contemporáneo sirve para ubicar aquellos procesos; su organización política y territorial corresponde, en cambio, a la historia de esas sociedades.
+
+La guerra y las epidemias asociadas a la conquista española alteraron las poblaciones, a la vez que la reorganización del trabajo y del gobierno transformaba sus relaciones. La Nueva España se construyó sobre los asentamientos anteriores y extendió ocupaciones y vínculos hacia otros espacios. Alrededor de la minería de plata se formaron centros productivos y circuitos de abasto, mientras que la ganadería y las manufacturas modificaron los usos del suelo. García Martínez destaca la participación de los pueblos indígenas en la consolidación de los intercambios, mediante actividades comerciales y de transporte [@garcia2004, secciones «El periodo de madurez y autonomía» y «El florecimiento y sus límites»]. En esa articulación colonial, los lugares adquirían posiciones distintas según su participación en la extracción o su función en el abastecimiento y la circulación de productos.
+
+La Ciudad de México concentraba funciones de gobierno e intercambio, pero la intensidad de los vínculos con la capital variaba según la participación de cada lugar en esos circuitos. En su interpretación de la formación regional, Bassols relacionó los recursos y las ciudades con las comunicaciones y la política económica [@bassols1992, pp. 13–14]. Este enfoque vincula la historia de una ruta con las actividades que sostenían su tráfico y con los centros a los que abastecía. Incluso cuando un trayecto permanece, su función se transforma junto con las relaciones productivas que articula.
+
+### I.1.2 Independencia, fronteras y organización federal {.unnumbered #fronteras-federacion}
+
+La independencia de 1821 dejó abiertos el alcance de la soberanía del nuevo país y su organización interna. La separación centroamericana de 1823 modificó su extensión mientras se disputaba la relación entre el poder central y los gobiernos de las provincias heredadas de la monarquía. La Constitución federal de 1824 enumeró los estados y territorios en su artículo 5, dando expresión jurídica a una organización que continuaría modificándose [@vazquez2004; @constitucion1824, art. 5]. La delimitación del país y la adopción de una forma de gobierno siguieron así trayectorias relacionadas, con cambios propios en cada una. Aquella división y la actual tienen composiciones territoriales distintas, de modo que su comparación histórica comienza por identificar las unidades de cada periodo y sus transformaciones.
+
+En el norte, la separación de Texas en 1836 precedió a los profundos cambios de frontera derivados de la guerra entre México y Estados Unidos. El Tratado de Guadalupe Hidalgo, firmado el 2 de febrero de 1848, estableció una nueva delimitación y dispuso la cesión de extensos territorios. A ese proceso siguió el tratado de La Mesilla, cuya firma ocurrió el 30 de diciembre de 1853 y cuya aprobación definitiva se produjo en 1854 [@vazquez2004; @tratado1848, art. V; @mesilla1853].
+
+Para las poblaciones ya asentadas, la nueva frontera modificaba la pertenencia política y los derechos vinculados a una jurisdicción, además de sus relaciones con los centros de decisión. El alcance económico de ese cambio variaba con las posibilidades de cruzarla y comerciar. La delimitación cartográfica registra un cambio de soberanía; conocer su alcance territorial supone, además, reconstruir la ocupación del espacio y el control ejercido sobre él.
+
+En el interior del país, la creación y separación de entidades modificó las escalas de administración y representación. Baja California Sur y Quintana Roo pasaron de territorios federales a estados en 1974; décadas después, la reforma publicada el 29 de enero de 2016 cambió el régimen constitucional del Distrito Federal y su denominación por Ciudad de México [@congresoBCS2017; @reformaCDMX2016]. La estadística del libro mantiene las claves de las 32 entidades, y las denominaciones de los documentos históricos se sitúan en la organización vigente en cada momento.
+
+### I.1.3 Redes, propiedad y transformación productiva {.unnumbered #redes-transformacion}
+
+La expansión ferroviaria de fines del siglo XIX transformó las conexiones del territorio al enlazar zonas de producción con ciudades, puertos y cruces fronterizos. Speckman examina su orientación hacia el intercambio exterior y la ampliación del comercio interno que acompañó a estas líneas, así como las posibilidades de especialización regional abiertas por la reducción de obstáculos al intercambio [@speckman2004, apartado económico]. El carácter selectivo del trazado se reflejaba en los beneficios que cada localidad obtenía de la red, según su posición respecto de los enlaces y las actividades que podían aprovecharlos.
+
+La integración comercial coincidió con conflictos por la tierra y por el control de las condiciones de producción. El artículo 27 de la Constitución de 1917 estableció un fundamento para la intervención pública en la propiedad territorial y los recursos [@constitucion1917original, art. 27]. El paso de la norma a su ejecución involucraba decisiones públicas y capacidades de aplicación, a través de las cuales se concretaban sus efectos sobre lugares y grupos. Junto con el cambio de quienes decidían sobre un recurso, cobraba importancia su capacidad para financiar la producción y acceder al conocimiento técnico o a los compradores necesarios para aprovecharlo.
+
+Durante el siglo XX, la industrialización reforzó grandes concentraciones urbanas y desarrolló otros centros productivos. Al situar esas diferencias en la historia de la acumulación y de la política económica, Bassols elaboró un diagnóstico cuyas magnitudes y caracterizaciones corresponden a los procesos y datos de la edición consultada [@bassols1992, pp. 18–19].
+
+Con la apertura comercial se modificó nuevamente la relación entre localización y mercado. En el reacomodo regional de los años noventa, Ruiz Durán estudió los acuerdos institucionales y la actuación de los agentes locales [@ruiz1999, pp. 13–15]. Posteriormente examinó la formación de una plataforma manufacturera exportadora con encadenamientos internos limitados y una geografía diferenciada de agrupamientos productivos [@ruiz2019, pp. 84 y 90–92].
+
+Para una empresa exportadora, la proximidad a la frontera puede tener un papel decisivo, mientras que una actividad orientada al mercado local se articula con sus compradores bajo otras condiciones. Una inversión que amplía las conexiones de un lugar puede, a su vez, mantener vínculos débiles con los proveedores cercanos. Los efectos territoriales de esa inversión se aprecian en la participación de los agentes y en los lugares donde se concentran sus beneficios y costos.
+
+### I.1.4 Criterios de regionalización {.unnumbered #regionalizacion}
+
+Bassols distinguió las regiones económicas de las agrupaciones de estados completos empleadas con fines de planificación [@bassols1992, p. 490]. La distinción cobra sentido cuando las relaciones productivas atraviesan una jurisdicción o abarcan sólo parte de ella. La unidad administrativa organiza las decisiones públicas dentro de límites establecidos, mientras que la delimitación económica sigue los vínculos que articulan el espacio en el periodo estudiado. La selección de unidades en cada análisis deriva de esa relación entre el fenómeno y su extensión territorial.
+
+Las figuras del capítulo utilizan las unidades de sus fuentes, resumidas en la tabla I.1.1. El contraste entre centro y frontera norte se desarrolla a partir de los procesos manufactureros estudiados por Hanson. Como referencia de localización, la frontera norte comprende Baja California, Sonora, Chihuahua, Coahuila, Nuevo León y Tamaulipas; el centro se examina en relación con la concentración industrial de la Ciudad de México. La comparación conserva las diferencias internas de esos espacios y las unidades de la evidencia consultada. Para el segundo contraste, referido al agua y la población, se emplean las RHA III y XI con su universo estadístico explícito.
+
+[]{#tab-unidades-territoriales}
+
+**Tabla I.1.1 Unidades de lectura territorial**
+
+| Unidad | Uso | Alcance |
+|:--|:--|:--|
+| Provincia fisiográfica | Grandes formas del relieve, F01 | Unidad física con variación interna, distinta de la región económica. |
+| Localidad censal | Asentamientos, F01 | Unidad censal, distinta de la ciudad funcional. |
+| Unidad climática o edafológica | Categorías ambientales, F02 | Conserva escala, fecha y clasificación propias. |
+| Región hidrológico-administrativa | Agua y población, F03 y F05 | Trece unidades; los totales se conservan por RHA, sin redistribución entre estados. |
+| Entidad federativa | Producción registrada, F04 | Cada sector conserva su cobertura y faltantes. |
+
+En las figuras de agua, la cartografía de RHA con referencia 2023 acompaña las cifras con corte 2022 como apoyo de localización. Los valores conservan los totales publicados por región, sin suponer una identidad geométrica exacta entre ambos años ni redistribuirlos mediante intersecciones. Cada nueva agrupación se define por sus integrantes y por la pregunta que orienta su análisis.
+
+## I.2 Geografía y recursos de una geografía desigual {.unnumbered #geografia-recursos}
+
+### I.2.1 Introducción {.unnumbered #introduccion-geografica}
+
+Una misma distancia puede representar costos de transporte muy diferentes cuando el recorrido atraviesa una llanura o una sierra. El terreno interviene en el trazado del camino, pero las obras construidas y sus condiciones de operación también forman parte del viaje. Algo semejante ocurre con el agua destinada a la agricultura: una precipitación abundante favorece ciertos cultivos y dificulta su manejo por anegamiento en otras condiciones. La economía regional estudia estas relaciones entre las características físicas del territorio y las formas de aprovecharlas, atendiendo a las inversiones y a la organización que se han desarrollado en cada lugar.
+
+Ruiz Durán aborda la organización territorial de la producción al cuestionar la imagen de un espacio nacional homogéneo en «Lo territorial como estrategia de cambio», escrito con la colaboración de Francisco Escamilla [@ruiz1997, pp. 433–434]. En su capítulo de 1999, la reorganización regional se vincula con transformaciones institucionales y con las respuestas de los agentes locales. Su planteamiento invita a seguir la formación de capacidades en territorios concretos, donde las decisiones productivas se relacionan con condiciones acumuladas a lo largo del tiempo. La interpretación ambiental que se desarrolla aquí es una síntesis propia, sustentada en fuentes específicas para cada proceso.
+
+Dos contrastes articulan el recorrido: la relación del centro y la frontera norte con los mercados, y las condiciones hídricas de Pacífico Norte y Frontera Sur. Sus escalas responden a las relaciones estudiadas y a la evidencia disponible. Las figuras nacionales los sitúan en una geografía más amplia.
+
+### I.2.2 Relieve y localización {.unnumbered #relieve-localizacion}
+
+Las sierras que bordean el interior del país y el Eje Neovolcánico forman un relieve en el que se alternan terrenos elevados, depresiones y valles. En las llanuras costeras, la circulación y el drenaje encuentran configuraciones diferentes. El INEGI distingue quince provincias fisiográficas para representar estas grandes unidades [@inegi2001fisiografia]. Dentro de una provincia montañosa también hay superficies relativamente llanas y pasos aprovechables; esas variaciones locales cobran importancia al estudiar el emplazamiento de una población o el recorrido de una vía terrestre.
+
+Al proyectar una conexión terrestre, la decisión de acortar el recorrido puede implicar obras costosas o un mantenimiento frecuente para salvar pendientes y obstáculos. La separación en línea recta entre una localidad y una ciudad resulta entonces una referencia inicial, que debe contrastarse con la longitud y las condiciones del camino efectivo. Una ruta sujeta a interrupciones estacionales plantea dificultades de comunicación aun cuando el trayecto sea relativamente corto.
+
+En los valles pueden coincidir suelo urbanizable y rutas de circulación con zonas inundables o terrenos agrícolas cuya conversión tiene costos. La ocupación de esos espacios adquiere una dinámica propia a medida que aumenta la población y se amplía la demanda. Compartir servicios favorece la concentración, y la presencia de trabajadores y compradores atrae a otras empresas. Con esa acumulación de actividades, lugares de características físicas semejantes pueden seguir trayectorias económicas diferentes.
+
+La figura I.2.1 sitúa una selección de localidades junto al relieve y las conexiones terrestres. Utiliza la localidad censal como unidad de población [@inegi2020iter], con un umbral gráfico que hace legible la distribución nacional. Los asentamientos menores que ese umbral quedan fuera de la representación.
+
+<div id="fig-f01" class="figura-interactiva figura-f01">
+<p class="titulo-figura"><strong>Figura I.2.1 Relieve, poblamiento y conexiones de México</strong></p>
+<p class="alternativa"><a href="../plots/capitulo-01/F01-relieve-localizacion.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>
+<iframe class="grafico-interactivo territorio" src="../plots/capitulo-01/F01-relieve-localizacion.html" title="Relieve, localidades seleccionadas y conexiones" loading="eager"></iframe>
+<p class="fuente-figura">Fuente: elaboración propia con INEGI, CEM 3.0, provincias fisiográficas edición 2001, localidades del Censo 2020 y selección de la Red Nacional de Caminos 2025. Elevación en metros sobre el nivel del mar; población en habitantes. Las capas se generalizan para la lectura nacional. El recurso individual detalla resoluciones y criterios de selección.</p>
+</div>
+
+La cercanía de una carretera puede aportar poco a un habitante que carece de transporte de pasajeros o no puede pagar el traslado. Para estudiar su acceso a servicios urbanos habría que establecer a qué ciudades puede viajar y cuánto tiempo necesita para llegar. Aquí radica la diferencia entre conectividad y accesibilidad: la disposición de los enlaces expresa la primera, mientras que la segunda incorpora las oportunidades alcanzables y las restricciones de los usuarios. Geurs y van Wee examinan esta distinción al comparar las medidas del funcionamiento del transporte con evaluaciones más amplias del acceso [@geurs2004].
+
+**Contraste regional 1. Centro y frontera norte.** Las reformas comerciales modificaron la importancia económica de ciertas posiciones dentro del país. Hanson estudió la localización de la manufactura mexicana y la estructura regional de salarios antes y después de esas reformas, relacionando sus patrones con los costos de llegar a los principales mercados [@hanson1997]. Para algunas manufacturas orientadas hacia Estados Unidos, la proximidad a ese mercado adquirió mayor peso. Las ciudades del centro contaban, por su parte, con actividades acumuladas y vínculos productivos que formaban parte de las decisiones de localización.
+
+Las diferencias salariales que Hanson documentó durante los años noventa se asociaban también con el acceso regional al comercio y la inversión [@hanson2003]. El contraste histórico muestra una participación desigual en esos circuitos, que conviene examinar dentro de cada región. Un municipio alejado de los cruces fronterizos y una ciudad industrial cuentan con conexiones y actividades distintas, aunque ambos se encuentren en el norte.
+
+En las costas, las instalaciones portuarias enlazan el transporte marítimo con las vías terrestres que llevan a las áreas de producción y consumo. El costo de llegar al mercado incluye la transferencia de las mercancías en el puerto y el recorrido posterior. La actividad que se desarrolla alrededor de ese movimiento también guarda relación con las compras y los servicios contratados en la región. Por eso, un corredor con mucho tránsito puede sostener pocos vínculos de abastecimiento con las empresas del territorio que atraviesa.
+
+### I.2.3 Climas, agua y suelos {.unnumbered #climas-agua-suelos}
+
+La altitud interviene en las temperaturas, mientras que la orientación de las montañas y la circulación atmosférica contribuyen a distribuir las lluvias. Ambas dimensiones se combinan en la clasificación climática del INEGI, que adapta el sistema de Köppen a las particularidades de México [@inegi2008clima]. Las diferencias de clima adquieren relevancia productiva al relacionarlas con las necesidades de una actividad, como ocurre con el calendario de humedad de un cultivo.
+
+La figura I.2.2 presenta esa distribución climática junto con las fases superficiales del suelo. La edición vectorial de clima de 2008 se elaboró con registros de estaciones comprendidos en 1921–1975, cuya cobertura temporal es heterogénea. En el continuo edafológico de edición 2024, las observaciones corresponden a 2002–2006 [@inegi2024suelos].
+
+<div id="fig-f02" class="figura-interactiva figura-f02">
+<p class="titulo-figura"><strong>Figura I.2.2 Condiciones climáticas y características superficiales del suelo</strong></p>
+<p class="alternativa"><a href="../plots/capitulo-01/F02-clima-suelos.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>
+<iframe class="grafico-interactivo territorio" src="../plots/capitulo-01/F02-clima-suelos.html" title="Climas históricos y fases superficiales del suelo" loading="eager"></iframe>
+<p class="fuente-figura">Fuente: elaboración propia con INEGI, unidades climáticas edición 2008, escala 1:1 000 000; edafología Serie II, edición 2024, escala 1:250 000, observaciones 2002–2006. Cada panel representa la clasificación de su fuente en una rejilla de dibujo de 1.8 km.</p>
+</div>
+
+Dos lugares con precipitación anual semejante ofrecen condiciones agrícolas diferentes si en uno la humedad coincide con el crecimiento del cultivo y en el otro se concentra fuera de ese periodo. El riego introduce cierto control sobre las entregas cuando hay agua disponible y medios para conducirla hasta las parcelas. En ambientes húmedos, el manejo puede orientarse a evacuar el excedente que anega el terreno. El volumen anual de lluvia deja abiertas esas diferencias en su distribución y en las obras necesarias para aprovecharla.
+
+En el suelo, la textura interviene en la retención de agua, y la presencia de piedras o una profundidad limitada por roca afectan de manera diferente las labores agrícolas. Estas propiedades varían incluso dentro de una misma unidad cartográfica y pueden modificarse con el manejo. Para evaluar la aptitud de un terreno se comparan sus características con los requerimientos de un uso definido; la conveniencia económica de realizarlo incorpora, además, los costos correspondientes [@fao1993, paso 5]. La información de un predio y la práctica considerada completan lo que la cartografía nacional muestra de forma general.
+
+Al pasar de la lluvia al aprovechamiento del agua aparecen magnitudes que corresponden a momentos distintos de su circulación. La precipitación expresa el aporte atmosférico y la recarga, su incorporación al acuífero. El agua renovable reúne componentes del balance hídrico y flujos externos; la disponibilidad para nuevos usos incorpora los compromisos y las restricciones existentes, mientras que el volumen autorizado y la extracción efectiva corresponden a registros diferentes [@conagua2024, pp. 23–28, 69 y 143]. En la figura I.2.3 se compara el agua renovable de las trece RHA con corte informativo 2022.
+
+<div id="fig-f03" class="figura-interactiva figura-f03">
+<p class="titulo-figura"><strong>Figura I.2.3 Distribución regional del agua renovable</strong></p>
+<p class="alternativa"><a href="../plots/capitulo-01/F03-agua-renovable.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>
+<iframe class="grafico-interactivo territorio" src="../plots/capitulo-01/F03-agua-renovable.html" title="Agua renovable por región hidrológico-administrativa" loading="eager"></iframe>
+<p class="fuente-figura">Fuente: elaboración propia con CONAGUA, Estadísticas del agua en México 2023, publicada en 2024, tabla 1.5.2, p. 16, corte 2022; cartografía SEMARNAT de RHA, referencia 2023. El área de los símbolos representa el volumen regional de recursos medios, expresado en hm³/año.</p>
+</div>
+
+Entre ese volumen regional y el agua utilizada por un hogar o una parcela median la captación y el transporte. Un recurso presente puede resultar costoso de conducir o tener una calidad inadecuada para el uso previsto. En el abastecimiento doméstico importa conocer la continuidad del servicio, mientras que el riego debe ajustarse a la oportunidad de las entregas. Estas condiciones de acceso se estudian siguiendo el recorrido hasta los usuarios y complementan la relación agregada entre volumen y habitantes.
+
+**Contraste regional 2. Pacífico Norte y Frontera Sur.** CONAGUA registra 26,630 hm³/año en la RHA III, Pacífico Norte, y 158,021 en la XI, Frontera Sur. Las poblaciones de referencia son 4.79 y 8.26 millones, respectivamente, de acuerdo con las proyecciones de mitad de 2022 que acompañan los valores de recursos medios en la publicación [@conagua2024, tablas 1.5.2 y 2.2.2].
+
+Dentro de ambas RHA, la diversidad del relieve da lugar a condiciones hidrológicas distintas. Pacífico Norte reúne territorios serranos y valles costeros; Frontera Sur comprende relieves altos y planicies. En los valles irrigados, el almacenamiento y la conducción ordenan las entregas conforme a los calendarios agrícolas, mientras que en algunas planicies húmedas cobra importancia el drenaje. La comparación de volúmenes medios debe acompañarse del estudio de esas obras y de la exposición local a sequías o inundaciones para explicar los resultados productivos.
+
+El manejo agrícola también transforma las condiciones que encuentra. En terrenos donde el suelo y el drenaje favorecen la acumulación de sales, el funcionamiento del riego queda ligado al control de ese proceso. En una ladera, retirar la cobertura sin medidas adecuadas facilita la erosión y puede afectar áreas aguas abajo. La duración de una mejora de rendimiento debe examinarse junto con esas transformaciones, del mismo modo que el ahorro inicial de ocupar una planicie inundable se relaciona con las pérdidas que pueden ocurrir después.
+
+### I.2.4 Recursos naturales y aprovechamiento regional {.unnumbered #recursos-aprovechamiento}
+
+La distribución de los depósitos minerales tiene un origen geológico, pero su aprovechamiento supone inversiones y conocimientos para evaluar la extracción y sus costos ambientales. Por eso, registrar una ocurrencia mineral y estimar una reserva son operaciones distintas: la primera señala presencia, mientras que la segunda evalúa una parte recuperable bajo condiciones técnicas y económicas.
+
+En Sonora, el Servicio Geológico Mexicano reporta una producción preliminar de cobre de 550,597.50 toneladas en 2023, con un desglose municipal en el que destacan Cananea y Nacozari de García [@sgm2024, pp. 115 y 297]. El volumen extraído sitúa la importancia de esa actividad en la entidad. Su contribución regional se prolonga en el destino de la producción y en los procesos de transformación posteriores, que pueden realizarse en otros lugares.
+
+Una operación que contrata mantenimiento cerca y compra sus equipos en otras regiones establece vínculos de alcance diferente con sus proveedores. Algo semejante ocurre con los ingresos: los salarios y las remuneraciones de los propietarios llegan a receptores cuya residencia importa para estudiar la permanencia de los beneficios en el territorio. La producción estatal debe relacionarse con esas compras y esos ingresos para explicar su articulación con la economía local.
+
+En el ámbito forestal, el aprovechamiento se relaciona con las comunidades vegetales presentes y con las características de su arbolado. La Serie VII de uso del suelo y vegetación representa la cobertura mediante imágenes de 2018 [@inegi2021usv]; el estudio de las existencias de madera y de su extracción sostenida incorpora información sobre ese arbolado. La figura I.2.4 reúne la cobertura y los registros de producción estatal en paneles con unidades y universos propios.
+
+<div id="fig-f04" class="figura-interactiva figura-f04">
+<p class="titulo-figura"><strong>Figura I.2.4 Cobertura vegetal y aprovechamientos regionales registrados</strong></p>
+<p class="alternativa"><a href="../plots/capitulo-01/F04-recursos.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>
+<iframe class="grafico-interactivo territorio" src="../plots/capitulo-01/F04-recursos.html" title="Cobertura vegetal, cobre, madera y producción pesquera" loading="eager"></iframe>
+<p class="fuente-figura">Fuente: elaboración propia con INEGI, uso del suelo y vegetación Serie VII, referencia 2018; SGM, cobre preliminar 2023, en toneladas de metal; SEMARNAT, producción maderable 2023, en m³ de madera en rollo; CONAPESCA, producción pesquera y acuícola 2023, en toneladas en peso vivo. La acuacultura forma parte del total sectorial. Las tablas distinguen los guiones publicados y las ausencias de fila del cero observado.</p>
+</div>
+
+Los registros forestales distinguen especies y productos e incluyen autorizaciones de plantaciones forestales comerciales [@semarnat2026madera]. Esta procedencia de la madera importa al estudiar la presión sobre el bosque nativo, cuyo aprovechamiento debe relacionarse con sus existencias y sus incrementos. Una comparación entre superficie cubierta y producción total reúne, en cambio, universos que sólo pueden vincularse después de precisar el origen de la extracción.
+
+Bray y sus coautores documentaron experiencias mexicanas de empresas forestales comunitarias que vinculan producción y conservación [@bray2003, pp. 672–676]. La diversidad de esas experiencias se observa también en la Sierra Norte de Oaxaca, donde Gasca estudió formas de gestión con distintas capacidades para integrar la cadena de la madera. Ixtlán y Pueblos Mancomunados habían incorporado la fabricación de muebles y ampliado con ello su participación en la transformación del recurso [@gasca2014, p. 101].
+
+La administración y la reinversión son parte de los acuerdos mediante los cuales la propiedad colectiva se traduce en ingresos para sus integrantes y en conservación de capacidades productivas [@gasca2014, pp. 106–111]. Los titulares del recurso intervienen así en las decisiones de aprovechamiento y en las actividades posteriores a la extracción. Las formas concretas de esa intervención explican parte de las diferencias entre las comunidades estudiadas.
+
+Las especies pesqueras siguen ciclos y ocupan hábitats que pueden extenderse a través de varias jurisdicciones. A ello se añade la separación entre el sitio de captura y el lugar al que se atribuye la producción. CONAPESCA publica registros por entidad, con una distinción entre peso vivo y peso desembarcado e información específica de acuacultura [@conapesca2023, cuadros 2.1.5 y 2.3.3]. La producción cultivada ya forma parte del total sectorial; sumarla otra vez duplicaría ese volumen.
+
+En trece sectores costeros de Baja California y el golfo de California, Aburto-Oropeza y sus coautores encontraron una asociación positiva entre manglares y desembarques de determinadas pesquerías artesanales, con registros de 2001–2005 [@aburto2008, pp. 10456–10458]. Los hábitats que sostienen parte del ciclo de las especies aprovechadas vinculan así la conservación con la actividad pesquera. Transformarlos puede repercutir sobre ingresos obtenidos fuera del sitio intervenido.
+
+### I.2.5 Cierre integrador {.unnumbered #cierre-geografico}
+
+El volumen de un recurso y el resultado económico de aprovecharlo corresponden a momentos distintos de un proceso territorial. Entre ambos se encuentran las condiciones de acceso y las decisiones productivas examinadas en esta sección. La comparación del agua renovable con la población ofrece una última aproximación a ese problema, al poner en relación dos distribuciones que sólo explican una parte de las condiciones de uso.
+
+En la figura I.2.5 se utiliza la tabla de F03. Cada participación resulta de dividir el volumen o la población de una RHA entre la suma respectiva de las trece regiones y multiplicar el cociente por cien. Los denominadores son 461,640 hm³/año y 129.35 millones de habitantes, con sumas verificadas antes del redondeo. La población corresponde al corte hídrico, una referencia diferente de la del Censo 2020 o de las proyecciones posteriores.
+
+<div id="fig-f05" class="figura-interactiva figura-f05">
+<p class="titulo-figura"><strong>Figura I.2.5 Participaciones nacionales de agua renovable y población</strong></p>
+<p class="alternativa"><a href="../plots/capitulo-01/F05-agua-poblacion.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>
+<iframe class="grafico-interactivo territorio" src="../plots/capitulo-01/F05-agua-poblacion.html" title="Comparación de agua renovable y población por RHA" loading="eager"></iframe>
+<p class="fuente-figura">Fuente: elaboración propia con CONAGUA, Estadísticas del agua en México 2023, publicada en 2024, tabla 1.5.2, p. 16, corte 2022. Los porcentajes se calculan sobre las sumas de las trece RHA: 461 640 hm³/año y 129.35 millones de habitantes. Se utiliza la proyección demográfica de mitad de 2022 de esa edición. Las diferencias entre participaciones se expresan en puntos porcentuales.</p>
+</div>
+
+Frontera Sur concentra aproximadamente 34.2 % del agua renovable y 6.4 % de la población de ese universo. En Pacífico Norte las participaciones son 5.8 % y 3.7 %, respectivamente. La separación entre ambas distribuciones deja abierta la cuestión de la demanda, en la que intervienen las actividades y sus tecnologías además de los habitantes. Para estudiar el estrés hídrico y la eficiencia hay que conocer esos usos, mientras que los déficits de servicio remiten a las condiciones del abastecimiento.
+
+La ciudad que recibe agua y alimentos de otros territorios participa en relaciones que atraviesan los límites regionales. Lo mismo ocurre con los materiales extraídos para transformarse en otro lugar: el ingreso puede generarse lejos de los sitios donde se acumulan los costos. La conservación de un ecosistema también alcanza a usuarios situados fuera de sus límites, como se observa en las pesquerías estudiadas. Estas conexiones orientan la elección de la unidad de análisis y el acercamiento a las diferencias locales que un promedio puede ocultar.
+
+En la figura I.2.6, el paso de las condiciones geográficas al aprovechamiento se articula mediante el acceso efectivo. La infraestructura y la tecnología se relacionan allí con la organización territorial que estudia Ruiz Durán; la distribución de ingresos y las transformaciones de los recursos remiten a los procesos documentados por las fuentes ambientales y sectoriales. El esquema es una síntesis propia de esas relaciones.
+
+<div id="fig-f06" class="figura-interactiva figura-f06">
+<p class="titulo-figura"><strong>Figura I.2.6 Mecanismos territoriales del aprovechamiento y sus resultados</strong></p>
+<p class="alternativa"><a href="../plots/capitulo-01/F06-mecanismos-territoriales.html" target="_blank" rel="noopener">Abrir el explorador y sus datos en una ventana completa</a></p>
+<iframe class="grafico-interactivo territorio" src="../plots/capitulo-01/F06-mecanismos-territoriales.html" title="Esquema interpretativo de mecanismos territoriales" loading="eager"></iframe>
+<p class="fuente-figura">Fuente: síntesis interpretativa propia del argumento y las referencias del capítulo. Las flechas proponen relaciones para el análisis territorial; cada una remite a su referencia de apoyo en el recurso individual.</p>
+</div>
+
+Las diferencias de capacidad entre las regiones se forman históricamente en las conexiones y en los acuerdos que regulan el aprovechamiento. La distribución del ingreso y la continuidad de las actividades deben examinarse dentro de esas trayectorias. El capítulo II retoma el problema desde la estructura productiva, al estudiar la concentración de actividades y las diferencias entre las economías estatales.

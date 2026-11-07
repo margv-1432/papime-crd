@@ -1,3 +1,0 @@
-"Leyendas."
-"C1","Precios F.O.B"
-"C2","Total por actividad a precios básicos"

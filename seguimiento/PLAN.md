@@ -2,16 +2,16 @@
 
 **Destino vigente de publicación, reafirmado por el autor el 6 de noviembre de 2026.** Todos los bloques se guardan en el fork [margv-1432/papime-crd](https://github.com/margv-1432/papime-crd). `postsocratico/papime-crd` es exclusivamente un antecedente y repositorio de consulta. No publicar cambios ni abrir PR hacia el original. Esta instrucción se mantiene entre conversaciones. Consultar `ESTADO.md` para identificar la rama y entrega vigentes dentro del fork.
 
-Versión revisada el 6 de noviembre de 2026 para concentrar el desarrollo en el manual web y reforzar la interactividad. B01 aceptado; la revisión funcional de B02 retira las actividades, adapta la compilación a HTML y dinamiza F01–F06. Sus resultados y comprobaciones están en `seguimiento/REVISION_FUNCIONAL_WEB_B02.md`. Las entregas anteriores se conservan como antecedentes. B03 no iniciado; el estado mantenido se encuentra en `seguimiento/ESTADO.md`.
+Versión vigente en Quarto. B01 y B02 web se conservan; B03 continúa pendiente. El estado mantenido está en `seguimiento/ESTADO.md`.
 
-El documento rector es `PAPIME Libro.pdf`, ubicado en la carpeta principal del proyecto. Los resúmenes de PAPIME_Mx y los materiales anteriores sirven como antecedentes. El repositorio de referencia es [postsocratico/papime-crd](https://github.com/postsocratico/papime-crd). La revisión de esta planeación corresponde a su rama main, commit `458257c3d7b69602560cbcaeb89fd0980297ad6b`.
+El documento rector se conserva en `bibliografia/manuscrito-base.pdf`. Los resúmenes de PAPIME_Mx y los materiales anteriores sirven como antecedentes. El repositorio de referencia es [postsocratico/papime-crd](https://github.com/postsocratico/papime-crd). La revisión de esta planeación corresponde a su rama main, commit `458257c3d7b69602560cbcaeb89fd0980297ad6b`.
 
 El trabajo se organiza en diez bloques amplios: preparación, un bloque por cada capítulo e integración final. El usuario encarga el bloque y el asistente coordina sus tareas internas hasta obtener un resultado completo y revisable. El alcance de cada bloque se mantiene a través de las sesiones que necesite.
 
 ## Resultado previsto
 
-- Un libro web integrado en bookdown, con lectura continua y una presentación basada en el PDF actual.
-- Los capítulos editables en R Markdown, acompañados por una bibliografía común y referencias cruzadas consistentes.
+- Un libro web integrado en Quarto, con lectura continua y una presentación basada en el PDF actual.
+- Los capítulos editables en Quarto Markdown (`.qmd`), acompañados por una bibliografía común y referencias cruzadas consistentes.
 - Las figuras interactivas como HTML individuales portátiles e integradas en el libro.
 - Los componentes conservados por separado, incluidos scripts, datos preparados y tablas verificadas.
 
@@ -68,7 +68,7 @@ Las actividades de cada bloque se ejecutan como un conjunto. Se enlazan la inves
 
 **Alcance.** Conciliar el inventario local y el repositorio, identificar la versión vigente y registrar insumos faltantes. Establecer la copia local de trabajo y las carpetas del proyecto, preservando los originales. Resolver la arquitectura editorial y la numeración de apartados, junto con la guía de redacción y la matriz bibliográfica inicial.
 
-Construir el esqueleto de bookdown y su plantilla editorial basada en el PDF. Definir el sistema común de gráficos y probar ambas plantillas con el fragmento de especialización existente, incluyendo citas, ecuaciones y un gráfico con selección persistente y consulta de datos. Documentar la compilación y las dependencias necesarias.
+Construir el esqueleto de Quarto y su plantilla editorial basada en el PDF. Definir el sistema común de gráficos y probar ambas plantillas con el fragmento de especialización existente, incluyendo citas, ecuaciones y un gráfico con selección persistente y consulta de datos. Documentar la compilación y las dependencias necesarias.
 
 **Entregable.** Proyecto organizado y reproducible, con un piloto web navegable. El piloto permitirá revisar la identidad visual y la lectura antes de extenderlas al libro. La matriz bibliográfica orientará la investigación posterior, que se profundizará dentro de cada capítulo.
 
@@ -80,7 +80,7 @@ Construir el esqueleto de bookdown y su plantilla editorial basada en el PDF. De
 
 Completar y reforzar la interactividad de F01–F06. Verificar relieve y localización, clasificaciones de clima y suelo, los recursos y sus paneles, así como las comparaciones de agua y población. Preparar conjuntamente los datos compartidos de F03 y F05 y resolver el esquema integrador F06. Revisar cada figura existente para permitir selección persistente por clic o toque, controles pertinentes a su unidad, comparación y consulta coordinada de datos. Las 32 entidades se podrán seleccionar cuando exista información estatal; F03/F05 conservarán las regiones hidrológico-administrativas y F06 explorará nodos y relaciones documentados. Retirar las actividades finales del capítulo, sus consignas y sus referencias en navegación y texto.
 
-**Entregable.** Capítulo I completo en R Markdown e integrado al libro web, sin actividades finales, con F01–F06 mejoradas y sus HTML individuales portátiles. Bibliografía y datos verificados.
+**Entregable.** Capítulo I completo en Quarto Markdown (`.qmd`) e integrado al libro web, sin actividades finales, con F01–F06 mejoradas y sus HTML individuales portátiles. Bibliografía y datos verificados.
 
 **Cierre.** La historia territorial y la explicación geográfica forman un argumento continuo. Las figuras coinciden con los datos y la prosa; sus coberturas y clasificaciones son explícitas.
 
@@ -168,7 +168,7 @@ Los títulos de los ocho capítulos proceden del PDF actual. Los apartados todav
 
 ## Orden de avance y autonomía
 
-La secuencia ordinaria es B01, los capítulos I–VIII y B10. La siguiente ejecución revisará primero B02 para retirar las actividades y reforzar F01–F06; B03 partirá de esa edición web. Cada capítulo se incorpora al libro conforme se completa. El piloto de B01 se reutiliza al elaborar B03, los datos del sector externo se coordinan con B05 y el diagnóstico de B07 alimenta B08.
+La secuencia ordinaria es B01, los capítulos I–VIII y B10. La edición web corregida de B02 es la base de B03. La migración a Quarto conserva el alcance y la interacción ya comprobados. Cada capítulo se incorpora al libro conforme se completa. El piloto de B01 se reutiliza al elaborar B03, los datos del sector externo se coordinan con B05 y el diagnóstico de B07 alimenta B08.
 
 La solicitud de comenzar un bloque autoriza a avanzar sobre todas las tareas comprendidas en él y a resolver las decisiones ordinarias conforme a los acuerdos editoriales vigentes. El asistente coordinará los pasos internos y continuará mientras pueda producir un avance sustancial verificable. Solo consultará cuando sea indispensable una decisión del autor que cambie el contenido, el método o el alcance, y continuará el trabajo independiente mientras espera.
 
@@ -176,49 +176,18 @@ Cada bloque puede abarcar varias sesiones. La sesión se organizará alrededor d
 
 Al terminar un bloque se entregará su resultado para revisión y se indicará el siguiente. El cambio al siguiente bloque dependerá del alcance de la instrucción del usuario. Si una instrucción ya comprende varios bloques, se avanzará dentro de ese alcance sin pedir una nueva autorización para cada operación.
 
-## Organización de los archivos
+## Organización de los archivos y edición conjunta
 
-B01 incorporará este plan al repositorio como `seguimiento/PLAN.md`, que será la versión mantenida durante la ejecución. La copia local prevista estará en `C:\Users\marce\Downloads\PAPIME\papime-crd`, salvo que al inventariar se identifique una copia existente adecuada.
+La copia de trabajo está en `C:/Users/marce/Downloads/PAPIME/papime-crd`. El [README](../README.md) explica la compilación y las contribuciones mediante ramas y pull requests del fork.
 
-```text
-papime-crd/
-  referencias/
-    manuscrito-base/
-    antecedentes/
-  libro/
-    index.Rmd
-    _bookdown.yml
-    _output.yml
-    capitulos/
-    bibliografia.bib
-    estilos/
-  analisis/
-    capitulo-01/ ... capitulo-08/
-  datos/
-    originales/
-    preparados/
-      capitulo-01/ ... capitulo-08/
-    manifiesto.csv
-  assets/
-    capitulo-01/ ... capitulo-08/
-      figuras-estaticas/  (recursos existentes o respaldo web puntual)
-      interactivos/
-      tablas/
-  seguimiento/
-    PLAN.md
-    ESTADO.md
-    DECISIONES.md
-    registro-figuras.csv
-    sesiones/
-  entregas/
-    capitulos/
-    web/
-    pdf/  (archivo histórico; fuera de las entregas vigentes)
-```
+- `capitulos/`: un `.qmd` editable por capítulo; `_quarto.yml` determina qué se incorpora al libro.
+- `plots/capitulo-XX/`: generadores, plantillas y HTML de los widgets.
+- `datos/capitulo-XX/`: bases que utiliza exclusivamente ese capítulo. `datos/globales/`: bases con consumidores en varios capítulos, registrados en `datos/uso-global.csv`. `datos/fuentes/`: entradas directas de cálculos reproducibles.
+- `estilos/`: CSS común, CSS de cada capítulo y estilos de los widgets.
+- `bibliografia/`: bibliografía, matriz de consulta y PDF rector.
+- `seguimiento/`: plan, estado, decisiones y registro de figuras. `scripts/`: preparación del entorno, compilación y verificación.
 
-Los originales se conservarán íntegros. Los datos compartidos tendrán una ubicación común con procedencia documentada; los derivados se identificarán por capítulo. Los archivos grandes tendrán un mecanismo de conservación y distribución adecuado a su tamaño. Se registrarán las dependencias y se separará la configuración local de los archivos publicados.
-
-Cada figura conservará un identificador estable que vincule su fuente, cálculo y ubicación editorial con su HTML y su tabla de datos. Las salidas estáticas ya existentes se conservan como antecedentes y no son un requisito de las nuevas entregas. Los HTML individuales incluirán las dependencias necesarias o indicarán claramente la carpeta que los acompaña.
+Cuando una base pasa a ser compartida, se mueve a `datos/globales/` y se modifican todos sus consumidores en el mismo cambio. El manifiesto identifica cada fuente una sola vez. Los generadores toman sus entradas de esas rutas y los HTML incorporan los datos necesarios para su consulta autónoma. Quarto ejecuta los generadores antes de renderizar. `web/` contiene la salida local derivada; el árbol versionado conserva fuentes y widgets.
 
 ## Cierre de sesiones y capítulos
 

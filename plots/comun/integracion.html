@@ -1,0 +1,13 @@
+<script>
+window.addEventListener('message', (event) => {
+  if (event.data?.type !== 'papime:resize') return;
+  const height = Number(event.data.height);
+  if (!Number.isFinite(height) || height < 200 || height > 50000) return;
+  document.querySelectorAll('iframe.grafico-interactivo').forEach((frame) => {
+    if (frame.contentWindow === event.source && Math.abs(frame.getBoundingClientRect().height - height) > 3) {
+      frame.style.height = `${Math.ceil(height + 4)}px`;
+      frame.dataset.alturaAjustada = 'true';
+    }
+  });
+});
+</script>

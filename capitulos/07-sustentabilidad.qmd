@@ -1,0 +1,7 @@
+---
+body-classes: capitulo-07
+---
+
+# Capítulo VII Política Pública y Sustentabilidad {.unnumbered #sustentabilidad}
+
+<!-- Capítulo reservado. El texto del manuscrito base aún no se ha integrado a esta fuente. Excluido de la edición web hasta su desarrollo y revisión. -->

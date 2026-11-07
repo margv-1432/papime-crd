@@ -1,0 +1,5 @@
+/* Presentación de los índices de especialización del capítulo II. */
+.capitulo-02 .figura-f07 iframe { height: 1480px; }
+@media (max-width: 600px) {
+  .capitulo-02 .figura-f07 iframe { height: 1550px; }
+}

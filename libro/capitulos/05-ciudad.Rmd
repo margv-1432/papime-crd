@@ -1,1 +1,0 @@
-<!-- Archivo reservado. Fuera de la compilación B01. Desarrollar únicamente al encargar su bloque y reutilizar plantillas/capitulo.Rmd. -->

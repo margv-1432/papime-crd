@@ -1,6 +1,6 @@
 # Guía editorial y sistema común de figuras
 
-La composición del libro parte del PDF rector de 64 páginas y de la plantilla verificada en B01. La revisión del 6 de noviembre de 2026 establece como prioridad editorial la naturalidad de la narrativa, junto con el rigor académico y el propósito didáctico del manual. Este acuerdo se aplica al texto existente, a los recursos y a los capítulos por desarrollar.
+La composición del libro en Quarto parte del PDF rector de 64 páginas y de la plantilla verificada en B01. La revisión del 6 de noviembre de 2026 establece como prioridad editorial la naturalidad de la narrativa, junto con el rigor académico y el propósito didáctico del manual. Este acuerdo se aplica al texto existente, a los recursos y a los capítulos por desarrollar.
 
 ## Alcance vigente de la edición web
 
@@ -71,7 +71,7 @@ Cada figura interactiva consume datos preparados y cuenta con identificador esta
 - Las vistas de una misma figura se coordinan: mapa o gráfico, tabla y detalle responden a la misma selección. Los valores exportados corresponden a lo mostrado, con unidades, periodo y cobertura identificados.
 - Los filtros visuales conservan los denominadores y las referencias de los indicadores. Seleccionar sectores no recorta la matriz de insumo-producto para recalcular multiplicadores. Una referencia analítica diferente requiere un cambio metodológico explícito.
 - Los controles se comprueban con teclado y dispositivos táctiles, con contraste suficiente, nombres visibles y disposición legible en pantalla pequeña. Las capas y leyendas pueden controlarse cuando ello ayuda a explorar un mapa.
-- F01–F06 se revisan con estos criterios. F03/F05 conservan los datos por RHA y F06 explora nodos y relaciones conceptuales; se evita atribuirles desagregaciones o cifras inexistentes. La conservación de cortes y fuentes acompaña la mejora de su interfaz.
+- F01–F06 conservan las interacciones implementadas con estos criterios. F03/F05 conservan los datos por RHA y F06 explora nodos y relaciones conceptuales; se evita atribuirles desagregaciones o cifras inexistentes. La conservación de cortes y fuentes acompaña la mejora de su interfaz.
 
 La familia cromática de especialización se conserva. El mapa de calor muestra la matriz completa 32 × 21, sin números dentro de las celdas. El mapa de calor y los mapas de IEE comparten un degradado continuo de azul a rojo oscuro y una barra horizontal inferior. La transformación del color es `log(1 + IEE)`; las etiquetas de la barra muestran el índice original. La unidad nacional recibe un tono claro. Los ceros conservan el extremo azul.
 

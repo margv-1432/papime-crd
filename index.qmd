@@ -1,0 +1,7 @@
+# Presentación {.unnumbered #presentacion}
+
+Para comprender la distribución de las actividades económicas en México conviene volver sobre la formación de sus regiones: cómo se poblaron, de qué manera se conectaron y bajo qué condiciones se han aprovechado sus recursos. El capítulo I recorre esa historia y examina los contrastes geográficos del país a partir de problemas concretos, entre ellos el acceso a los mercados y la relación entre agua y población. Los mapas y gráficos acompañan la explicación; al recorrerlos es posible detenerse en un lugar, contrastarlo con otros y consultar los datos que sostienen la comparación.
+
+El recorrido continúa con la [medición de la especialización, en el capítulo II](capitulos/02-estructura-productiva.qmd#medicion), donde se trabaja con una matriz de actividad económica de 2024 a precios de 2018. Las [referencias](capitulos/referencias.qmd#referencias) reúnen las obras y fuentes utilizadas en ambos textos.
+
+En los exploradores, la selección de lugares y categorías enlaza los mapas y gráficos con sus tablas y notas, de manera que cada comparación puede seguirse hasta los datos que la sostienen. A lo largo del recorrido se precisan las fechas y escalas pertinentes para situar la evidencia y reconocer qué información adicional haría falta al estudiar otra localidad o periodo.

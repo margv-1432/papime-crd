@@ -1,19 +1,9 @@
 * text=auto eol=lf
-*.R text eol=lf
-*.Rmd text eol=lf
-*.md text eol=lf
-*.yml text eol=lf
+*.qmd text eol=lf
 *.csv -text whitespace=cr-at-eol
-*.py text eol=lf
-*.json text eol=lf
-*.js text eol=lf
-*.css text eol=lf
+datos/** -text -whitespace
+*.gpkg binary
+*.tif binary
 *.pdf binary
 *.png binary
-*.xlsx binary
-*.docx binary
-datos/originales/** -text
-datos/preparados/capitulo-01/** -text -whitespace
-referencias/** -text -whitespace
-datos/originales/** -whitespace
-entregas/web/** -whitespace
+plots/capitulo-*/F*.html text eol=lf -whitespace
